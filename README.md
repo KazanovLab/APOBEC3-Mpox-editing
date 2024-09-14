@@ -5,7 +5,6 @@ Original file with APOBEC3 sites is located in supplementary materials hmpxv-apo
 
 APOBEC3_sites.ipynb contains transformation of original dataframe with APOBEC3 sites, programs for searching amino acids in these positions and potential target sites for APOBEC in MPOX genome. Received tables are saved in data/article_pos_aa_edited.csv and data/APOBEC_targets_aa.csv
 
+We built the barplot data/APOBEC_targets_plus_observed.png using R (R_barplot.Rmd).
 
-Barplot data/APOBEC_targets_plus_observed.png was received using R (R_barplot.Rmd).
-
-Than we calculated the Grantham score for hypothetical amino acid changes (grantham_score.R). The plot data/observed_mutated_aa_plot.png was received using observed_mutated_aa_plot.py
+Than we calculated the Grantham score for hypothetical amino acid changes (grantham_score.R) and built the plot data/observed_mutated_aa_plot.png using the program observed_mutated_aa_plot.py
