@@ -121,7 +121,7 @@ NC_063383.1	182189	G	A	3	TCG	S	TCA	S	synonymous
 NC_063383.1	182189	G	A	3	TCG	S	TCA	S	synonymous
 NC_063383.1	95871	G	A	1	GAA	E	AAA	K	nonsynonymous
 NC_063383.1	98456	G	A	2	GGA	G	GAA	E	nonsynonymous
-NC_063383.1	98456	G	A	2	GGA	G	GAA	E	nonsynonymous
+NC_063383.1	98456	G	A	2	AGA	R	AAA	K	nonsynonymous
 NC_063383.1	155585	G	A	-	-	-	-	-	intergenic
 NC_063383.1	157353	G	A	-	-	-	-	-	intergenic
 NC_063383.1	56365	G	A	2	TCT	S	TTT	F	nonsynonymous

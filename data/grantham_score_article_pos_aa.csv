@@ -100,7 +100,7 @@
 "NC_063383.1",182189,"G","A","3","TCG","=","TCA","=","synonymous",0,"synonymous","#5F797B"
 "NC_063383.1",95871,"G","A","1","GAA","E","AAA","K","nonsynonymous",0,"conservative","#F2CC8F"
 "NC_063383.1",98456,"G","A","2","GGA","G","GAA","E","nonsynonymous",98,"moderately conservative","#C6878F"
-"NC_063383.1",98456,"G","A","2","GGA","G","GAA","E","nonsynonymous",98,"moderately conservative","#C6878F"
+"NC_063383.1",98456,"G","A","2","AGA","R","AAA","K","nonsynonymous",26,"conservative","#F2CC8F"
 "NC_063383.1",56365,"G","A","2","TCT","S","TTT","F","nonsynonymous",155,"radical","#E07A5F"
 "NC_063383.1",71796,"G","A","1","GAT","D","AAT","N","nonsynonymous",0,"conservative","#F2CC8F"
 "NC_063383.1",23359,"G","A","1","CTT","L","TTT","F","nonsynonymous",22,"conservative","#F2CC8F"
