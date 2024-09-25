@@ -17,7 +17,7 @@ file1 <- c("data/article_pos_aa_edited.csv")
 file2 <- c("data/APOBEC_targets_aa.csv")
 df1 <- read.csv(file1, sep = "\t", header = TRUE)
 df2 <- read.csv(file2, sep = "\t", header = TRUE)
-df1 <- df1 %>% mutate(type = "Observed APOBEC3-like")
+df1 <- df1 %>% mutate(type = "APOBEC3-like mutations")
 df2 <- df2 %>% mutate(type = "TC or GA target site")
 
 targets_cnt <- nrow(df2)
@@ -30,10 +30,11 @@ print("Number of observed APOBEC3-like sites: ")
 print(muts_cnt)
 
 df <- rbind(df1,df2)
+df$type <- factor(df$type, levels=c("TC or GA target site","APOBEC3-like mutations"))
 df_grouped <- df %>% group_by(mutation_category, type) %>% summarise(number = n())
 df_grouped <- df_grouped %>% mutate(share = case_when(
   type == "TC or GA target site" ~ number/targets_cnt,
-  type == "Observed APOBEC3-like" ~ number/muts_cnt,
+  type == "APOBEC3-like mutations" ~ number/muts_cnt,
 ))
 df_grouped
 
