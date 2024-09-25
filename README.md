@@ -1,5 +1,5 @@
-# Mutation category correction in O'Toole et al., Science, 382, 2023
-(DOI: 10.1126/science.adg8116)
+# Mutation category correction in O'Toole et al., Science, 382, 2023 (DOI: 10.1126/science.adg8116)
+
 
 Original file with APOBEC3 sites is located in supplementary materials hmpxv-apobec3-dd7a582/data/B.1/B.1_2022-08-22.og.aln.pruned.tree.amino_acid.reconstruction.csv
 
