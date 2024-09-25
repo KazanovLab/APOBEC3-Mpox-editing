@@ -11,3 +11,4 @@ Than we calculated the Grantham score for hypothetical amino acid changes (grant
 
 
 <img src="plots/fig2A_original.png" width="400"> <img src="plots/fig2A_fixed.png" width="400">
+* (left) Original figure 2A from ... et al, Science, ; (right) corrected image * 
