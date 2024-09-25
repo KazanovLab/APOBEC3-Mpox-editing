@@ -8,3 +8,6 @@ APOBEC3_sites.ipynb contains transformation of original dataframe with APOBEC3 s
 We built the barplot data/APOBEC_targets_plus_observed.png using R (R_barplot.Rmd).
 
 Than we calculated the Grantham score for hypothetical amino acid changes (grantham_score.R) and built the plot data/observed_mutated_aa_plot.png using the program observed_mutated_aa_plot.py
+
+
+![alt-text-1](plots/fig2A_original.png "title-1") ![alt-text-2](plots/fig2A_fixed.png "title-2")
