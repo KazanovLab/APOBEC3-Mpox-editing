@@ -10,4 +10,4 @@ We built the barplot data/APOBEC_targets_plus_observed.png using R (R_barplot.Rm
 Than we calculated the Grantham score for hypothetical amino acid changes (grantham_score.R) and built the plot data/observed_mutated_aa_plot.png using the program observed_mutated_aa_plot.py
 
 
-<img src="plots/fig2A_original.png" width="300"> <img src="plots/fig2A_fixed.png" width="300">
+<img src="plots/fig2A_original.png" width="500"> <img src="plots/fig2A_fixed.png" width="500">
