@@ -13,7 +13,7 @@ green1 <- '#5F797B'
 green2 <- '#81B29A'
 yellow <- '#F2CC8F'
 
-file1 <- c("data/article_pos_aa_edited.csv")
+file1 <- c("data/B1_data_fixed_APOBEC.csv")
 file2 <- c("data/APOBEC_targets_aa.csv")
 df1 <- read.csv(file1, sep = "\t", header = TRUE)
 df2 <- read.csv(file2, sep = "\t", header = TRUE)

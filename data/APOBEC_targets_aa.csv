@@ -1,4 +1,4 @@
-#CHROM	position	REF	ALT	nucl_pos_codon	parent_codon	parent_aa	child_codon	mutated_aa	mutation_category
+#CHROM	position	REF	ALT	aa_position	parent_codon	parent_aa	child_codon	child_aa	mutation_category
 NC_063383.1	23	C	T	-	-	-	-	-	intergenic
 NC_063383.1	60	C	T	-	-	-	-	-	intergenic
 NC_063383.1	78	C	T	-	-	-	-	-	intergenic

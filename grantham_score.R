@@ -9,9 +9,9 @@ calculate_grantham <- function(a1, a2) {
 
 grantham
 
-df <- read.csv("data/article_pos_aa_edited.csv", sep = "\t", header = TRUE)
+df <- read.csv("data/B1_data_fixed_APOBEC.csv", sep = "\t", header = TRUE)
 df_CDS <- df %>% filter(mutation_category != "intergenic")
-score <- mapply(calculate_grantham, df_CDS$parent_aa, df_CDS$mutated_aa, SIMPLIFY = FALSE)
+score <- mapply(calculate_grantham, df_CDS$parent_aa, df_CDS$child_aa, SIMPLIFY = FALSE)
 score <- as.numeric(score)
 df_CDS$grantham_score <- score
 df_CDS[is.na(df_CDS)] <- 0
@@ -33,6 +33,6 @@ df_CDS <- df_CDS %>% mutate(grantham_rank_color = case_when(
 ))
 
 df_CDS$parent_aa[df_CDS$mutation_category == 'synonymous'] <- '='
-df_CDS$mutated_aa[df_CDS$mutation_category == 'synonymous'] <- '='
+df_CDS$child_aa[df_CDS$mutation_category == 'synonymous'] <- '='
 
-write.csv(df_CDS, "data/grantham_score_article_pos_aa.csv", row.names = FALSE)
+write.csv(df_CDS, "data/grantham_score_B1_APOBEC.csv", row.names = FALSE)

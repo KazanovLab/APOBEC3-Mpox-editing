@@ -1,0 +1,801 @@
+site	gene	direction	REF	ALT	dimer	apobec	aa_position	parent	parent_codon	parent_aa	child	child_codon	child_aa	mutation_category	score	prediction	homoplasy	occurrence	REF_v2	aa_position_FIXED	parent_codon_FIXED	parent_aa_FIXED	child_codon_FIXED	child_aa_FIXED	mutation_category_FIXED
+3111	OPG003_CDS_176	reverse	G	A	GA	True	2.0	Node1	TCC	S	Node2	TTC	F	nonsynonymous	155.0	radical	False	1	G	3	ATC	I	ATT	I	synonymous
+39139	OPG057_CDS_142	reverse	C	T	TC	True	3.0	Node1	GCG	A	Node2	GCA	A	synonymous			False	1	C	1	GAG	E	AAG	K	nonsynonymous
+73239	OPG093_CDS_107	forward	G	A	GA	True	2.0	Node1	AGA	R	Node2	AAA	K	nonsynonymous	26.0	conservative	False	1	G	1	GAT	D	AAT	N	nonsynonymous
+74205	OPG094_CDS_106	forward	G	A	GA	True	1.0	Node1	GAA	E	Node2	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	G	3	ATG	M	ATA	I	nonsynonymous
+77383	OPG098_CDS_102	forward	G	A	GA	True	2.0	Node1	TGA	*	Node2	TAA	*	synonymous			False	1	G	1	GAG	E	AAG	K	nonsynonymous
+84587	OPG105_CDS_95	forward	C	T	TC	True	1.0	Node1	CGG	R	Node2	TGG	W	nonsynonymous	101.0	moderately radical	False	1	C	3	TTC	F	TTT	F	synonymous
+150469	OPG176_CDS_28	forward	C	T	TC	True	2.0	Node1	TCA	S	Node2	TTA	L	nonsynonymous	145.0	moderately radical	False	1	C	1	CAT	H	TAT	Y	nonsynonymous
+151461			A	C		False		Node1			Node2			intergenic			False	1	A	-	-	-	-	-	intergenic
+155795			G	A	GG	False		Node1			Node2			intergenic			False	1	G	-	-	-	-	-	intergenic
+170262	OPG198_CDS_14	forward	G	A	GG	False	1.0	Node1	GGA	G	Node2	AGA	R	nonsynonymous	125.0	moderately radical	False	1	G	3	CGG	R	CGA	R	synonymous
+183519	OPG210_CDS_7	forward	C	T	TC	True	2.0	Node1	TCC	S	Node2	TTC	F	nonsynonymous	155.0	radical	False	1	C	1	CCG	P	TCG	S	nonsynonymous
+186165	OPG210_CDS_7	forward	G	A	GA	True	2.0	Node2	TGA	*	Node42	TAA	*	synonymous			True	2	G	1	GAT	D	AAT	N	nonsynonymous
+186165	OPG210_CDS_7	forward	A	G		False	2.0	Node80	TAA	*	OP257247|MpxV/human/USA/UW-WA-0070/2022|USA|2022-08	TGA	*	synonymous			True	2	A	1	AAT	N	GAT	D	nonsynonymous
+53787	OPG071_CDS_129	reverse	C	T	TC	True	3.0	Node42	TCG	S	OP257243|MpxV/human/USA/UW-WA-0063/2022|USA|2022-08	TCA	S	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+55133	OPG074_CDS_126	reverse	G	A	GA	True	3.0	Node42	CTC	L	OP257243|MpxV/human/USA/UW-WA-0063/2022|USA|2022-08	CTT	L	synonymous			True	3	G	1	CGT	R	TGT	C	nonsynonymous
+55133	OPG074_CDS_126	reverse	G	A	GA	True	3.0	Node520	CTC	L	Node521	CTT	L	synonymous			True	3	G	1	CGT	R	TGT	C	nonsynonymous
+55133	OPG074_CDS_126	reverse	G	A	GA	True	3.0	Node519	CTC	L	OP169345|MpxV/human/USA/UW-WA-0052/2022|USA|2022-07	CTT	L	synonymous			True	3	G	1	CGT	R	TGT	C	nonsynonymous
+55133	MPXVgp059_CDS_127	reverse	G	A	GA	True	2.0	Node42	TCG	S	OP257243|MpxV/human/USA/UW-WA-0063/2022|USA|2022-08	TTG	L	nonsynonymous	145.0	moderately radical	True	3	G	3	CTC	L	CTT	L	synonymous
+55133	MPXVgp059_CDS_127	reverse	G	A	GA	True	2.0	Node520	TCG	S	Node521	TTG	L	nonsynonymous	145.0	moderately radical	True	3	G	3	CTC	L	CTT	L	synonymous
+55133	MPXVgp059_CDS_127	reverse	G	A	GA	True	2.0	Node519	TCG	S	OP169345|MpxV/human/USA/UW-WA-0052/2022|USA|2022-07	TTG	L	nonsynonymous	145.0	moderately radical	True	3	G	3	CTC	L	CTT	L	synonymous
+100182	OPG118_CDS_82	forward	G	A	GA	True	1.0	Node42	GAA	E	OP257243|MpxV/human/USA/UW-WA-0063/2022|USA|2022-08	AAA	K	nonsynonymous	56.0	moderately conservative	True	3	G	3	AGG	R	AGA	R	synonymous
+100182	OPG118_CDS_82	forward	G	A	GA	True	1.0	Node80	GAA	E	Node82	AAA	K	nonsynonymous	56.0	moderately conservative	True	3	G	3	AGG	R	AGA	R	synonymous
+100182	OPG118_CDS_82	forward	G	A	GA	True	1.0	Node519	GAA	E	OP169345|MpxV/human/USA/UW-WA-0052/2022|USA|2022-07	AAA	K	nonsynonymous	56.0	moderately conservative	True	3	G	3	AGG	R	AGA	R	synonymous
+5375	OPG015_CDS_175	reverse	G	A	GC	False	1.0	Node42	CCG	P	Node80	TCG	S	nonsynonymous	74.0	moderately conservative	False	1	G	2	GCC	A	GTC	V	nonsynonymous
+89252	OPG109_CDS_91	reverse	T	C		False	3.0	Node80	ATA	I	OP184765|MpxV/human/USA/UW-WA-0062/2022|USA|2022-07	ATG	M	nonsynonymous	10.0	conservative	False	1	T	1	ATT	I	GTT	V	nonsynonymous
+20992	OPG036_CDS_162	reverse	C	T	TC	True	3.0	Node42	CCG	P	Node63	CCA	P	synonymous			True	2	C	1	GAT	D	AAT	N	nonsynonymous
+20992	OPG036_CDS_162	reverse	T	C		False	3.0	Node65	CCA	P	Node73	CCG	P	synonymous			True	2	T	1	AAT	N	GAT	D	nonsynonymous
+143789	OPG165_CDS_36	forward	G	A	GA	True	2.0	Node42	AGA	R	Node63	AAA	K	nonsynonymous	26.0	conservative	False	1	G	1	GAT	D	AAT	N	nonsynonymous
+147168	OPG171_CDS_33	forward	C	T	TC	True	2.0	Node63	TCT	S	Node65	TTT	F	nonsynonymous	155.0	radical	False	1	C	1	CTT	L	TTT	F	nonsynonymous
+136035			C	T	TC	True		Node65			OP215274|MPXV/Germany/2022/RKI254|Germany|2022-08			intergenic			False	1	C	-	-	-	-	-	intergenic
+156622			G	A	GA	True		Node65			OP215274|MPXV/Germany/2022/RKI254|Germany|2022-08			intergenic			False	1	G	-	-	-	-	-	intergenic
+147899	OPG172_CDS_32	forward	A	T		False	3.0	Node65	GTA	V	OP215280|MPXV/Germany/2022/RKI261|Germany|2022-08	GTT	V	synonymous			False	1	A	2	TAT	Y	TTT	F	nonsynonymous
+61253	OPG080_CDS_120	reverse	G	A	GA	True	3.0	Node65	TTC	F	Node73	TTT	F	synonymous			True	2	G	1	CGT	R	TGT	C	nonsynonymous
+61253	OPG080_CDS_120	reverse	G	A	GA	True	3.0	Node63	TTC	F	ON929067|MPXV/Germany/2022/RKI109|Germany|2022-07	TTT	F	synonymous			True	2	G	1	CGT	R	TGT	C	nonsynonymous
+44220	OPG064_CDS_135	reverse	C	T	TC	True	1.0	Node73	GAT	D	OP205127|MPXV_UK_2022_9000178|United_Kingdom|2022-06-27	AAT	N	nonsynonymous	23.0	conservative	True	2	C	2	AGA	R	AAA	K	nonsynonymous
+44220	OPG064_CDS_135	reverse	C	T	TC	True	1.0	Node273	GAT	D	OP215252|MPXV/Germany/2022/RKI222|Germany|2022-08	AAT	N	nonsynonymous	23.0	conservative	True	2	C	2	AGA	R	AAA	K	nonsynonymous
+29229	OPG045_CDS_154	reverse	C	T	TC	True	3.0	Node65	TAG	*	Node72	TAA	*	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+149561	OPG175_CDS_29	forward	G	A	GA	True	1.0	Node72	GAT	D	OP205089|MPXV_UK_2022_9000101|United_Kingdom|2022-06-09	AAT	N	nonsynonymous	23.0	conservative	False	1	G	3	TTG	L	TTA	L	synonymous
+182486	OPG210_CDS_7	forward	G	A	GA	True	1.0	Node72	GAA	E	OP205089|MPXV_UK_2022_9000101|United_Kingdom|2022-06-09	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	G	3	CTG	L	CTA	L	synonymous
+57492	OPG075_CDS_125	reverse	C	T	TC	True	3.0	Node72	CCG	P	OP205140|MPXV_UK_2022_9000193|United_Kingdom|2022-07-04	CCA	P	synonymous			False	1	C	1	GAG	E	AAG	K	nonsynonymous
+76820	OPG097_CDS_103	reverse	C	T	TC	True	1.0	Node65	GAG	E	OP018592|MPXV/Germany/2022/RKI166|Germany|2022-07	AAG	K	nonsynonymous	56.0	moderately conservative	False	1	C	2	CGA	R	CAA	Q	nonsynonymous
+180154	OPG208_CDS_9	forward	C	T	TC	True	2.0	Node65	TCT	S	OP018592|MPXV/Germany/2022/RKI166|Germany|2022-07	TTT	F	nonsynonymous	155.0	radical	False	1	C	1	CTA	L	TTA	L	synonymous
+185176	OPG210_CDS_7	forward	C	T	TC	True	3.0	Node65	ATC	I	OP018593|MPXV/Germany/2022/RKI167|Germany|2022-07	ATT	I	synonymous			False	1	C	2	TCA	S	TTA	L	nonsynonymous
+143708	OPG165_CDS_36	forward	G	A	GA	True	2.0	Node42	TGA	*	Node83	TAA	*	synonymous			False	1	G	1	GAG	E	AAG	K	nonsynonymous
+168380	OPG195_CDS_16	forward	A	G		False	2.0	Node83	CAG	Q	OP205112|MPXV_UK_2022_9000149|United_Kingdom|2022-06-14	CGG	R	nonsynonymous	43.0	conservative	False	1	A	1	AGT	S	GGT	G	nonsynonymous
+32638	OPG049_CDS_150	reverse	C	T	AC	False	3.0	Node83	ACG	T	ON853651|MPXV/Germany/2022/RKI073|Germany|2022-06	ACA	T	synonymous			False	1	C	1	GTA	V	ATA	I	nonsynonymous
+188391			C	T	AC	False		Node42			Node86			intergenic			False	1	C	-	-	-	-	-	intergenic
+22880	OPG038_CDS_160	reverse	C	T	TC	True	3.0	Node86	CTG	L	OP215256|MPXV/Germany/2022/RKI228|Germany|2022-08	CTA	L	synonymous			False	1	C	1	GAG	E	AAG	K	nonsynonymous
+62253	OPG081_CDS_119	reverse	G	A	GA	True	2.0	Node86	TCT	S	OP215256|MPXV/Germany/2022/RKI228|Germany|2022-08	TTT	F	nonsynonymous	155.0	radical	False	1	G	3	ATC	I	ATT	I	synonymous
+182303	OPG210_CDS_7	forward	G	A	GA	True	1.0	Node86	GAT	D	OP215262|MPXV/Germany/2022/RKI238|Germany|2022-08	AAT	N	nonsynonymous	23.0	conservative	False	1	G	3	TTG	L	TTA	L	synonymous
+157527			T	C		False		Node86			Node92			intergenic			True	2	T	-	-	-	-	-	intergenic
+157527			T	C		False		Node42			Node85			intergenic			True	2	T	-	-	-	-	-	intergenic
+150087	OPG176_CDS_28	forward	G	A	GA	True	1.0	Node92	GAT	D	OP215279|MPXV/Germany/2022/RKI260|Germany|2022-08	AAT	N	nonsynonymous	23.0	conservative	True	2	G	3	CCG	P	CCA	P	synonymous
+150087	OPG176_CDS_28	forward	G	A	GA	True	1.0	Node648	GAT	D	OP215227|MPXV/Germany/2022/RKI242|Germany|2022-08	AAT	N	nonsynonymous	23.0	conservative	True	2	G	3	CCG	P	CCA	P	synonymous
+156429			C	T	TC	True		Node92			OP215279|MPXV/Germany/2022/RKI260|Germany|2022-08			intergenic			True	2	C	-	-	-	-	-	intergenic
+156429			C	T	TC	True		Node2			Node504			intergenic			True	2	C	-	-	-	-	-	intergenic
+156509			C	T	TC	True		Node92			OP215279|MPXV/Germany/2022/RKI260|Germany|2022-08			intergenic			False	1	C	-	-	-	-	-	intergenic
+177872	OPG205_CDS_10	forward	G	A	GA	True	1.0	Node92	GAG	E	OP215279|MPXV/Germany/2022/RKI260|Germany|2022-08	AAG	K	nonsynonymous	56.0	moderately conservative	False	1	G	3	TTG	L	TTA	L	synonymous
+88757	OPG109_CDS_91	reverse	C	T	TC	True	3.0	Node92	TAG	*	OP205073|MPXV_UK_2022_9000067|United_Kingdom|2022-06-08	TAA	*	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+44107	OPG064_CDS_135	reverse	G	A	GA	True	3.0	Node92	GTC	V	ON959151|MPXV/Germany/2022/RKI160|Germany|2022-07	GTT	V	synonymous			False	1	G	1	CTA	L	TTA	L	synonymous
+22425	OPG037_CDS_161	reverse	G	A	GA	True	2.0	Node92	TCG	S	ON853649|MPXV/Germany/2022/RKI068|Germany|2022-06	TTG	L	nonsynonymous	145.0	moderately radical	False	1	G	3	GTC	V	GTT	V	synonymous
+22971	OPG038_CDS_160	reverse	G	A	GA	True	2.0	Node92	TCG	S	ON853649|MPXV/Germany/2022/RKI068|Germany|2022-06	TTG	L	nonsynonymous	145.0	moderately radical	False	1	G	3	ATC	I	ATT	I	synonymous
+26694	OPG042_CDS_157	reverse	C	A		False	1.0	Node92	GGA	G	ON853649|MPXV/Germany/2022/RKI068|Germany|2022-06	TGA	*	nonsense			False	1	C	2	TGG	W	TTG	L	nonsynonymous
+77829	OPG099_CDS_101	forward	C	T	TC	True	1.0	Node92	CAT	H	ON853649|MPXV/Germany/2022/RKI068|Germany|2022-06	TAT	Y	nonsynonymous	83.0	moderately conservative	False	1	C	3	TTC	F	TTT	F	synonymous
+118391	OPG136_CDS_64	reverse	G	A	GA	True	2.0	Node42	TCG	S	Node50	TTG	L	nonsynonymous	145.0	moderately radical	False	1	G	3	TTC	F	TTT	F	synonymous
+23845	OPG039_CDS_159	reverse	C	T	TC	True	3.0	Node50	ATG	M	Node51	ATA	I	nonsynonymous	10.0	conservative	False	1	C	1	GAC	D	AAC	N	nonsynonymous
+12099	OPG023_CDS_171	reverse	G	A	GA	True	3.0	Node51	CTC	L	OP215257|MPXV/Germany/2022/RKI230|Germany|2022-08	CTT	L	synonymous			False	1	G	1	CGA	R	TGA	*	nonsense
+45637	OPG064_CDS_135	reverse	C	T	GC	False	3.0	Node51	CCG	P	OP215257|MPXV/Germany/2022/RKI230|Germany|2022-08	CCA	P	synonymous			False	1	C	1	GCA	A	ACA	T	nonsynonymous
+123899	OPG144_CDS_56	reverse	C	T	TC	True	3.0	Node42	ATG	M	OP205082|MPXV_UK_2022_9000079|United_Kingdom|2022-06-15	ATA	I	nonsynonymous	10.0	conservative	False	1	C	1	GAC	D	AAC	N	nonsynonymous
+92048	OPG113_CDS_87	forward	G	A	GA	True	1.0	Node42	GAA	E	OP205131|MPXV_UK_2022_9000186|United_Kingdom|2022-06-29	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	G	3	AAG	K	AAA	K	synonymous
+43068	OPG063_CDS_136	reverse	C	T	TC	True	2.0	Node42	AGA	R	OP185716|MPXV_USA_2022_CA0005|USA|2022-06	AAA	K	nonsynonymous	26.0	conservative	False	1	C	3	CAG	Q	CAA	Q	synonymous
+40648			C	T	TC	True		Node85			ON929090|MPXV/Germany/2022/RKI135|Germany|2022-07			intergenic			False	1	C	-	-	-	-	-	intergenic
+144832	OPG167_CDS_35	reverse	C	T	TC	True	2.0	Node85	TGA	*	ON929090|MPXV/Germany/2022/RKI135|Germany|2022-07	TAA	*	synonymous			False	1	C	3	ATG	M	ATA	I	nonsynonymous
+55173	OPG074_CDS_126	reverse	G	A	GA	True	2.0	Node85	TCA	S	ON813263|MPXV/Germany/2022/RKI063|Germany|2022-06	TTA	L	nonsynonymous	145.0	moderately radical	False	1	G	3	ATC	I	ATT	I	synonymous
+6999			C	T	TC	True		Node42			ON755239|MPXV/Germany/2022/RKI033|Germany|2022-06			intergenic			True	2	C	-	-	-	-	-	intergenic
+6999			C	T	TC	True		Node463			ON853656|MPXV/Germany/2022/RKI070|Germany|2022-06			intergenic			True	2	C	-	-	-	-	-	intergenic
+125702	OPG147_CDS_53	reverse	C	T	TC	True	3.0	Node42	ACG	T	ON755239|MPXV/Germany/2022/RKI033|Germany|2022-06	ACA	T	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+18133	OPG031_CDS_165	reverse	C	T	TC	True	2.0	Node2	CGA	R	Node211	CAA	Q	nonsynonymous	43.0	conservative	False	1	C	3	CCG	P	CCA	P	synonymous
+67611	OPG085_CDS_115	reverse	G	A	GT	False	2.0	Node2	ACA	T	Node211	ATA	I	nonsynonymous	89.0	moderately conservative	False	1	G	3	TAC	Y	TAT	Y	synonymous
+130231	OPG151_CDS_49	forward	G	A	GA	True	1.0	Node2	GAA	E	Node211	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	G	3	CAG	Q	CAA	Q	synonymous
+159277	OPG185_CDS_24	forward	G	A	GA	True	2.0	Node2	AGA	R	Node211	AAA	K	nonsynonymous	26.0	conservative	False	1	G	1	GAA	E	AAA	K	nonsynonymous
+2590	OPG002_CDS_177	reverse	G	A	GA	True	2.0	Node211	TCA	S	Node215	TTA	L	nonsynonymous	145.0	moderately radical	False	1	G	3	TCC	S	TCT	S	synonymous
+66878	OPG085_CDS_115	reverse	C	T	TC	True	3.0	Node211	CTG	L	Node215	CTA	L	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+148419	OPG174_CDS_30	reverse	G	A	GA	True	1.0	Node211	CCC	P	Node215	TCC	S	nonsynonymous	74.0	moderately conservative	False	1	G	2	TCC	S	TTC	F	nonsynonymous
+121374			G	A	GA	True		Node211			OP123055|MpxV/human/USA/UW-WA-0041/2022|USA|2022-07			intergenic			False	1	G	-	-	-	-	-	intergenic
+12128	OPG023_CDS_171	reverse	G	A	GA	True	1.0	Node211	CAT	H	OP055809|MpxV/human/USA/UW-WA-0023/2022|USA|2022-07	TAT	Y	nonsynonymous	83.0	moderately conservative	False	1	G	2	TCA	S	TTA	L	nonsynonymous
+74360	OPG094_CDS_106	forward	G	A	GC	False	3.0	Node2	ACG	T	Node248	ACA	T	synonymous			False	1	G	2	CGC	R	CAC	H	nonsynonymous
+52232	OPG071_CDS_129	reverse	G	A	GA	True	1.0	Node248	CGT	R	Node270	TGT	C	nonsynonymous	180.0	radical	False	1	G	2	TCG	S	TTG	L	nonsynonymous
+119838	OPG137_CDS_63	forward	C	T	TC	True	1.0	Node248	CGA	R	Node270	TGA	*	nonsense			False	1	C	3	ATC	I	ATT	I	synonymous
+47600			G	A	GA	True		Node270			OP257251|MpxV/human/USA/UW-WA-0078/2022|USA|2022-08			intergenic			False	1	G	-	-	-	-	-	intergenic
+79512	OPG102_CDS_98	forward	G	A	GA	True	3.0	Node270	ACG	T	OP169341|MpxV/human/USA/UW-WA-0047/2022|USA|2022-07	ACA	T	synonymous			False	1	G	2	CGA	R	CAA	Q	nonsynonymous
+138008	OPG154_CDS_47	reverse	G	A	GA	True	3.0	Node270	TTC	F	OP169341|MpxV/human/USA/UW-WA-0047/2022|USA|2022-07	TTT	F	synonymous			False	1	G	1	CCA	P	TCA	S	nonsynonymous
+150511	OPG176_CDS_28	forward	G	A	GA	True	2.0	Node270	CGA	R	OP169341|MpxV/human/USA/UW-WA-0047/2022|USA|2022-07	CAA	Q	nonsynonymous	43.0	conservative	False	1	G	1	GAT	D	AAT	N	nonsynonymous
+74134	OPG094_CDS_106	forward	C	G		False	2.0	Node270	GCC	A	OP055800|MpxV/human/USA/UW-WA-0011/2022|USA|2022-07	GGC	G	nonsynonymous	60.0	moderately conservative	False	1	C	1	CCC	P	GCC	A	nonsynonymous
+68675	OPG086_CDS_114	reverse	C	T	TC	True	2.0	Node248	CGA	R	Node331	CAA	Q	nonsynonymous	43.0	conservative	False	1	C	3	TCG	S	TCA	S	synonymous
+22739	OPG038_CDS_160	reverse	C	T	TC	True	3.0	Node248	CGG	R	Node273	CGA	R	synonymous			False	1	C	1	GAA	E	AAA	K	nonsynonymous
+144256	OPG165_CDS_36	forward	C	T	TC	True	1.0	Node273	CAA	Q	Node287	TAA	*	nonsense			False	1	C	3	ATC	I	ATT	I	synonymous
+170785	OPG198_CDS_14	forward	G	A	GA	True	2.0	Node273	TGA	*	Node287	TAA	*	synonymous			False	1	G	1	GAA	E	AAA	K	nonsynonymous
+6376			G	A	GA	True		Node287			OP215242|MPXV/Germany/2022/RKI205|Germany|2022-08			intergenic			False	1	G	-	-	-	-	-	intergenic
+13107	OPG024_CDS_170	reverse	G	A	GA	True	1.0	Node287	CGT	R	OP215242|MPXV/Germany/2022/RKI205|Germany|2022-08	TGT	C	nonsynonymous	180.0	radical	False	1	G	2	TCG	S	TTG	L	nonsynonymous
+117345	OPG136_CDS_64	reverse	G	A	GA	True	1.0	Node287	CTG	L	OP215242|MPXV/Germany/2022/RKI205|Germany|2022-08	TTG	L	synonymous			False	1	G	2	TCT	S	TTT	F	nonsynonymous
+15876			G	A	GA	True		Node287			OP215278|MPXV/Germany/2022/RKI259|Germany|2022-08			intergenic			False	1	G	-	-	-	-	-	intergenic
+186124	OPG210_CDS_7	forward	C	T	TC	True	3.0	Node273	TTC	F	Node292	TTT	F	synonymous			False	1	C	2	TCT	S	TTT	F	nonsynonymous
+189996			C	T	TC	True		Node273			Node292			intergenic			False	1	C	-	-	-	-	-	intergenic
+32627	OPG049_CDS_150	reverse	C	T	TC	True	2.0	Node273	TGA	*	OP215252|MPXV/Germany/2022/RKI222|Germany|2022-08	TAA	*	synonymous			True	2	C	3	CTG	L	CTA	L	synonymous
+32627	OPG049_CDS_150	reverse	C	T	TC	True	2.0	Node445	TGA	*	ON880538|MpxV/human/CAN/UN-NML-3336/2022|Canada|2022-06-01	TAA	*	synonymous			True	2	C	3	CTG	L	CTA	L	synonymous
+54012	OPG071_CDS_129	reverse	C	T	TC	True	3.0	Node273	GTG	V	OP215252|MPXV/Germany/2022/RKI222|Germany|2022-08	GTA	V	synonymous			False	1	C	1	GAC	D	AAC	N	nonsynonymous
+103240	OPG123_CDS_77	reverse	G	A	GA	True	3.0	Node273	ATC	I	OP215252|MPXV/Germany/2022/RKI222|Germany|2022-08	ATT	I	synonymous			True	2	G	1	CTA	L	TTA	L	synonymous
+103240	OPG123_CDS_77	reverse	G	A	GA	True	3.0	Node2	ATC	I	OP245329|MPX/PT0075/2022|Portugal|2022-07-22	ATT	I	synonymous			True	2	G	1	CTA	L	TTA	L	synonymous
+173727			G	A	GA	True		Node273			Node297			intergenic			False	1	G	-	-	-	-	-	intergenic
+11267	OPG023_CDS_171	reverse	G	A	GA	True	1.0	Node297	CGT	R	OP245355|MPX/PT0122/2022|Portugal|2022-07-15	TGT	C	nonsynonymous	180.0	radical	False	1	G	2	TCG	S	TTG	L	nonsynonymous
+18540	OPG031_CDS_165	reverse	G	A	GA	True	3.0	Node297	ATC	I	OP245355|MPX/PT0122/2022|Portugal|2022-07-15	ATT	I	synonymous			False	1	G	1	CGG	R	TGG	W	nonsynonymous
+55993	OPG074_CDS_126	reverse	G	A	GA	True	1.0	Node297	CTT	L	Node301	TTT	F	nonsynonymous	22.0	conservative	False	1	G	2	TCT	S	TTT	F	nonsynonymous
+78189	OPG100_CDS_100	forward	G	A	GT	False	3.0	Node301	TTG	L	OP215212|MPXV/Germany/2022/RKI204|Germany|2022-08	TTA	L	synonymous			False	1	G	2	TGT	C	TAT	Y	nonsynonymous
+134898			C	T	TC	True		Node301			OP215212|MPXV/Germany/2022/RKI204|Germany|2022-08			intergenic			False	1	C	-	-	-	-	-	intergenic
+86567	OPG108_CDS_92	reverse	C	T	TC	True	3.0	Node273	CCG	P	Node305	CCA	P	synonymous			False	1	C	1	GAG	E	AAG	K	nonsynonymous
+9245			G	A	GA	True		Node305			OP215272|MPXV/Germany/2022/RKI253|Germany|2022-08			intergenic			False	1	G	-	-	-	-	-	intergenic
+21060	OPG036_CDS_162	reverse	G	A	GT	False	1.0	Node305	CGT	R	OP215272|MPXV/Germany/2022/RKI253|Germany|2022-08	TGT	C	nonsynonymous	180.0	radical	False	1	G	2	ACG	T	ATG	M	nonsynonymous
+22740	OPG038_CDS_160	reverse	C	T	TC	True	2.0	Node273	CGA	R	Node307	CAA	Q	nonsynonymous	43.0	conservative	False	1	C	3	CCG	P	CCA	P	synonymous
+38937	OPG056_CDS_143	reverse	C	T	TC	True	1.0	Node273	GAA	E	Node307	AAA	K	nonsynonymous	56.0	moderately conservative	True	2	C	2	CGA	R	CAA	Q	nonsynonymous
+38937	OPG056_CDS_143	reverse	C	T	TC	True	1.0	Node443	GAA	E	OP245309|MPX/PT0052/2022|Portugal|2022-07-30	AAA	K	nonsynonymous	56.0	moderately conservative	True	2	C	2	CGA	R	CAA	Q	nonsynonymous
+113660	OPG133_CDS_67	reverse	C	T	TC	True	2.0	Node273	TGA	*	OP225960|MPXV_USA_2022_NY0013|USA|2022-06	TAA	*	synonymous			False	1	C	3	ATG	M	ATA	I	nonsynonymous
+163459	OPG189_CDS_21	forward	C	T	TC	True	2.0	Node273	TCG	S	OP225960|MPXV_USA_2022_NY0013|USA|2022-06	TTG	L	nonsynonymous	145.0	moderately radical	False	1	C	1	CGA	R	TGA	*	nonsense
+80719	OPG104_CDS_96	reverse	C	T	AC	False	3.0	Node273	CCG	P	OP018591|MPXV/Germany/2022/RKI183|Germany|2022-07	CCA	P	synonymous			False	1	C	1	GTA	V	ATA	I	nonsynonymous
+21655	OPG037_CDS_161	reverse	G	A	GA	True	1.0	Node273	CGA	R	Node309	TGA	*	nonsense			False	1	G	2	TCG	S	TTG	L	nonsynonymous
+135221			G	A	GA	True		Node273			Node309			intergenic			False	1	G	-	-	-	-	-	intergenic
+172542	OPG200_CDS_12	forward	G	A	GA	True	1.0	Node309	GAT	D	ON929059|MPXV/Germany/2022/RKI072|Germany|2022-07	AAT	N	nonsynonymous	23.0	conservative	False	1	G	3	GTG	V	GTA	V	synonymous
+63811	OPG083_CDS_117	reverse	G	A	GA	True	2.0	Node309	TCA	S	ON853655|MPXV/Germany/2022/RKI088|Germany|2022-06	TTA	L	nonsynonymous	145.0	moderately radical	True	3	G	3	TTC	F	TTT	F	synonymous
+63811	OPG083_CDS_117	reverse	G	A	GA	True	2.0	Node623	TCA	S	Node624	TTA	L	nonsynonymous	145.0	moderately radical	True	3	G	3	TTC	F	TTT	F	synonymous
+63811	OPG083_CDS_117	reverse	G	A	GA	True	2.0	Node2	TCA	S	OP205104|MPXV_UK_2022_9000140|United_Kingdom|2022-07-06	TTA	L	nonsynonymous	145.0	moderately radical	True	3	G	3	TTC	F	TTT	F	synonymous
+63892	OPG083_CDS_117	reverse	G	A	GA	True	2.0	Node309	TCT	S	ON853655|MPXV/Germany/2022/RKI088|Germany|2022-06	TTT	F	nonsynonymous	155.0	radical	False	1	G	3	TTC	F	TTT	F	synonymous
+50007	OPG069_CDS_131	forward	C	T	TC	True	2.0	Node273	TCA	S	ON929073|MPXV/Germany/2022/RKI115|Germany|2022-07	TTA	L	nonsynonymous	145.0	moderately radical	False	1	C	1	CAG	Q	TAG	*	nonsense
+151213			C	T	TC	True		Node273			Node303			intergenic			False	1	C	-	-	-	-	-	intergenic
+184562	OPG210_CDS_7	forward	G	A	GA	True	1.0	Node273	GAC	D	Node303	AAC	N	nonsynonymous	23.0	conservative	False	1	G	3	GCG	A	GCA	A	synonymous
+21833	OPG037_CDS_161	reverse	C	T	TC	True	3.0	Node273	CAG	Q	ON929084|MPXV/Germany/2022/RKI129|Germany|2022-07	CAA	Q	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+135719			G	A	GA	True		Node273			ON929084|MPXV/Germany/2022/RKI129|Germany|2022-07			intergenic			False	1	G	-	-	-	-	-	intergenic
+176536	OPG205_CDS_10	forward	G	A	GA	True	3.0	Node248	TAG	*	OP215245|MPXV/Germany/2022/RKI208|Germany|2022-08	TAA	*	synonymous			False	1	G	2	AGA	R	AAA	K	nonsynonymous
+29887	OPG047_CDS_152	reverse	C	T	TC	True	2.0	Node248	CGA	R	OP215247|MPXV/Germany/2022/RKI211|Germany|2022-08	CAA	Q	nonsynonymous	43.0	conservative	False	1	C	3	CCG	P	CCA	P	synonymous
+40937	OPG060_CDS_139	reverse	C	T	GC	False	2.0	Node248	CGC	R	OP215268|MPXV/Germany/2022/RKI248|Germany|2022-08	CAC	H	nonsynonymous	29.0	conservative	False	1	C	3	TCG	S	TCA	S	synonymous
+175349	OPG204_CDS_11	forward	G	A	GT	False	3.0	Node248	CAG	Q	OP215268|MPXV/Germany/2022/RKI248|Germany|2022-08	CAA	Q	synonymous			False	1	G	2	AGT	S	AAT	N	nonsynonymous
+3850	OPG003_CDS_176	reverse	C	T	TC	True	1.0	Node248	GAG	E	OP215287|MPXV/Germany/2022/RKI268|Germany|2022-08	AAG	K	nonsynonymous	56.0	moderately conservative	False	1	C	2	CGA	R	CAA	Q	nonsynonymous
+155698			G	A	GA	True		Node248			Node316			intergenic			False	1	G	-	-	-	-	-	intergenic
+161575			G	A	GA	True		Node316			OP245330|MPX/PT0076/2022|Portugal|2022-07-23			intergenic			False	1	G	-	-	-	-	-	intergenic
+11562	OPG023_CDS_171	reverse	C	T	TC	True	3.0	Node316	TTG	L	Node317	TTA	L	synonymous			False	1	C	1	GAC	D	AAC	N	nonsynonymous
+138237	OPG155_CDS_46	reverse	G	A	GG	False	2.0	Node316	CCG	P	Node317	CTG	L	nonsynonymous	98.0	moderately conservative	False	1	G	3	TCC	S	TCT	S	synonymous
+173429			G	A	GA	True		Node248			Node322			intergenic			False	1	G	-	-	-	-	-	intergenic
+786			C	T	TC	True		Node322			OP204857|MPXV-ROK-P1-2022|South_Korea|2022-08			intergenic			False	1	C	-	-	-	-	-	intergenic
+71728	OPG091_CDS_109	forward	C	T	GC	False	3.0	Node322	TGC	C	OP204857|MPXV-ROK-P1-2022|South_Korea|2022-08	TGT	C	synonymous			False	1	C	2	GCC	A	GTC	V	nonsynonymous
+1861	OPG002_CDS_177	reverse	G	A	GA	True	2.0	Node322	TCG	S	ON929064|MPXV/Germany/2022/RKI106|Germany|2022-07	TTG	L	nonsynonymous	145.0	moderately radical	False	1	G	3	GTC	V	GTT	V	synonymous
+127376	OPG149_CDS_51	forward	G	A	GA	True	2.0	Node322	TGA	*	ON929064|MPXV/Germany/2022/RKI106|Germany|2022-07	TAA	*	synonymous			False	1	G	1	GAT	D	AAT	N	nonsynonymous
+5404	OPG015_CDS_175	reverse	C	T	TC	True	2.0	Node322	TGA	*	ON853668|MPXV/Germany/2022/RKI086|Germany|2022-06	TAA	*	synonymous			False	1	C	3	ATG	M	ATA	I	nonsynonymous
+108050	OPG126_CDS_74	reverse	G	A	GA	True	2.0	Node322	TCG	S	ON853668|MPXV/Germany/2022/RKI086|Germany|2022-06	TTG	L	nonsynonymous	145.0	moderately radical	False	1	G	3	CTC	L	CTT	L	synonymous
+133552			G	A	GA	True		Node248			OP123046|MpxV/human/USA/UW-WA-0032/2022|USA|2022-07			intergenic			False	1	G	-	-	-	-	-	intergenic
+44529	OPG064_CDS_135	reverse	C	T	AC	False	1.0	Node248	GTA	V	ON959136|MPXV_USA_2022_NY005|USA|2022-06	ATA	I	nonsynonymous	29.0	conservative	False	1	C	2	CGT	R	CAT	H	nonsynonymous
+134504			C	T	TC	True		Node248			ON959136|MPXV_USA_2022_NY005|USA|2022-06			intergenic			False	1	C	-	-	-	-	-	intergenic
+97413	OPG117_CDS_83	forward	T	A		False	1.0	Node248	TCC	S	ON929069|MPXV/Germany/2022/RKI111|Germany|2022-07	ACC	T	nonsynonymous	58.0	moderately conservative	False	1	T	3	AGT	S	AGA	R	nonsynonymous
+179853	OPG208_CDS_9	forward	C	T	TC	True	1.0	Node248	CGG	R	ON929069|MPXV/Germany/2022/RKI111|Germany|2022-07	TGG	W	nonsynonymous	101.0	moderately radical	True	2	C	3	TTC	F	TTT	F	synonymous
+179853	OPG208_CDS_9	forward	C	T	TC	True	1.0	Node2	CGG	R	OP245349|MPX/PT0115/2022|Portugal|2022-07-14	TGG	W	nonsynonymous	101.0	moderately radical	True	2	C	3	TTC	F	TTT	F	synonymous
+181495	OPG210_CDS_7	forward	C	T	TC	True	3.0	Node248	ATC	I	ON929069|MPXV/Germany/2022/RKI111|Germany|2022-07	ATT	I	synonymous			True	2	C	2	TCG	S	TTG	L	nonsynonymous
+181495	OPG210_CDS_7	forward	C	T	TC	True	3.0	Node642	ATC	I	OP245322|MPX/PT0068/2022|Portugal|2022-07-25	ATT	I	synonymous			True	2	C	2	TCG	S	TTG	L	nonsynonymous
+132440			C	T	TC	True		Node248			ON929087|MPXV/Germany/2022/RKI132|Germany|2022-07			intergenic			False	1	C	-	-	-	-	-	intergenic
+142240	OPG163_CDS_38	forward	G	A	GA	True	1.0	Node248	GAC	D	ON813256|MPXV/Germany/2022/RKI059|Germany|2022-06	AAC	N	nonsynonymous	23.0	conservative	False	1	G	3	TTG	L	TTA	L	synonymous
+21530	OPG037_CDS_161	reverse	C	T	TC	True	3.0	Node248	TTG	L	ON755252|MPXV/Germany/2022/RKI046|Germany|2022-06	TTA	L	synonymous			False	1	C	1	GAA	E	AAA	K	nonsynonymous
+152033	OPG178_CDS_27	forward	C	T	TC	True	1.0	Node248	CGA	R	ON694337|MPXV/Germany/2022/RKI020|Germany|2022-05	TGA	*	nonsense			False	1	C	3	TTC	F	TTT	F	synonymous
+13609	OPG025_CDS_169	reverse	C	T	TC	True	2.0	Node2	TGA	*	OP257252|MpxV/human/USA/UW-WA-0079/2022|USA|2022-08	TAA	*	synonymous			False	1	C	3	GTG	V	GTA	V	synonymous
+164248	OPG189_CDS_21	forward	G	A	GA	True	2.0	Node2	AGA	R	OP257252|MpxV/human/USA/UW-WA-0079/2022|USA|2022-08	AAA	K	nonsynonymous	26.0	conservative	False	1	G	1	GAA	E	AAA	K	nonsynonymous
+187164			C	T	TC	True		Node2			OP257252|MpxV/human/USA/UW-WA-0079/2022|USA|2022-08			intergenic			False	1	C	-	-	-	-	-	intergenic
+164653	OPG189_CDS_21	forward	G	T		False	2.0	Node2	AGA	R	OP257253|MpxV/human/USA/UW-WA-0080/2022|USA|2022-08	ATA	I	nonsynonymous	97.0	moderately conservative	False	1	G	1	GAT	D	TAT	Y	nonsynonymous
+132520			C	T	TC	True		Node2			Node353			intergenic			True	2	C	-	-	-	-	-	intergenic
+132520			C	T	TC	True		Node669			Node671			intergenic			True	2	C	-	-	-	-	-	intergenic
+175093	OPG204_CDS_11	forward	G	A	GA	True	2.0	Node2	AGA	R	Node353	AAA	K	nonsynonymous	26.0	conservative	False	1	G	1	GAT	D	AAT	N	nonsynonymous
+70190	OPG089_CDS_111	forward	G	A	GA	True	2.0	Node353	CGA	R	OP225966|MPXV_USA_2022_IL0023|USA|2022-06	CAA	Q	nonsynonymous	43.0	conservative	True	3	G	1	GAA	E	AAA	K	nonsynonymous
+70190	OPG089_CDS_111	forward	G	A	GA	True	2.0	Node617	CGA	R	OP215215|MPXV/Germany/2022/RKI213|Germany|2022-08	CAA	Q	nonsynonymous	43.0	conservative	True	3	G	1	GAA	E	AAA	K	nonsynonymous
+70190	OPG089_CDS_111	forward	G	A	GA	True	2.0	Node2	CGA	R	Node194	CAA	Q	nonsynonymous	43.0	conservative	True	3	G	1	GAA	E	AAA	K	nonsynonymous
+165086			G	A	GA	True		Node353			OP225966|MPXV_USA_2022_IL0023|USA|2022-06			intergenic			False	1	G	-	-	-	-	-	intergenic
+162565	OPG188_CDS_22	forward	C	T	TC	True	2.0	Node353	TCC	S	Node356	TTC	F	nonsynonymous	155.0	radical	False	1	C	1	CCA	P	TCA	S	nonsynonymous
+36405	OPG055_CDS_144	reverse	C	T	GC	False	3.0	Node2	CTG	L	Node138	CTA	L	synonymous			False	1	C	1	GCT	A	ACT	T	nonsynonymous
+44856	OPG064_CDS_135	reverse	G	T		False	1.0	Node2	CTG	L	OP257256|MpxV/human/USA/UW-WA-0086/2022|USA|2022-08	ATG	M	nonsynonymous	15.0	conservative	False	1	G	2	CCT	P	CAT	H	nonsynonymous
+190660	hypothetical_protein_CDS_5	forward	G	A	GA	True	3.0	Node2	CAG	Q	Node519	CAA	Q	synonymous			False	1	G	2	AGA	R	AAA	K	nonsynonymous
+64426	OPG083_CDS_117	reverse	C	T	TC	True	2.0	Node519	CGA	R	Node520	CAA	Q	nonsynonymous	43.0	conservative	False	1	C	3	ACG	T	ACA	T	synonymous
+143066	OPG164_CDS_37	forward	G	A	GA	True	2.0	Node521	TGA	*	OP257258|MpxV/human/USA/UW-WA-0089/2022|USA|2022-08	TAA	*	synonymous			False	1	G	1	GAT	D	AAT	N	nonsynonymous
+189048			G	A	GA	True		Node521			OP257262|MpxV/human/USA/UW-WA-0093/2022|USA|2022-08			intergenic			False	1	G	-	-	-	-	-	intergenic
+36659	OPG055_CDS_144	reverse	G	A	GC	False	1.0	Node521	CAG	Q	OP215250|MPXV/Germany/2022/RKI220|Germany|2022-08	TAG	*	nonsense			False	1	G	2	GCA	A	GTA	V	nonsynonymous
+174642	OPG204_CDS_11	forward	G	A	GA	True	1.0	Node521	GAG	E	OP215250|MPXV/Germany/2022/RKI220|Germany|2022-08	AAG	K	nonsynonymous	56.0	moderately conservative	False	1	G	3	ATG	M	ATA	I	nonsynonymous
+190444	hypothetical_protein_CDS_5	forward	C	T	TC	True	3.0	Node521	ATC	I	OP215250|MPXV/Germany/2022/RKI220|Germany|2022-08	ATT	I	synonymous			False	1	C	2	TCG	S	TTG	L	nonsynonymous
+5515	OPG015_CDS_175	reverse	G	A	GA	True	2.0	Node521	TCA	S	OP215273|MPXV/Germany/2022/RKI251|Germany|2022-08	TTA	L	nonsynonymous	145.0	moderately radical	False	1	G	3	ATC	I	ATT	I	synonymous
+54004	OPG071_CDS_129	reverse	T	C		False	2.0	Node521	CAC	H	OP215273|MPXV/Germany/2022/RKI251|Germany|2022-08	CGC	R	nonsynonymous	29.0	conservative	False	1	T	3	CCA	P	CCG	P	synonymous
+179259			C	T	TC	True		Node521			OP215273|MPXV/Germany/2022/RKI251|Germany|2022-08			intergenic			False	1	C	-	-	-	-	-	intergenic
+36620	OPG055_CDS_144	reverse	A	C		False	1.0	Node521	TTT	F	Node540	GTT	V	nonsynonymous	50.0	conservative	False	1	A	2	GTT	V	GGT	G	nonsynonymous
+91811	OPG113_CDS_87	forward	G	A	GA	True	1.0	Node540	GAG	E	OP215288|MPXV/Germany/2022/RKI270|Germany|2022-08	AAG	K	nonsynonymous	56.0	moderately conservative	False	1	G	3	CAG	Q	CAA	Q	synonymous
+148578	OPG174_CDS_30	reverse	G	A	GA	True	1.0	Node540	CTA	L	OP215288|MPXV/Germany/2022/RKI270|Germany|2022-08	TTA	L	synonymous			False	1	G	2	TCT	S	TTT	F	nonsynonymous
+149527	OPG175_CDS_29	forward	C	T	TC	True	3.0	Node540	ATC	I	OP215288|MPXV/Germany/2022/RKI270|Germany|2022-08	ATT	I	synonymous			False	1	C	2	TCA	S	TTA	L	nonsynonymous
+153729	OPG180_CDS_26	forward	C	T	TC	True	1.0	Node540	CGA	R	OP215288|MPXV/Germany/2022/RKI270|Germany|2022-08	TGA	*	nonsense			False	1	C	3	GTC	V	GTT	V	synonymous
+142545	OPG163_CDS_38	forward	C	T	TC	True	3.0	Node521	ATC	I	OP205133|MPXV_UK_2022_9000188|United_Kingdom|2022-06-29	ATT	I	synonymous			False	1	C	2	TCT	S	TTT	F	nonsynonymous
+133161			C	T	TC	True		Node521			Node536			intergenic			False	1	C	-	-	-	-	-	intergenic
+157632			C	T	TC	True		Node521			Node536			intergenic			False	1	C	-	-	-	-	-	intergenic
+146824			C	T	GC	False		Node536			OP144212|MPXV/ITM_pt_16/Belgium/10-Jun-2022|Belgium|2022-06-10			intergenic			False	1	C	-	-	-	-	-	intergenic
+37250	OPG056_CDS_143	reverse	G	A	GA	True	2.0	Node521	TCA	S	OX248696|RNA|Slovakia|2022-07-04	TTA	L	nonsynonymous	145.0	moderately radical	False	1	G	3	TTC	F	TTT	F	synonymous
+138080	OPG155_CDS_46	reverse	C	T	TC	True	3.0	Node521	CAG	Q	OX248696|RNA|Slovakia|2022-07-04	CAA	Q	synonymous			False	1	C	1	GAG	E	AAG	K	nonsynonymous
+15947	OPG027_CDS_168	reverse	C	T	TC	True	1.0	Node521	GAG	E	ON853661|MPXV/Germany/2022/RKI079|Germany|2022-06	AAG	K	nonsynonymous	56.0	moderately conservative	False	1	C	2	AGA	R	AAA	K	nonsynonymous
+159376	OPG185_CDS_24	forward	G	A	GA	True	2.0	Node521	GGA	G	ON792320|hMpxV/Switzerland/ZH-UZH-IMV-3ba6449f/2022|Switzerland|2022-06-01	GAA	E	nonsynonymous	98.0	moderately conservative	False	1	G	1	GAT	D	AAT	N	nonsynonymous
+50337	OPG069_CDS_131	forward	G	A	GG	False	2.0	Node521	CGG	R	ON782054|MPXV/Spain/HUNSC_ITER_0001a/2022|Spain|2022-05-31	CAG	Q	nonsynonymous	43.0	conservative	False	1	G	1	GGA	G	AGA	R	nonsynonymous
+122238	OPG143_CDS_57	reverse	A	T		False	3.0	Node521	TAT	Y	ON782054|MPXV/Spain/HUNSC_ITER_0001a/2022|Spain|2022-05-31	TAA	*	nonsense			False	1	A	1	TCT	S	ACT	T	nonsynonymous
+48265	OPG068_CDS_132	forward	A	T		False	3.0	Node521	GGA	G	ON782055|MPXV/Spain/HUNSC_ITER_0001b/2022|Spain|2022-05-31	GGT	G	synonymous			False	1	A	2	GAT	D	GTT	V	nonsynonymous
+48296	OPG068_CDS_132	forward	C	G		False	1.0	Node521	CCT	P	ON782055|MPXV/Spain/HUNSC_ITER_0001b/2022|Spain|2022-05-31	GCT	A	nonsynonymous	27.0	conservative	False	1	C	3	ACC	T	ACG	T	synonymous
+167517	OPG193_CDS_17	forward	G	A	GA	True	2.0	Node521	AGA	R	Node547	AAA	K	nonsynonymous	26.0	conservative	False	1	G	1	GAA	E	AAA	K	nonsynonymous
+32715	OPG049_CDS_150	reverse	G	A	GA	True	1.0	Node521	CTA	L	ON755251|MPXV/Germany/2022/RKI045|Germany|2022-06	TTA	L	synonymous			True	2	G	2	TCT	S	TTT	F	nonsynonymous
+32715	OPG049_CDS_150	reverse	G	A	GA	True	1.0	Node2	CTA	L	OP133007|hMPXV/Austria/MUW1536480/2022|Austria|2022-07-22	TTA	L	synonymous			True	2	G	2	TCT	S	TTT	F	nonsynonymous
+190020			G	A	GA	True		Node521			ON755251|MPXV/Germany/2022/RKI045|Germany|2022-06			intergenic			False	1	G	-	-	-	-	-	intergenic
+109627	OPG129_CDS_71	reverse	C	A		False	3.0	Node521	GAG	E	ON622722|MPXV_FR_HCL0001_2022|France|2022-05-22	GAT	D	nonsynonymous	45.0	conservative	False	1	C	1	GCA	A	TCA	S	nonsynonymous
+451			G	A	GA	True		Node520			OP184762|MpxV/human/USA/UW-WA-0059/2022|USA|2022-07			intergenic			False	1	G	-	-	-	-	-	intergenic
+153664	OPG180_CDS_26	forward	G	A	GA	True	2.0	Node520	TGA	*	OP184762|MpxV/human/USA/UW-WA-0059/2022|USA|2022-07	TAA	*	synonymous			False	1	G	1	GAT	D	AAT	N	nonsynonymous
+163711	OPG189_CDS_21	forward	C	T	TC	True	2.0	Node520	TCT	S	OP184762|MpxV/human/USA/UW-WA-0059/2022|USA|2022-07	TTT	F	nonsynonymous	155.0	radical	False	1	C	1	CTA	L	TTA	L	synonymous
+39898	OPG057_CDS_142	reverse	C	T	TC	True	3.0	Node519	CGG	R	Node552	CGA	R	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+148933	OPG174_CDS_30	reverse	C	T	TC	True	3.0	Node519	CCG	P	Node552	CCA	P	synonymous			False	1	C	1	GAG	E	AAG	K	nonsynonymous
+171318	OPG199_CDS_13	forward	G	A	GA	True	2.0	Node519	TGA	*	Node552	TAA	*	synonymous			False	1	G	1	GAG	E	AAG	K	nonsynonymous
+175241	OPG204_CDS_11	forward	C	T	TC	True	3.0	Node519	ATC	I	Node552	ATT	I	synonymous			False	1	C	2	TCA	S	TTA	L	nonsynonymous
+17196			C	T	AC	False		Node552			OP205116|MPXV_UK_2022_9000158|United_Kingdom|2022-07-07			intergenic			False	1	C	-	-	-	-	-	intergenic
+183013	OPG210_CDS_7	forward	G	A	GT	False	3.0	Node519	CAG	Q	OP169345|MpxV/human/USA/UW-WA-0052/2022|USA|2022-07	CAA	Q	synonymous			False	1	G	2	AGT	S	AAT	N	nonsynonymous
+17752	OPG030_CDS_166	reverse	C	T	TC	True	3.0	Node519	TAG	*	OP150924|MPXV_USA_2022_CA006|USA|2022-06	TAA	*	synonymous			False	1	C	1	GAG	E	AAG	K	nonsynonymous
+80450	OPG103_CDS_97	forward	G	A	GA	True	1.0	Node519	GAT	D	ON755231|MPXV/Germany/2022/RKI013|Germany|2022-06	AAT	N	nonsynonymous	23.0	conservative	False	1	G	3	AAG	K	AAA	K	synonymous
+97153	OPG117_CDS_83	forward	C	T	TC	True	2.0	Node2	TCT	S	Node346	TTT	F	nonsynonymous	155.0	radical	False	1	C	1	CTA	L	TTA	L	synonymous
+136972	OPG153_CDS_48	reverse	C	T	TC	True	2.0	Node346	TGA	*	Node348	TAA	*	synonymous			False	1	C	3	TTG	L	TTA	L	synonymous
+32321	OPG049_CDS_150	reverse	C	T	TC	True	2.0	Node346	TGA	*	OP055807|MpxV/human/USA/UW-WA-0021/2022|USA|2022-07	TAA	*	synonymous			False	1	C	3	ATG	M	ATA	I	nonsynonymous
+126055	OPG148_CDS_52	forward	G	A	GA	True	2.0	Node346	AGA	R	OP055807|MpxV/human/USA/UW-WA-0021/2022|USA|2022-07	AAA	K	nonsynonymous	26.0	conservative	False	1	G	1	GAT	D	AAT	N	nonsynonymous
+116130	OPG134_CDS_66	forward	G	A	GA	True	1.0	Node2	GAA	E	OP257265|MpxV/human/USA/UW-WA-0097/2022|USA|2022-08	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	G	3	AAG	K	AAA	K	synonymous
+152202			G	A	GA	True		Node2			OP257265|MpxV/human/USA/UW-WA-0097/2022|USA|2022-08			intergenic			False	1	G	-	-	-	-	-	intergenic
+157598			C	T	TC	True		Node2			OP257265|MpxV/human/USA/UW-WA-0097/2022|USA|2022-08			intergenic			False	1	C	-	-	-	-	-	intergenic
+178546			C	T	TC	True		Node2			OP257265|MpxV/human/USA/UW-WA-0097/2022|USA|2022-08			intergenic			False	1	C	-	-	-	-	-	intergenic
+14796	OPG025_CDS_169	reverse	C	T	TC	True	3.0	Node2	ACG	T	OP257267|MpxV/human/USA/UW-WA-00101/2022|USA|2022-08	ACA	T	synonymous			False	1	C	1	GAG	E	AAG	K	nonsynonymous
+76791	OPG097_CDS_103	reverse	C	T	TC	True	3.0	Node2	ATG	M	OP257267|MpxV/human/USA/UW-WA-00101/2022|USA|2022-08	ATA	I	nonsynonymous	10.0	conservative	False	1	C	1	GAA	E	AAA	K	nonsynonymous
+115971	OPG134_CDS_66	forward	C	T	TC	True	1.0	Node2	CAG	Q	OP257267|MpxV/human/USA/UW-WA-00101/2022|USA|2022-08	TAG	*	nonsense			False	1	C	3	TTC	F	TTT	F	synonymous
+143463	OPG164_CDS_37	forward	G	A	GA	True	3.0	Node2	CTG	L	OP257267|MpxV/human/USA/UW-WA-00101/2022|USA|2022-08	CTA	L	synonymous			False	1	G	2	TGA	*	TAA	*	synonymous
+146267	OPG170_CDS_34	reverse	G	A	GA	True	1.0	Node2	CTG	L	OP257267|MpxV/human/USA/UW-WA-00101/2022|USA|2022-08	TTG	L	synonymous			False	1	G	2	TCT	S	TTT	F	nonsynonymous
+86622	OPG108_CDS_92	reverse	C	T	TC	True	2.0	Node2	AGA	R	OP263626|MPXV/Germany/2022/RKI272|Germany|2022-08	AAA	K	nonsynonymous	26.0	conservative	False	1	C	3	AAG	K	AAA	K	synonymous
+176379	OPG205_CDS_10	forward	C	T	TC	True	2.0	Node2	TCG	S	OP263626|MPXV/Germany/2022/RKI272|Germany|2022-08	TTG	L	nonsynonymous	145.0	moderately radical	False	1	C	1	CGT	R	TGT	C	nonsynonymous
+50982	OPG070_CDS_130	forward	G	A	GA	True	1.0	Node2	GAC	D	Node648	AAC	N	nonsynonymous	23.0	conservative	False	1	G	3	TTG	L	TTA	L	synonymous
+125074	OPG145_CDS_55	forward	C	T	TC	True	1.0	Node2	CGT	R	Node648	TGT	C	nonsynonymous	180.0	radical	False	1	C	3	TTC	F	TTT	F	synonymous
+44740	OPG064_CDS_135	reverse	C	T	TC	True	3.0	Node648	TAG	*	Node650	TAA	*	synonymous			False	1	C	1	GAA	E	AAA	K	nonsynonymous
+77807	OPG099_CDS_101	forward	G	A	GA	True	3.0	Node650	TAG	*	OP263627|MPXV/Germany/2022/RKI272|Germany|2022-08	TAA	*	synonymous			True	2	G	2	AGA	R	AAA	K	nonsynonymous
+77807	OPG099_CDS_101	forward	G	A	GA	True	3.0	Node622	TAG	*	OP018603|MPXV/Germany/2022/RKI178|Germany|2022-07	TAA	*	synonymous			True	2	G	2	AGA	R	AAA	K	nonsynonymous
+80067	OPG103_CDS_97	forward	C	T	TC	True	2.0	Node650	TCC	S	OP215263|MPXV/Germany/2022/RKI239|Germany|2022-08	TTC	F	nonsynonymous	155.0	radical	False	1	C	1	CCG	P	TCG	S	nonsynonymous
+80067	OPG102_CDS_98	forward	C	T	TC	True	3.0	Node650	ATC	I	OP215263|MPXV/Germany/2022/RKI239|Germany|2022-08	ATT	I	synonymous			False	1	C	2	TCC	S	TTC	F	nonsynonymous
+156850			G	A	GA	True		Node650			OP215263|MPXV/Germany/2022/RKI239|Germany|2022-08			intergenic			False	1	G	-	-	-	-	-	intergenic
+35969	OPG054_CDS_145	reverse	C	T	TC	True	3.0	Node648	CTG	L	OP215227|MPXV/Germany/2022/RKI242|Germany|2022-08	CTA	L	synonymous			False	1	C	1	GAA	E	AAA	K	nonsynonymous
+134403			G	A	GA	True		Node648			OP215251|MPXV/Germany/2022/RKI221|Germany|2022-08			intergenic			False	1	G	-	-	-	-	-	intergenic
+25644			C	T	TC	True		Node2			Node365			intergenic			True	3	C	-	-	-	-	-	intergenic
+25644			C	T	TC	True		Node474			OP205094|MPXV_UK_2022_9000106|United_Kingdom|2022-06-14			intergenic			True	3	C	-	-	-	-	-	intergenic
+25644			C	T	TC	True		Node463			Node479			intergenic			True	3	C	-	-	-	-	-	intergenic
+66249	OPG084_CDS_116	forward	C	T	TC	True	2.0	Node365	TCT	S	OP263628|MPXV/Germany/2022/RKI274|Germany|2022-08	TTT	F	nonsynonymous	155.0	radical	False	1	C	1	CTG	L	TTG	L	synonymous
+88644	OPG109_CDS_91	reverse	C	A		False	2.0	Node365	AGG	R	OP263628|MPXV/Germany/2022/RKI274|Germany|2022-08	ATG	M	nonsynonymous	91.0	moderately conservative	False	1	C	3	AAG	K	AAT	N	nonsynonymous
+104134	OPG123_CDS_77	reverse	C	T	GC	False	3.0	Node365	ACG	T	OP263628|MPXV/Germany/2022/RKI274|Germany|2022-08	ACA	T	synonymous			False	1	C	1	GCA	A	ACA	T	nonsynonymous
+112638	OPG132_CDS_68	reverse	C	T	CC	False	2.0	Node365	CGG	R	OP263628|MPXV/Germany/2022/RKI274|Germany|2022-08	CAG	Q	nonsynonymous	43.0	conservative	False	1	C	3	ACG	T	ACA	T	synonymous
+63147	OPG082_CDS_118	reverse	G	A	GA	True	2.0	Node365	TCG	S	Node377	TTG	L	nonsynonymous	145.0	moderately radical	True	3	G	3	GTC	V	GTT	V	synonymous
+63147	OPG082_CDS_118	reverse	G	A	GA	True	2.0	Node463	TCG	S	Node474	TTG	L	nonsynonymous	145.0	moderately radical	True	3	G	3	GTC	V	GTT	V	synonymous
+63147	OPG082_CDS_118	reverse	G	A	GA	True	2.0	Node2	TCG	S	ON755234|MPXV/Germany/2022/RKI028|Germany|2022-06	TTG	L	nonsynonymous	145.0	moderately radical	True	3	G	3	GTC	V	GTT	V	synonymous
+157546			G	A	GA	True		Node377			OP263633|MPXV/Germany/2022/RKI278|Germany|2022-08			intergenic			False	1	G	-	-	-	-	-	intergenic
+10224	OPG021_CDS_173	forward	G	A	GA	True	3.0	Node377	ACG	T	Node380	ACA	T	synonymous			False	1	G	2	CGA	R	CAA	Q	nonsynonymous
+129761	OPG151_CDS_49	forward	G	A	GA	True	2.0	Node377	TGA	*	Node380	TAA	*	synonymous			False	1	G	1	GAC	D	AAC	N	nonsynonymous
+143625	OPG165_CDS_36	forward	T	A		False	3.0	Node377	AAT	N	Node380	AAA	K	nonsynonymous	94.0	moderately conservative	False	1	T	2	ATT	I	AAT	N	nonsynonymous
+177847	OPG205_CDS_10	forward	C	T	TC	True	3.0	Node377	CTC	L	Node380	CTT	L	synonymous			False	1	C	2	TCA	S	TTA	L	nonsynonymous
+73398	OPG093_CDS_107	forward	G	A	GA	True	2.0	Node377	TGA	*	ON853665|MPXV/Germany/2022/RKI083|Germany|2022-06	TAA	*	synonymous			False	1	G	1	GAA	E	AAA	K	nonsynonymous
+120241	OPG137_CDS_63	forward	G	A	GA	True	2.0	Node365	GGA	G	Node386	GAA	E	nonsynonymous	98.0	moderately conservative	False	1	G	1	GAC	D	AAC	N	nonsynonymous
+125660	OPG147_CDS_53	reverse	C	T	TC	True	3.0	Node386	CTG	L	Node391	CTA	L	synonymous			False	1	C	1	GAC	D	AAC	N	nonsynonymous
+148534	OPG174_CDS_30	reverse	C	T	TC	True	3.0	Node391	ATG	M	OP215230|MPXV/Germany/2022/RKI187|Germany|2022-08	ATA	I	nonsynonymous	10.0	conservative	False	1	C	1	GAT	D	AAT	N	nonsynonymous
+170557	OPG198_CDS_14	forward	G	A	GA	True	2.0	Node386	CGA	R	ON959153|MPXV/Germany/2022/RKI165|Germany|2022-07	CAA	Q	nonsynonymous	43.0	conservative	False	1	G	1	GAG	E	AAG	K	nonsynonymous
+57088	OPG074_CDS_126	reverse	G	A	GA	True	1.0	Node386	CAA	Q	ON911481|Monkeypox/MX-UANL001/2022|Mexico|2022-06-28	TAA	*	nonsense			False	1	G	2	TCA	S	TTA	L	nonsynonymous
+127530	OPG149_CDS_51	forward	C	T	TC	True	3.0	Node386	CTC	L	ON911481|Monkeypox/MX-UANL001/2022|Mexico|2022-06-28	CTT	L	synonymous			False	1	C	2	TCA	S	TTA	L	nonsynonymous
+168120	OPG193_CDS_17	forward	T	C		False	2.0	Node386	TTT	F	ON911481|Monkeypox/MX-UANL001/2022|Mexico|2022-06-28	TCT	S	nonsynonymous	155.0	radical	False	1	C	1	CTT	L	CTT	L	synonymous
+148771	OPG174_CDS_30	reverse	C	T	TC	True	3.0	Node365	TCG	S	Node393	TCA	S	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+139055	OPG156_CDS_45	reverse	C	T	TC	True	3.0	Node393	CCG	P	OP215243|MPXV/Germany/2022/RKI206|Germany|2022-08	CCA	P	synonymous			False	1	C	1	GAG	E	AAG	K	nonsynonymous
+18629	OPG031_CDS_165	reverse	C	G		False	1.0	Node393	GTG	V	ON959172|MPXV/Germany/2022/RKI158|Germany|2022-07	CTG	L	nonsynonymous	32.0	conservative	False	1	C	2	AGT	S	ACT	T	nonsynonymous
+99542	OPG118_CDS_82	forward	C	T	TC	True	3.0	Node393	TTC	F	ON755255|MPXV/Germany/2022/RKI049|Germany|2022-06	TTT	F	synonymous			False	1	C	2	TCT	S	TTT	F	nonsynonymous
+42504	OPG063_CDS_136	reverse	G	A	GA	True	2.0	Node365	TCA	S	Node401	TTA	L	nonsynonymous	145.0	moderately radical	False	1	G	3	ATC	I	ATT	I	synonymous
+134850			C	T	TC	True		Node401			OP245307|MPX/PT0050/2022|Portugal|2022-08-01			intergenic			False	1	C	-	-	-	-	-	intergenic
+159741	OPG185_CDS_24	forward	C	T	TC	True	1.0	Node401	CGT	R	OP245307|MPX/PT0050/2022|Portugal|2022-08-01	TGT	C	nonsynonymous	180.0	radical	False	1	C	3	TTC	F	TTT	F	synonymous
+74267	OPG094_CDS_106	forward	G	A	GA	True	3.0	Node401	TCG	S	Node406	TCA	S	synonymous			False	1	G	2	CGA	R	CAA	Q	nonsynonymous
+115870	OPG134_CDS_66	forward	C	T	TC	True	2.0	Node401	TCT	S	Node406	TTT	F	nonsynonymous	155.0	radical	False	1	C	1	CTA	L	TTA	L	synonymous
+5292	OPG015_CDS_175	reverse	C	T	TC	True	3.0	Node406	TTG	L	OP245331|MPX/PT0077/2022|Portugal|2022-07-28	TTA	L	synonymous			False	1	C	1	GAC	D	AAC	N	nonsynonymous
+11924	OPG023_CDS_171	reverse	G	A	GA	True	1.0	Node406	CGG	R	OP245331|MPX/PT0077/2022|Portugal|2022-07-28	TGG	W	nonsynonymous	101.0	moderately radical	False	1	G	2	TCG	S	TTG	L	nonsynonymous
+161784	OPG188_CDS_22	forward	A	T		False	1.0	Node406	ACT	T	OP245331|MPX/PT0077/2022|Portugal|2022-07-28	TCT	S	nonsynonymous	58.0	moderately conservative	False	1	A	3	CTA	L	CTT	L	synonymous
+4077	OPG003_CDS_176	reverse	G	A	GA	True	2.0	Node401	TCA	S	OP245357|MPX/PT0124/2022|Portugal|2022-07-14	TTA	L	nonsynonymous	145.0	moderately radical	False	1	G	3	CTC	L	CTT	L	synonymous
+67757	OPG085_CDS_115	reverse	C	T	TC	True	3.0	Node401	TCG	S	OP245357|MPX/PT0124/2022|Portugal|2022-07-14	TCA	S	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+148135	OPG173_CDS_31	forward	G	A	GA	True	1.0	Node401	GAA	E	OP245357|MPX/PT0124/2022|Portugal|2022-07-14	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	G	3	AAG	K	AAA	K	synonymous
+163714	OPG189_CDS_21	forward	G	A	GA	True	2.0	Node401	AGA	R	OP245357|MPX/PT0124/2022|Portugal|2022-07-14	AAA	K	nonsynonymous	26.0	conservative	False	1	G	1	GAT	D	AAT	N	nonsynonymous
+182189	OPG210_CDS_7	forward	G	A	GA	True	1.0	Node401	GAT	D	OP245357|MPX/PT0124/2022|Portugal|2022-07-14	AAT	N	nonsynonymous	23.0	conservative	True	2	G	3	TCG	S	TCA	S	synonymous
+182189	OPG210_CDS_7	forward	G	A	GA	True	1.0	Node2	GAT	D	Node713	AAT	N	nonsynonymous	23.0	conservative	True	2	G	3	TCG	S	TCA	S	synonymous
+40862	OPG060_CDS_139	reverse	C	T	TC	True	2.0	Node401	CGA	R	OP205098|MPXV_UK_2022_9000131|United_Kingdom|2022-07-05	CAA	Q	nonsynonymous	43.0	conservative	False	1	C	3	TCG	S	TCA	S	synonymous
+95871	OPG116_CDS_84	forward	G	A	GA	True	2.0	Node401	AGA	R	OP205098|MPXV_UK_2022_9000131|United_Kingdom|2022-07-05	AAA	K	nonsynonymous	26.0	conservative	False	1	G	1	GAA	E	AAA	K	nonsynonymous
+15562			C	T	TC	True		Node401			OP205111|MPXV_UK_2022_9000148|United_Kingdom|2022-06-14			intergenic			False	1	C	-	-	-	-	-	intergenic
+186970	OPG210_CDS_7	forward	C	T	TC	True	3.0	Node365	GTC	V	OP225963|MPXV_USA_2022_CO0006|USA|2022-06	GTT	V	synonymous			False	1	C	2	TCT	S	TTT	F	nonsynonymous
+98456	OPG118_CDS_82	forward	G	A	GA	True	3.0	Node365	CGG	R	Node409	CGA	R	synonymous			True	2	G	2	GGA	G	GAA	E	nonsynonymous
+98456	OPG118_CDS_82	forward	G	A	GA	True	3.0	Node160	CAG	Q	Node161	CAA	Q	synonymous			True	2	G	2	AGA	R	AAA	K	nonsynonymous
+103258	OPG123_CDS_77	reverse	C	T	TC	True	3.0	Node365	ACG	T	Node409	ACA	T	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+14077	OPG025_CDS_169	reverse	C	T	AC	False	2.0	Node365	CGT	R	Node382	CAT	H	nonsynonymous	29.0	conservative	False	1	C	3	CCG	P	CCA	P	synonymous
+4529	OPG003_CDS_176	reverse	C	T	TC	True	3.0	Node382	GTG	V	OP205084|MPXV_UK_2022_9000093|United_Kingdom|2022-05-30	GTA	V	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+155585			G	A	GA	True		Node382			OP205084|MPXV_UK_2022_9000093|United_Kingdom|2022-05-30			intergenic			False	1	G	-	-	-	-	-	intergenic
+37691	OPG056_CDS_143	reverse	G	A	GG	False	2.0	Node382	CCA	P	OP205097|MPXV_UK_2022_9000130|United_Kingdom|2022-07-05	CTA	L	nonsynonymous	98.0	moderately conservative	False	1	G	3	TCC	S	TCT	S	synonymous
+147799	OPG172_CDS_32	forward	G	A	GC	False	2.0	Node382	GGC	G	OP205097|MPXV_UK_2022_9000130|United_Kingdom|2022-07-05	GAC	D	nonsynonymous	94.0	moderately conservative	False	1	G	1	GCA	A	ACA	T	nonsynonymous
+157353			G	A	GA	True		Node382			OP205097|MPXV_UK_2022_9000130|United_Kingdom|2022-07-05			intergenic			False	1	G	-	-	-	-	-	intergenic
+57173	OPG075_CDS_125	reverse	C	T	TC	True	1.0	Node365	GAG	E	Node397	AAG	K	nonsynonymous	56.0	moderately conservative	False	1	C	2	TGA	*	TAA	*	synonymous
+174924	OPG204_CDS_11	forward	A	T		False	1.0	Node365	AAC	N	Node397	TAC	Y	nonsynonymous	143.0	moderately radical	False	1	A	3	GTA	V	GTT	V	synonymous
+56365	OPG074_CDS_126	reverse	G	A	GA	True	1.0	Node397	CTG	L	OP205099|MPXV_UK_2022_9000133|United_Kingdom|2022-07-05	TTG	L	synonymous			False	1	G	2	TCT	S	TTT	F	nonsynonymous
+174227			C	T	AC	False		Node365			OP205101|MPXV_UK_2022_9000136|United_Kingdom|2022-07-07			intergenic			False	1	C	-	-	-	-	-	intergenic
+12842	OPG023_CDS_171	reverse	C	T	TC	True	1.0	Node365	GAG	E	OP205103|MPXV_UK_2022_9000138|United_Kingdom|2022-07-06	AAG	K	nonsynonymous	56.0	moderately conservative	False	1	C	2	AGA	R	AAA	K	nonsynonymous
+54365	OPG071_CDS_129	reverse	C	T	TC	True	1.0	Node365	GAA	E	OP205118|MPXV_UK_2022_9000160|United_Kingdom|2022-07-05	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	C	2	CGA	R	CAA	Q	nonsynonymous
+71796	OPG091_CDS_109	forward	G	A	GA	True	2.0	Node365	TGA	*	OP205118|MPXV_UK_2022_9000160|United_Kingdom|2022-07-05	TAA	*	synonymous			False	1	G	1	GAT	D	AAT	N	nonsynonymous
+123397	OPG144_CDS_56	reverse	C	T	GC	False	1.0	Node365	GCA	A	OP205118|MPXV_UK_2022_9000160|United_Kingdom|2022-07-05	ACA	T	nonsynonymous	58.0	moderately conservative	True	2	C	2	TGC	C	TAC	Y	nonsynonymous
+123397	OPG144_CDS_56	reverse	C	T	GC	False	1.0	Node2	GCA	A	OP215229|MPXV/Germany/2022/RKI250|Germany|2022-08	ACA	T	nonsynonymous	58.0	moderately conservative	True	2	C	2	TGC	C	TAC	Y	nonsynonymous
+160426			C	T	TC	True		Node365			OP205118|MPXV_UK_2022_9000160|United_Kingdom|2022-07-05			intergenic			False	1	C	-	-	-	-	-	intergenic
+23359	OPG039_CDS_159	reverse	G	A	GA	True	3.0	Node365	ATC	I	Node399	ATT	I	synonymous			False	1	G	1	CTT	L	TTT	F	nonsynonymous
+114955	OPG133_CDS_67	reverse	C	T	TC	True	3.0	Node365	GCG	A	Node399	GCA	A	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+116175	OPG134_CDS_66	forward	C	T	TC	True	1.0	Node365	CGG	R	Node399	TGG	W	nonsynonymous	101.0	moderately radical	False	1	C	3	CTC	L	CTT	L	synonymous
+17463	OPG030_CDS_166	reverse	G	A	GA	True	1.0	Node365	CAG	Q	OP205122|MPXV_UK_2022_9000165|United_Kingdom|2022-07-04	TAG	*	nonsense			False	1	G	2	TCA	S	TTA	L	nonsynonymous
+32761	OPG049_CDS_150	reverse	C	T	TC	True	3.0	Node365	GCG	A	OP205122|MPXV_UK_2022_9000165|United_Kingdom|2022-07-04	GCA	A	synonymous			False	1	C	1	GAA	E	AAA	K	nonsynonymous
+53441	OPG071_CDS_129	reverse	G	A	GA	True	1.0	Node365	CAT	H	OP205137|MPXV_UK_2022_9000192|United_Kingdom|2022-07-05	TAT	Y	nonsynonymous	83.0	moderately conservative	False	1	G	2	TCA	S	TTA	L	nonsynonymous
+40784	OPG060_CDS_139	reverse	C	T	TC	True	2.0	Node365	CGA	R	OP018607|MPXV/Germany/2022/RKI185|Germany|2022-07	CAA	Q	nonsynonymous	43.0	conservative	False	1	C	3	CCG	P	CCA	P	synonymous
+28887	OPG045_CDS_154	reverse	C	T	TC	True	3.0	Node2	ATG	M	Node558	ATA	I	nonsynonymous	10.0	conservative	False	1	C	1	GAA	E	AAA	K	nonsynonymous
+3569	OPG003_CDS_176	reverse	C	T	GC	False	3.0	Node558	CCG	P	OP263634|MPXV/Germany/2022/RKI279|Germany|2022-08	CCA	P	synonymous			False	1	C	1	GCC	A	ACC	T	nonsynonymous
+54262	OPG071_CDS_129	reverse	C	T	TC	True	2.0	Node558	CGA	R	OP263634|MPXV/Germany/2022/RKI279|Germany|2022-08	CAA	Q	nonsynonymous	43.0	conservative	False	1	C	3	CCG	P	CCA	P	synonymous
+5595	OPG015_CDS_175	reverse	G	A	GA	True	3.0	Node2	TTC	F	Node609	TTT	F	synonymous			False	1	G	1	CAG	Q	TAG	*	nonsense
+161296	OPG187_CDS_23	forward	G	A	GG	False	1.0	Node609	GGG	G	Node611	AGG	R	nonsynonymous	125.0	moderately radical	False	1	G	3	TTG	L	TTA	L	synonymous
+86391	OPG108_CDS_92	reverse	C	T	TC	True	2.0	Node611	TGA	*	OP263630|MPXV/Germany/2022/RKI275|Germany|2022-08	TAA	*	synonymous			False	1	C	3	ATG	M	ATA	I	nonsynonymous
+103786	OPG123_CDS_77	reverse	C	T	TC	True	3.0	Node611	AAG	K	OP263630|MPXV/Germany/2022/RKI275|Germany|2022-08	AAA	K	synonymous			False	1	C	1	GAA	E	AAA	K	nonsynonymous
+160088			C	T	TC	True		Node611			OP263630|MPXV/Germany/2022/RKI275|Germany|2022-08			intergenic			False	1	C	-	-	-	-	-	intergenic
+186255	OPG210_CDS_7	forward	G	A	GA	True	2.0	Node611	AGA	R	OP263630|MPXV/Germany/2022/RKI275|Germany|2022-08	AAA	K	nonsynonymous	26.0	conservative	False	1	G	1	GAG	E	AAG	K	nonsynonymous
+2039	OPG002_CDS_177	reverse	G	A	GA	True	1.0	Node611	CAG	Q	Node617	TAG	*	nonsense			False	1	G	2	TCA	S	TTA	L	nonsynonymous
+34298	OPG053_CDS_146	reverse	G	T		False	2.0	Node617	CCG	P	OP215215|MPXV/Germany/2022/RKI213|Germany|2022-08	CAG	Q	nonsynonymous	76.0	moderately conservative	False	1	G	3	CCC	P	CCA	P	synonymous
+37048	OPG055_CDS_144	reverse	C	T	TC	True	2.0	Node617	TGA	*	OP215215|MPXV/Germany/2022/RKI213|Germany|2022-08	TAA	*	synonymous			False	1	C	3	TTG	L	TTA	L	synonymous
+169328			T	A		False		Node617			OP215215|MPXV/Germany/2022/RKI213|Germany|2022-08			intergenic			False	1	T	-	-	-	-	-	intergenic
+80545	OPG103_CDS_97	forward	C	T	TC	True	3.0	Node611	TTC	F	Node622	TTT	F	synonymous			False	1	C	2	TCA	S	TTA	L	nonsynonymous
+16213	OPG027_CDS_168	reverse	G	A	GA	True	2.0	Node622	TCG	S	OP018603|MPXV/Germany/2022/RKI178|Germany|2022-07	TTG	L	nonsynonymous	145.0	moderately radical	False	1	G	3	ATC	I	ATT	I	synonymous
+186220	OPG210_CDS_7	forward	C	T	GC	False	3.0	Node611	GGC	G	Node621	GGT	G	synonymous			False	1	C	2	GCG	A	GTG	V	nonsynonymous
+24929	OPG040_CDS_158	reverse	C	T	TC	True	3.0	Node611	TTG	L	ON929061|MPXV/Germany/2022/RKI103|Germany|2022-07	TTA	L	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+78034	OPG100_CDS_100	forward	G	A	GA	True	1.0	Node609	GAT	D	Node623	AAT	N	nonsynonymous	23.0	conservative	False	1	G	3	ACG	T	ACA	T	synonymous
+78034	OPG099_CDS_101	forward	G	A	GA	True	2.0	Node609	CGA	R	Node623	CAA	Q	nonsynonymous	43.0	conservative	False	1	G	1	GAT	D	AAT	N	nonsynonymous
+80111	OPG103_CDS_97	forward	C	T	CC	False	1.0	Node609	CGA	R	Node623	TGA	*	nonsense			False	1	C	3	ACC	T	ACT	T	synonymous
+22643	OPG038_CDS_160	reverse	G	A	GG	False	3.0	Node623	CCC	P	Node624	CCT	P	synonymous			False	1	G	1	CAT	H	TAT	Y	nonsynonymous
+119985	OPG137_CDS_63	forward	T	C		False	1.0	Node624	TAG	*	OP171923|MPXV22/human/USA-NE-48|USA|2022-07-15	CAG	Q	nonsynonymous			False	1	T	3	TCT	S	TCC	S	synonymous
+122649	OPG143_CDS_57	reverse	C	T	TC	True	3.0	Node623	CTG	L	ON720849|MpxV/Spain/MD-HGUGM-6532064/2022|Spain|2022-05-27	CTA	L	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+139150	OPG156_CDS_45	reverse	T	C		False	1.0	Node623	AAT	N	ON622718|MPXV/ES0001/HUGTiP/2022|Spain|2022-05-20	GAT	D	nonsynonymous	23.0	conservative	False	1	T	2	CAA	Q	CGA	R	nonsynonymous
+130606	OPG151_CDS_49	forward	C	T	TC	True	1.0	Node2	CGG	R	Node567	TGG	W	nonsynonymous	101.0	moderately radical	False	1	C	3	TTC	F	TTT	F	synonymous
+89296	OPG109_CDS_91	reverse	G	T		False	1.0	Node567	CAG	Q	OP205113|MPXV_UK_2022_9000150|United_Kingdom|2022-06-16	AAG	K	nonsynonymous	53.0	moderately conservative	False	1	G	2	ACA	T	AAA	K	nonsynonymous
+165465	OPG190_CDS_20	forward	G	A	GA	True	3.0	Node567	TGG	W	OP205113|MPXV_UK_2022_9000150|United_Kingdom|2022-06-16	TGA	*	nonsense			False	1	G	2	GGA	G	GAA	E	nonsynonymous
+56259	OPG074_CDS_126	reverse	C	T	TC	True	2.0	Node2	AGA	R	OP215217|MPXV/Germany/2022/RKI218|Germany|2022-08	AAA	K	nonsynonymous	26.0	conservative	False	1	C	3	CAG	Q	CAA	Q	synonymous
+188946			C	T	TC	True		Node2			OP215217|MPXV/Germany/2022/RKI218|Germany|2022-08			intergenic			False	1	C	-	-	-	-	-	intergenic
+70780	OPG089_CDS_111	forward	C	T	TC	True	1.0	Node2	CTA	L	Node463	TTA	L	synonymous			True	2	C	3	GTC	V	GTT	V	synonymous
+70780	OPG089_CDS_111	forward	C	T	TC	True	1.0	Node502	CTA	L	OP245318|MPX/PT0064/2022|Portugal|2022-08-01	TTA	L	synonymous			True	2	C	3	GTC	V	GTT	V	synonymous
+32909	OPG049_CDS_150	reverse	C	T	TC	True	2.0	Node474	CGA	R	OP215225|MPXV/Germany/2022/RKI240|Germany|2022-08	CAA	Q	nonsynonymous	43.0	conservative	False	1	C	3	TCG	S	TCA	S	synonymous
+190668	hypothetical_protein_CDS_5	forward	C	T	TC	True	2.0	Node474	TCG	S	OP215225|MPXV/Germany/2022/RKI240|Germany|2022-08	TTG	L	nonsynonymous	145.0	moderately radical	True	2	C	1	CGA	R	TGA	*	nonsense
+190668	hypothetical_protein_CDS_5	forward	C	T	TC	True	2.0	Node479	TCG	S	ON959149|MPXV/Germany/2022/RKI140|Germany|2022-07	TTG	L	nonsynonymous	145.0	moderately radical	True	2	C	1	CGA	R	TGA	*	nonsense
+44333	OPG064_CDS_135	reverse	C	T	TC	True	2.0	Node463	TGA	*	Node476	TAA	*	synonymous			False	1	C	3	ATG	M	ATA	I	nonsynonymous
+2898	OPG003_CDS_176	reverse	G	A	GC	False	2.0	Node476	GCG	A	OP245315|MPX/PT0061/2022|Portugal|2022-08-01	GTG	V	nonsynonymous	64.0	moderately conservative	False	1	G	3	AGC	S	AGT	S	synonymous
+27953	OPG043_CDS_156	reverse	C	T	TC	True	2.0	Node476	TGA	*	OP245315|MPX/PT0061/2022|Portugal|2022-08-01	TAA	*	synonymous			False	1	C	3	ATG	M	ATA	I	nonsynonymous
+33103	OPG049_CDS_150	reverse	C	T	TC	True	3.0	Node476	CTG	L	OP245315|MPX/PT0061/2022|Portugal|2022-08-01	CTA	L	synonymous			True	2	C	1	GAA	E	AAA	K	nonsynonymous
+33103	OPG049_CDS_150	reverse	C	T	TC	True	3.0	Node454	CTG	L	OP215226|MPXV/Germany/2022/RKI241|Germany|2022-08	CTA	L	synonymous			True	2	C	1	GAA	E	AAA	K	nonsynonymous
+93512	OPG113_CDS_87	forward	G	T		False	1.0	Node476	GGT	G	OP245315|MPX/PT0061/2022|Portugal|2022-08-01	TGT	C	nonsynonymous	159.0	radical	False	1	G	3	AAG	K	AAT	N	nonsynonymous
+114490	OPG133_CDS_67	reverse	C	T	TC	True	3.0	Node476	CCG	P	OP245315|MPX/PT0061/2022|Portugal|2022-08-01	CCA	P	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+133295			C	T	TC	True		Node476			OP245315|MPX/PT0061/2022|Portugal|2022-08-01			intergenic			False	1	C	-	-	-	-	-	intergenic
+46956	OPG066_CDS_133	reverse	G	A	GG	False	1.0	Node476	CGT	R	ON853667|MPXV/Germany/2022/RKI085|Germany|2022-06	TGT	C	nonsynonymous	180.0	radical	False	1	G	2	CCG	P	CTG	L	nonsynonymous
+156469			G	A	GA	True		Node479			ON959149|MPXV/Germany/2022/RKI140|Germany|2022-07			intergenic			True	2	G	-	-	-	-	-	intergenic
+156469			G	A	GA	True		Node661			OP215284|MPXV/Germany/2022/RKI265|Germany|2022-08			intergenic			True	2	G	-	-	-	-	-	intergenic
+26136	OPG042_CDS_157	reverse	G	A	GA	True	1.0	Node463	CTA	L	ON959170|MPXV/Germany/2022/RKI156|Germany|2022-07	TTA	L	synonymous			False	1	G	2	TCT	S	TTT	F	nonsynonymous
+78593	OPG101_CDS_99	forward	G	A	GA	True	1.0	Node463	GAC	D	ON959173|MPXV/Germany/2022/RKI159|Germany|2022-07	AAC	N	nonsynonymous	23.0	conservative	False	1	G	3	GTG	V	GTA	V	synonymous
+126202	OPG148_CDS_52	forward	C	T	TC	True	2.0	Node463	TCC	S	ON959173|MPXV/Germany/2022/RKI159|Germany|2022-07	TTC	F	nonsynonymous	155.0	radical	False	1	C	1	CCG	P	TCG	S	nonsynonymous
+28702	OPG045_CDS_154	reverse	C	T	CC	False	2.0	Node463	GGG	G	ON918656|MPXV/human/Taiwan/110-231642/2022|Taiwan|2022-06	GAG	E	nonsynonymous	98.0	moderately conservative	False	1	C	3	CGG	R	CGA	R	synonymous
+34793	OPG054_CDS_145	reverse	T	C		False	3.0	Node463	GTA	V	ON918656|MPXV/human/Taiwan/110-231642/2022|Taiwan|2022-06	GTG	V	synonymous			False	1	T	1	ACC	T	GCC	A	nonsynonymous
+50861	OPG070_CDS_130	forward	T	C		False	3.0	Node463	CGT	R	ON918656|MPXV/human/Taiwan/110-231642/2022|Taiwan|2022-06	CGC	R	synonymous			False	1	T	2	GTA	V	GCA	A	nonsynonymous
+51777	OPG071_CDS_129	reverse	C	T	TC	True	3.0	Node463	TAG	*	ON918656|MPXV/human/Taiwan/110-231642/2022|Taiwan|2022-06	TAA	*	synonymous			False	1	C	1	GAA	E	AAA	K	nonsynonymous
+161488	OPG187_CDS_23	forward	G	A	GT	False	1.0	Node463	GTT	V	ON853656|MPXV/Germany/2022/RKI070|Germany|2022-06	ATT	I	nonsynonymous	29.0	conservative	False	1	G	3	GAG	E	GAA	E	synonymous
+177845	OPG205_CDS_10	forward	C	T	TC	True	1.0	Node463	CTC	L	ON853656|MPXV/Germany/2022/RKI070|Germany|2022-06	TTC	F	nonsynonymous	22.0	conservative	False	1	C	3	ATC	I	ATT	I	synonymous
+16333	OPG027_CDS_168	reverse	G	A	GA	True	2.0	Node463	TCG	S	ON813261|MPXV/Germany/2022/RKI061|Germany|2022-06	TTG	L	nonsynonymous	145.0	moderately radical	False	1	G	3	ATC	I	ATT	I	synonymous
+67289	OPG085_CDS_115	reverse	C	T	TC	True	3.0	Node463	CCG	P	ON813261|MPXV/Germany/2022/RKI061|Germany|2022-06	CCA	P	synonymous			False	1	C	1	GAA	E	AAA	K	nonsynonymous
+28706	OPG045_CDS_154	reverse	G	A	GG	False	1.0	Node463	CGC	R	ON755254|MPXV/Germany/2022/RKI048|Germany|2022-06	TGC	C	nonsynonymous	180.0	radical	False	1	G	2	CCG	P	CTG	L	nonsynonymous
+51885	OPG071_CDS_129	reverse	C	T	TC	True	3.0	Node463	CTG	L	ON755254|MPXV/Germany/2022/RKI048|Germany|2022-06	CTA	L	synonymous			False	1	C	1	GAG	E	AAG	K	nonsynonymous
+87017	OPG108_CDS_92	reverse	C	T	TC	True	3.0	Node2	TTG	L	OP215220|MPXV/Germany/2022/RKI224|Germany|2022-08	TTA	L	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+4592	OPG003_CDS_176	reverse	C	T	TC	True	3.0	Node2	ACG	T	OP215221|MPXV/Germany/2022/RKI229|Germany|2022-08	ACA	T	synonymous			False	1	C	1	GAG	E	AAG	K	nonsynonymous
+11462	OPG023_CDS_171	reverse	G	A	GA	True	1.0	Node2	CAA	Q	OP215221|MPXV/Germany/2022/RKI229|Germany|2022-08	TAA	*	nonsense			False	1	G	2	TCA	S	TTA	L	nonsynonymous
+20767	OPG036_CDS_162	reverse	G	A	GA	True	3.0	Node2	ATC	I	OP215221|MPXV/Germany/2022/RKI229|Germany|2022-08	ATT	I	synonymous			False	1	G	1	CAA	Q	TAA	*	nonsense
+92865	OPG113_CDS_87	forward	C	T	TC	True	2.0	Node2	TCT	S	OP215221|MPXV/Germany/2022/RKI229|Germany|2022-08	TTT	F	nonsynonymous	155.0	radical	False	1	C	1	CTG	L	TTG	L	synonymous
+133750			C	T	TC	True		Node2			OP215221|MPXV/Germany/2022/RKI229|Germany|2022-08			intergenic			False	1	C	-	-	-	-	-	intergenic
+149590	OPG175_CDS_29	forward	G	A	GA	True	3.0	Node2	TCG	S	OP215221|MPXV/Germany/2022/RKI229|Germany|2022-08	TCA	S	synonymous			False	1	G	2	CGA	R	CAA	Q	nonsynonymous
+160391			G	A	GA	True		Node2			OP215221|MPXV/Germany/2022/RKI229|Germany|2022-08			intergenic			False	1	G	-	-	-	-	-	intergenic
+164459	OPG189_CDS_21	forward	G	A	GA	True	3.0	Node2	TGG	W	OP215221|MPXV/Germany/2022/RKI229|Germany|2022-08	TGA	*	nonsense			False	1	G	2	GGA	G	GAA	E	nonsynonymous
+110464	OPG129_CDS_71	reverse	C	T	CC	False	3.0	Node2	TCG	S	OP215222|MPXV/Germany/2022/RKI231|Germany|2022-08	TCA	S	synonymous			False	1	C	1	GGT	G	AGT	S	nonsynonymous
+89906	OPG110_CDS_90	forward	C	T	TC	True	3.0	Node2	TTC	F	Node454	TTT	F	synonymous			False	1	C	2	TCT	S	TTT	F	nonsynonymous
+94798	OPG115_CDS_85	forward	G	A	GA	True	2.0	Node2	TGA	*	Node454	TAA	*	synonymous			True	2	G	1	GAA	E	AAA	K	nonsynonymous
+94798	OPG115_CDS_85	forward	G	A	GA	True	2.0	Node459	TGA	*	OP215260|MPXV/Germany/2022/RKI236|Germany|2022-08	TAA	*	synonymous			True	2	G	1	GAA	E	AAA	K	nonsynonymous
+45605	OPG064_CDS_135	reverse	C	T	TC	True	2.0	Node454	TGA	*	OP215226|MPXV/Germany/2022/RKI241|Germany|2022-08	TAA	*	synonymous			False	1	C	3	TTG	L	TTA	L	synonymous
+47702			G	A	GA	True		Node454			OP215226|MPXV/Germany/2022/RKI241|Germany|2022-08			intergenic			False	1	G	-	-	-	-	-	intergenic
+120237	OPG137_CDS_63	forward	C	T	TC	True	1.0	Node454	CGA	R	OP245334|MPX/PT0081/2022|Portugal|2022-07-23	TGA	*	nonsense			False	1	C	3	GTC	V	GTT	V	synonymous
+126047	OPG148_CDS_52	forward	G	A	GA	True	3.0	Node454	GAG	E	OP245334|MPX/PT0081/2022|Portugal|2022-07-23	GAA	E	synonymous			False	1	G	2	AGA	R	AAA	K	nonsynonymous
+150831			C	T	TC	True		Node454			ON959143|MPX-96/Finland/2022|Finland|2022-06-16			intergenic			False	1	C	-	-	-	-	-	intergenic
+188491			C	T	TC	True		Node454			ON959143|MPX-96/Finland/2022|Finland|2022-06-16			intergenic			False	1	C	-	-	-	-	-	intergenic
+79533	OPG102_CDS_98	forward	C	T	AC	False	3.0	Node454	TAC	Y	ON720848|MpxV/Spain/MD-HGUGM-6513479/2022|Spain|2022-05-27	TAT	Y	synonymous			False	1	C	2	ACT	T	ATT	I	nonsynonymous
+150538			T	A		False		Node454			ON720848|MpxV/Spain/MD-HGUGM-6513479/2022|Spain|2022-05-27			intergenic			False	1	T	-	-	-	-	-	intergenic
+87268	OPG109_CDS_91	reverse	A	G		False	1.0	Node2	TGC	C	Node219	CGC	R	nonsynonymous	180.0	radical	False	1	A	2	GTG	V	GCG	A	nonsynonymous
+40980	OPG060_CDS_139	reverse	C	T	TC	True	1.0	Node219	GAA	E	OP215228|MPXV/Germany/2022/RKI249|Germany|2022-08	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	C	2	AGA	R	AAA	K	nonsynonymous
+149416			G	A	GA	True		Node219			OP215228|MPXV/Germany/2022/RKI249|Germany|2022-08			intergenic			False	1	G	-	-	-	-	-	intergenic
+108239	OPG127_CDS_73	reverse	G	A	GA	True	1.0	Node219	CTA	L	OP215233|MPXV/Germany/2022/RKI191|Germany|2022-08	TTA	L	synonymous			False	1	G	2	TCT	S	TTT	F	nonsynonymous
+54664	OPG072_CDS_128	forward	G	A	GA	True	1.0	Node219	GAA	E	OP215240|MPXV/Germany/2022/RKI200|Germany|2022-08	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	G	3	CTG	L	CTA	L	synonymous
+63120	OPG082_CDS_118	reverse	C	T	TC	True	2.0	Node219	TGA	*	OP215240|MPXV/Germany/2022/RKI200|Germany|2022-08	TAA	*	synonymous			False	1	C	3	GTG	V	GTA	V	synonymous
+105222	OPG124_CDS_76	reverse	C	T	TC	True	2.0	Node219	CGA	R	OP215240|MPXV/Germany/2022/RKI200|Germany|2022-08	CAA	Q	nonsynonymous	43.0	conservative	False	1	C	3	TCG	S	TCA	S	synonymous
+125815	OPG147_CDS_53	reverse	G	A	GA	True	1.0	Node219	CTG	L	OP215240|MPXV/Germany/2022/RKI200|Germany|2022-08	TTG	L	synonymous			False	1	G	2	TCT	S	TTT	F	nonsynonymous
+141757	OPG162_CDS_39	forward	C	T	TC	True	2.0	Node219	TCT	S	ON929076|MPXV/Germany/2022/RKI121|Germany|2022-07	TTT	F	nonsynonymous	155.0	radical	False	1	C	1	CTG	L	TTG	L	synonymous
+188111			G	A	GA	True		Node2			OP215229|MPXV/Germany/2022/RKI250|Germany|2022-08			intergenic			False	1	G	-	-	-	-	-	intergenic
+101074	OPG120_CDS_80	reverse	C	T	TC	True	2.0	Node2	TGA	*	Node661	TAA	*	synonymous			False	1	C	3	TTG	L	TTA	L	synonymous
+138682	OPG156_CDS_45	reverse	G	A	GA	True	1.0	Node2	CTT	L	Node661	TTT	F	nonsynonymous	22.0	conservative	False	1	G	2	TCT	S	TTT	F	nonsynonymous
+124558	OPG145_CDS_55	forward	C	T	TC	True	1.0	Node661	CTT	L	OP215266|MPXV/Germany/2022/RKI246|Germany|2022-08	TTT	F	nonsynonymous	22.0	conservative	False	1	C	3	ATC	I	ATT	I	synonymous
+73609	OPG093_CDS_107	forward	C	T	TC	True	3.0	Node2	CTC	L	Node187	CTT	L	synonymous			False	1	C	2	TCG	S	TTG	L	nonsynonymous
+113740	OPG133_CDS_67	reverse	C	T	TC	True	3.0	Node2	CTG	L	Node187	CTA	L	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+143845	OPG165_CDS_36	forward	C	T	TC	True	1.0	Node2	CAT	H	OP215236|MPXV/Germany/2022/RKI194|Germany|2022-08	TAT	Y	nonsynonymous	83.0	moderately conservative	False	1	C	3	ATC	I	ATT	I	synonymous
+56205	OPG074_CDS_126	reverse	G	A	GG	False	2.0	Node2	CCG	P	Node583	CTG	L	nonsynonymous	98.0	moderately conservative	False	1	G	3	GCC	A	GCT	A	synonymous
+136374	OPG153_CDS_48	reverse	C	T	TC	True	3.0	Node2	TTG	L	Node583	TTA	L	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+57857	OPG077_CDS_123	reverse	C	T	TC	True	3.0	Node583	TAG	*	OP215213|MPXV/Germany/2022/RKI209|Germany|2022-08	TAA	*	synonymous			False	1	C	1	GAA	E	AAA	K	nonsynonymous
+169928	OPG197_CDS_15	forward	G	A	GA	True	2.0	Node2	TGA	*	Node560	TAA	*	synonymous			False	1	G	1	GAT	D	AAT	N	nonsynonymous
+58518	OPG077_CDS_123	reverse	G	A	GA	True	2.0	Node560	TCA	S	Node561	TTA	L	nonsynonymous	145.0	moderately radical	False	1	G	3	TTC	F	TTT	F	synonymous
+63861	OPG083_CDS_117	reverse	G	A	GA	True	3.0	Node561	ATC	I	OP215241|MPXV/Germany/2022/RKI201|Germany|2022-08	ATT	I	synonymous			False	1	G	1	CAC	H	TAC	Y	nonsynonymous
+109844	OPG129_CDS_71	reverse	G	A	GA	True	2.0	Node561	TCG	S	OP215241|MPXV/Germany/2022/RKI201|Germany|2022-08	TTG	L	nonsynonymous	145.0	moderately radical	False	1	G	3	ATC	I	ATT	I	synonymous
+143277	OPG164_CDS_37	forward	C	T	TC	True	3.0	Node561	TTC	F	OP215241|MPXV/Germany/2022/RKI201|Germany|2022-08	TTT	F	synonymous			False	1	C	2	TCT	S	TTT	F	nonsynonymous
+23345	OPG039_CDS_159	reverse	C	T	TC	True	2.0	Node561	AGA	R	OP215277|MPXV/Germany/2022/RKI258|Germany|2022-08	AAA	K	nonsynonymous	26.0	conservative	False	1	C	3	AAG	K	AAA	K	synonymous
+23353	OPG039_CDS_159	reverse	C	T	TC	True	3.0	Node561	ACG	T	OP215277|MPXV/Germany/2022/RKI258|Germany|2022-08	ACA	T	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+23356	OPG039_CDS_159	reverse	C	T	TC	True	3.0	Node561	TTG	L	OP215277|MPXV/Germany/2022/RKI258|Germany|2022-08	TTA	L	synonymous			False	1	C	1	GAC	D	AAC	N	nonsynonymous
+81977	OPG105_CDS_95	forward	G	A	GA	True	1.0	Node561	GAC	D	ON853670|MPXV/Germany/2022/RKI090|Germany|2022-06	AAC	N	nonsynonymous	23.0	conservative	False	1	A	3	CAA	Q	CAA	Q	synonymous
+10118	OPG021_CDS_173	forward	G	A	GA	True	2.0	Node560	TGA	*	Node564	TAA	*	synonymous			False	1	G	1	GAA	E	AAA	K	nonsynonymous
+15004	OPG025_CDS_169	reverse	C	T	TC	True	2.0	Node560	TGA	*	Node564	TAA	*	synonymous			False	1	C	3	TTG	L	TTA	L	synonymous
+16819	OPG029_CDS_167	reverse	G	A	GA	True	1.0	Node564	CAA	Q	ON983165|MpxV/human/CAN/UN-NML-3686/2022|Canada|2022-06-14	TAA	*	nonsense			False	1	G	2	TCA	S	TTA	L	nonsynonymous
+180825	OPG209_CDS_8	forward	C	T	TC	True	3.0	Node564	GTC	V	ON983165|MpxV/human/CAN/UN-NML-3686/2022|Canada|2022-06-14	GTT	V	synonymous			False	1	C	2	TCT	S	TTT	F	nonsynonymous
+48317	OPG068_CDS_132	forward	C	T	TC	True	1.0	Node2	CAA	Q	Node153	TAA	*	nonsense			False	1	C	3	CTC	L	CTT	L	synonymous
+174842	OPG204_CDS_11	forward	C	T	TC	True	3.0	Node2	TTC	F	OP215246|MPXV/Germany/2022/RKI210|Germany|2022-08	TTT	F	synonymous			False	1	C	2	TCT	S	TTT	F	nonsynonymous
+8638			G	A	GA	True		Node2			OP215253|MPXV/Germany/2022/RKI225|Germany|2022-08			intergenic			False	1	G	-	-	-	-	-	intergenic
+24238			C	T	AC	False		Node2			OP215254|MPXV/Germany/2022/RKI226|Germany|2022-08			intergenic			False	1	C	-	-	-	-	-	intergenic
+168738	OPG195_CDS_16	forward	G	A	GA	True	3.0	Node2	TCG	S	OP215254|MPXV/Germany/2022/RKI226|Germany|2022-08	TCA	S	synonymous			False	1	G	2	CGA	R	CAA	Q	nonsynonymous
+12908			G	A	GA	True		Node2			Node139			intergenic			False	1	G	-	-	-	-	-	intergenic
+15057	OPG025_CDS_169	reverse	C	T	TC	True	3.0	Node2	ATG	M	Node139	ATA	I	nonsynonymous	10.0	conservative	False	1	C	1	GAT	D	AAT	N	nonsynonymous
+67261	OPG085_CDS_115	reverse	G	A	GA	True	1.0	Node2	CAG	Q	Node139	TAG	*	nonsense			False	1	G	2	TCA	S	TTA	L	nonsynonymous
+132631			G	A	GT	False		Node139			OP215258|MPXV/Germany/2022/RKI232|Germany|2022-08			intergenic			False	1	G	-	-	-	-	-	intergenic
+143997	OPG165_CDS_36	forward	C	T	TC	True	3.0	Node139	GTC	V	OP245350|MPX/PT0117/2022|Portugal|2022-07-14	GTT	V	synonymous			False	1	C	2	TCG	S	TTG	L	nonsynonymous
+148268			C	T	TC	True		Node2			Node717			intergenic			False	1	C	-	-	-	-	-	intergenic
+9963	OPG021_CDS_173	forward	G	A	GA	True	3.0	Node717	AAG	K	OP205108|MPXV_UK_2022_9000145|United_Kingdom|2022-06-16	AAA	K	synonymous			False	1	G	2	AGA	R	AAA	K	nonsynonymous
+74417	OPG094_CDS_106	forward	C	T	TC	True	3.0	Node717	GTC	V	OP205108|MPXV_UK_2022_9000145|United_Kingdom|2022-06-16	GTT	V	synonymous			False	1	C	2	TCG	S	TTG	L	nonsynonymous
+150003	OPG176_CDS_28	forward	G	A	GC	False	1.0	Node717	GCT	A	OP205108|MPXV_UK_2022_9000145|United_Kingdom|2022-06-16	ACT	T	nonsynonymous	58.0	moderately conservative	False	1	G	3	GTG	V	GTA	V	synonymous
+95004	OPG115_CDS_85	forward	C	T	TC	True	1.0	Node2	CAA	Q	Node459	TAA	*	nonsense			False	1	C	3	TTC	F	TTT	F	synonymous
+152588			G	A	GA	True		Node2			Node459			intergenic			False	1	G	-	-	-	-	-	intergenic
+112605	OPG132_CDS_68	reverse	G	A	GA	True	2.0	Node459	TCA	S	OP215260|MPXV/Germany/2022/RKI236|Germany|2022-08	TTA	L	nonsynonymous	145.0	moderately radical	False	1	G	3	TTC	F	TTT	F	synonymous
+57919	OPG077_CDS_123	reverse	C	T	TC	True	1.0	Node2	GAG	E	OP215261|MPXV/Germany/2022/RKI237|Germany|2022-08	AAG	K	nonsynonymous	56.0	moderately conservative	False	1	C	2	AGA	R	AAA	K	nonsynonymous
+58904	OPG079_CDS_121	reverse	C	T	TC	True	3.0	Node2	TAG	*	OP215261|MPXV/Germany/2022/RKI237|Germany|2022-08	TAA	*	synonymous			False	1	C	1	GAA	E	AAA	K	nonsynonymous
+135057			C	T	TC	True		Node2			OP215261|MPXV/Germany/2022/RKI237|Germany|2022-08			intergenic			False	1	C	-	-	-	-	-	intergenic
+145305	OPG167_CDS_35	reverse	G	A	GA	True	3.0	Node2	TTC	F	OP215261|MPXV/Germany/2022/RKI237|Germany|2022-08	TTT	F	synonymous			False	1	G	1	CCG	P	TCG	S	nonsynonymous
+156068			A	G		False		Node2			OP215261|MPXV/Germany/2022/RKI237|Germany|2022-08			intergenic			False	1	A	-	-	-	-	-	intergenic
+156172			A	G		False		Node2			OP215261|MPXV/Germany/2022/RKI237|Germany|2022-08			intergenic			False	1	A	-	-	-	-	-	intergenic
+178435			G	A	GA	True		Node2			OP215261|MPXV/Germany/2022/RKI237|Germany|2022-08			intergenic			False	1	G	-	-	-	-	-	intergenic
+179783	OPG208_CDS_9	forward	T	C		False	3.0	Node2	TAT	Y	OP215261|MPXV/Germany/2022/RKI237|Germany|2022-08	TAC	Y	synonymous			False	1	T	2	ATA	I	ACA	T	nonsynonymous
+77971	OPG099_CDS_101	forward	G	C		False	2.0	Node2	AGT	S	OP215264|MPXV/Germany/2022/RKI244|Germany|2022-08	ACT	T	nonsynonymous	58.0	moderately conservative	False	1	G	1	GTG	V	CTG	L	nonsynonymous
+36617	OPG055_CDS_144	reverse	G	A	GA	True	1.0	Node2	CAG	Q	Node412	TAG	*	nonsense			False	1	G	2	TCA	S	TTA	L	nonsynonymous
+159779	OPG185_CDS_24	forward	C	T	TC	True	3.0	Node2	GTC	V	Node412	GTT	V	synonymous			False	1	C	2	TCA	S	TTA	L	nonsynonymous
+84008	OPG105_CDS_95	forward	C	T	TC	True	1.0	Node412	CAA	Q	OP215265|MPXV/Germany/2022/RKI245|Germany|2022-08	TAA	*	nonsense			False	1	C	3	TTC	F	TTT	F	synonymous
+151204			C	T	TC	True		Node412			OP215265|MPXV/Germany/2022/RKI245|Germany|2022-08			intergenic			False	1	C	-	-	-	-	-	intergenic
+8552			C	T	TC	True		Node412			OP018604|MPXV/Germany/2022/RKI179|Germany|2022-07			intergenic			False	1	C	-	-	-	-	-	intergenic
+8597			C	T	TC	True		Node412			OP018604|MPXV/Germany/2022/RKI179|Germany|2022-07			intergenic			False	1	C	-	-	-	-	-	intergenic
+46179	OPG065_CDS_134	reverse	G	A	GA	True	1.0	Node412	CAG	Q	OP018604|MPXV/Germany/2022/RKI179|Germany|2022-07	TAG	*	nonsense			False	1	G	2	TCA	S	TTA	L	nonsynonymous
+63026	OPG082_CDS_118	reverse	T	G		False	3.0	Node412	TTA	L	OP018604|MPXV/Germany/2022/RKI179|Germany|2022-07	TTC	F	nonsynonymous	22.0	conservative	False	1	T	1	ACC	T	CCC	P	nonsynonymous
+133557			C	T	TC	True		Node412			OP018604|MPXV/Germany/2022/RKI179|Germany|2022-07			intergenic			False	1	C	-	-	-	-	-	intergenic
+162919	OPG188_CDS_22	forward	T	C		False	2.0	Node412	GTA	V	OP018604|MPXV/Germany/2022/RKI179|Germany|2022-07	GCA	A	nonsynonymous	64.0	moderately conservative	False	1	T	1	TAC	Y	CAC	H	nonsynonymous
+2132	OPG002_CDS_177	reverse	G	A	GA	True	1.0	Node412	CAA	Q	ON959135|MPXV_USA_2022_NY004|USA|2022-05	TAA	*	nonsense			False	1	G	2	TCA	S	TTA	L	nonsynonymous
+96835	OPG117_CDS_83	forward	G	A	GA	True	2.0	Node412	TGA	*	ON959135|MPXV_USA_2022_NY004|USA|2022-05	TAA	*	synonymous			False	1	G	1	GAT	D	AAT	N	nonsynonymous
+168365	OPG195_CDS_16	forward	G	A	GA	True	2.0	Node412	CGA	R	ON959169|MPXV/Germany/2022/RKI155|Germany|2022-07	CAA	Q	nonsynonymous	43.0	conservative	False	1	G	1	GAA	E	AAA	K	nonsynonymous
+170929			G	A	GA	True		Node412			ON959169|MPXV/Germany/2022/RKI155|Germany|2022-07			intergenic			False	1	G	-	-	-	-	-	intergenic
+127245	OPG149_CDS_51	forward	C	T	TC	True	3.0	Node412	GTC	V	ON929060|MPXV/Germany/2022/RKI102|Germany|2022-07	GTT	V	synonymous			False	1	C	2	TCA	S	TTA	L	nonsynonymous
+127245	OPG148_CDS_52	forward	C	T	TC	True	1.0	Node412	CAA	Q	ON929060|MPXV/Germany/2022/RKI102|Germany|2022-07	TAA	*	nonsense			False	1	C	3	GTC	V	GTT	V	synonymous
+132437			C	T	TC	True		Node412			ON929060|MPXV/Germany/2022/RKI102|Germany|2022-07			intergenic			False	1	C	-	-	-	-	-	intergenic
+158617			G	A	GA	True		Node412			ON929060|MPXV/Germany/2022/RKI102|Germany|2022-07			intergenic			False	1	G	-	-	-	-	-	intergenic
+183790	OPG210_CDS_7	forward	C	T	TC	True	3.0	Node412	ATC	I	ON929060|MPXV/Germany/2022/RKI102|Germany|2022-07	ATT	I	synonymous			False	1	C	2	TCG	S	TTG	L	nonsynonymous
+3837	OPG003_CDS_176	reverse	C	T	TC	True	2.0	Node412	CGA	R	ON694330|MPXV/Germany/2022/RKI019|Germany|2022-05	CAA	Q	nonsynonymous	43.0	conservative	False	1	C	3	ACG	T	ACA	T	synonymous
+13653	OPG025_CDS_169	reverse	C	T	TC	True	3.0	Node2	CTG	L	OP215269|MPXV/Germany/2022/RKI252|Germany|2022-08	CTA	L	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+116100	OPG134_CDS_66	forward	C	T	TC	True	1.0	Node2	CTT	L	OP215269|MPXV/Germany/2022/RKI252|Germany|2022-08	TTT	F	nonsynonymous	22.0	conservative	False	1	C	3	TTC	F	TTT	F	synonymous
+121971	OPG142_CDS_58	reverse	G	A	GA	True	2.0	Node2	TCG	S	OP215269|MPXV/Germany/2022/RKI252|Germany|2022-08	TTG	L	nonsynonymous	145.0	moderately radical	False	1	G	3	TTC	F	TTT	F	synonymous
+150376	OPG176_CDS_28	forward	G	A	GA	True	2.0	Node2	TGA	*	OP215269|MPXV/Germany/2022/RKI252|Germany|2022-08	TAA	*	synonymous			False	1	G	1	GAT	D	AAT	N	nonsynonymous
+187059			G	A	GA	True		Node2			OP215269|MPXV/Germany/2022/RKI252|Germany|2022-08			intergenic			False	1	G	-	-	-	-	-	intergenic
+21998	OPG037_CDS_161	reverse	C	T	TC	True	3.0	Node2	CAG	Q	OP215270|MPXV/Germany/2022/RKI255|Germany|2022-08	CAA	Q	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+72097	OPG092_CDS_108	reverse	G	A	GA	True	1.0	Node2	CTA	L	OP215275|MPXV/Germany/2022/RKI256|Germany|2022-08	TTA	L	synonymous			False	1	G	2	TCT	S	TTT	F	nonsynonymous
+145842			C	T	CC	False		Node2			OP215275|MPXV/Germany/2022/RKI256|Germany|2022-08			intergenic			False	1	C	-	-	-	-	-	intergenic
+184945	OPG210_CDS_7	forward	G	A	GA	True	3.0	Node2	TAG	*	OP215281|MPXV/Germany/2022/RKI262|Germany|2022-08	TAA	*	synonymous			False	1	G	2	AGA	R	AAA	K	nonsynonymous
+3698	OPG003_CDS_176	reverse	G	A	GA	True	3.0	Node2	ATC	I	OP215282|MPXV/Germany/2022/RKI263|Germany|2022-08	ATT	I	synonymous			False	1	G	1	CTA	L	TTA	L	synonymous
+33851	OPG052_CDS_147	reverse	G	A	GA	True	3.0	Node2	GTC	V	OP215282|MPXV/Germany/2022/RKI263|Germany|2022-08	GTT	V	synonymous			False	1	G	1	CTT	L	TTT	F	nonsynonymous
+128585	OPG150_CDS_50	forward	C	T	TC	True	1.0	Node2	CAT	H	OP215282|MPXV/Germany/2022/RKI263|Germany|2022-08	TAT	Y	nonsynonymous	83.0	moderately conservative	False	1	C	3	CTC	L	CTT	L	synonymous
+132970			C	T	TC	True		Node2			OP215282|MPXV/Germany/2022/RKI263|Germany|2022-08			intergenic			False	1	C	-	-	-	-	-	intergenic
+141143	OPG161_CDS_40	forward	C	T	TC	True	1.0	Node2	CTC	L	OP215282|MPXV/Germany/2022/RKI263|Germany|2022-08	TTC	F	nonsynonymous	22.0	conservative	False	1	C	3	TTC	F	TTT	F	synonymous
+187154			C	T	TC	True		Node2			Node199			intergenic			False	1	C	-	-	-	-	-	intergenic
+123765	OPG144_CDS_56	reverse	G	A	GA	True	2.0	Node199	TCA	S	OP215206|MPXV/Germany/2022/RKI243|Germany|2022-08	TTA	L	nonsynonymous	145.0	moderately radical	False	1	G	3	TTC	F	TTT	F	synonymous
+11787	OPG023_CDS_171	reverse	C	T	TC	True	3.0	Node2	TTG	L	Node606	TTA	L	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+168943			C	T	TC	True		Node606			Node607			intergenic			False	1	C	-	-	-	-	-	intergenic
+127526	OPG149_CDS_51	forward	G	A	GT	False	2.0	Node607	CGT	R	OP245341|MPX/PT0098/2022|Portugal|2022-07-20	CAT	H	nonsynonymous	29.0	conservative	False	1	G	1	GTC	V	ATC	I	nonsynonymous
+25539			C	T	TC	True		Node2			OP215286|MPXV/Germany/2022/RKI267|Germany|2022-08			intergenic			False	1	C	-	-	-	-	-	intergenic
+156437			C	T	TC	True		Node2			OP215286|MPXV/Germany/2022/RKI267|Germany|2022-08			intergenic			False	1	C	-	-	-	-	-	intergenic
+183939	OPG210_CDS_7	forward	G	A	GA	True	2.0	Node2	CGA	R	OP215286|MPXV/Germany/2022/RKI267|Germany|2022-08	CAA	Q	nonsynonymous	43.0	conservative	False	1	G	1	GAA	E	AAA	K	nonsynonymous
+73616	OPG093_CDS_107	forward	C	T	TC	True	1.0	Node2	CAA	Q	OP245306|MPX/PT0049/2022|Portugal|2022-08-01	TAA	*	nonsense			False	1	C	3	CTC	L	CTT	L	synonymous
+159132	OPG185_CDS_24	forward	G	T		False	1.0	Node2	GGA	G	OP245306|MPX/PT0049/2022|Portugal|2022-08-01	TGA	*	nonsense			False	1	G	3	AAG	K	AAT	N	nonsynonymous
+181367	OPG210_CDS_7	forward	G	A	GA	True	1.0	Node2	GAA	E	Node443	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	G	3	CAG	Q	CAA	Q	synonymous
+51093	OPG070_CDS_130	forward	G	A	GT	False	1.0	Node443	GTT	V	OP245309|MPX/PT0052/2022|Portugal|2022-07-30	ATT	I	nonsynonymous	29.0	conservative	False	1	G	3	GCG	A	GCA	A	synonymous
+54123	OPG071_CDS_129	reverse	C	T	TC	True	3.0	Node443	ATG	M	OP245309|MPX/PT0052/2022|Portugal|2022-07-30	ATA	I	nonsynonymous	10.0	conservative	False	1	C	1	GAA	E	AAA	K	nonsynonymous
+100640	OPG119_CDS_81	forward	C	T	TC	True	1.0	Node443	CAG	Q	OP245309|MPX/PT0052/2022|Portugal|2022-07-30	TAG	*	nonsense			False	1	C	3	GTC	V	GTT	V	synonymous
+176823	OPG205_CDS_10	forward	G	A	GA	True	2.0	Node443	TGA	*	Node445	TAA	*	synonymous			False	1	G	1	GAA	E	AAA	K	nonsynonymous
+34432	OPG053_CDS_146	reverse	C	T	TC	True	3.0	Node445	CTG	L	ON843181|Monkeypox/PT0045/2022|Portugal|2022-06-06	CTA	L	synonymous			False	1	C	1	GAG	E	AAG	K	nonsynonymous
+71464	OPG091_CDS_109	forward	C	T	TC	True	3.0	Node445	ATC	I	ON843181|Monkeypox/PT0045/2022|Portugal|2022-06-06	ATT	I	synonymous			False	1	C	2	TCG	S	TTG	L	nonsynonymous
+57110	OPG074_CDS_126	reverse	C	T	TC	True	3.0	Node445	CGG	R	Node449	CGA	R	synonymous			False	1	C	1	GAA	E	AAA	K	nonsynonymous
+33889	OPG052_CDS_147	reverse	G	A	GA	True	1.0	Node449	CAT	H	ON649714|Monkeypox/PT0015/2022|Portugal|2022-05-20	TAT	Y	nonsynonymous	83.0	moderately conservative	False	1	G	2	TCA	S	TTA	L	nonsynonymous
+82853	OPG105_CDS_95	forward	G	A	GA	True	1.0	Node445	GAC	D	ON585037|Monkeypox/PT0005/2022|Portugal|2022-05-15	AAC	N	nonsynonymous	23.0	conservative	False	1	G	3	GTG	V	GTA	V	synonymous
+16968	OPG029_CDS_167	reverse	C	T	TC	True	2.0	Node445	CGA	R	ON585038|Monkeypox/PT0008/2022|Portugal|2022-05-15	CAA	Q	nonsynonymous	43.0	conservative	False	1	C	3	ACG	T	ACA	T	synonymous
+13059	OPG024_CDS_170	reverse	A	C		False	1.0	Node2	TAA	*	OP245310|MPX/PT0053/2022|Portugal|2022-08-01	G		nonsynonymous			False	1	A	2	GTA	V	GGA	G	nonsynonymous
+13081	OPG024_CDS_170	reverse	T	C		False	3.0	Node2	TTA	L	OP245310|MPX/PT0053/2022|Portugal|2022-08-01	TG		nonsynonymous			False	1	T	1	AAT	N	GAT	D	nonsynonymous
+96773	OPG117_CDS_83	forward	C	T	TC	True	3.0	Node2	TTC	F	OP245310|MPX/PT0053/2022|Portugal|2022-08-01	TTT	F	synonymous			False	1	C	2	TCG	S	TTG	L	nonsynonymous
+109432	OPG129_CDS_71	reverse	C	T	TC	True	3.0	Node2	CTG	L	OP245310|MPX/PT0053/2022|Portugal|2022-08-01	CTA	L	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+142356	OPG163_CDS_38	forward	C	T	TC	True	3.0	Node2	TTC	F	OP245310|MPX/PT0053/2022|Portugal|2022-08-01	TTT	F	synonymous			False	1	C	2	TCC	S	TTC	F	nonsynonymous
+136572	OPG153_CDS_48	reverse	C	T	TC	True	3.0	Node2	TCG	S	Node639	TCA	S	synonymous			False	1	C	1	GAA	E	AAA	K	nonsynonymous
+158190			G	A	GA	True		Node2			Node639			intergenic			False	1	G	-	-	-	-	-	intergenic
+74980	OPG095_CDS_105	forward	G	A	GA	True	2.0	Node639	GGA	G	OP215209|MPXV/Germany/2022/RKI198|Germany|2022-08	GAA	E	nonsynonymous	98.0	moderately conservative	False	1	G	1	GAC	D	AAC	N	nonsynonymous
+144241	OPG165_CDS_36	forward	C	T	AC	False	1.0	Node639	CAA	Q	OP215209|MPXV/Germany/2022/RKI198|Germany|2022-08	TAA	*	nonsense			False	1	C	3	TAC	Y	TAT	Y	synonymous
+158698			C	T	TC	True		Node639			OP215209|MPXV/Germany/2022/RKI198|Germany|2022-08			intergenic			False	1	C	-	-	-	-	-	intergenic
+79473	OPG102_CDS_98	forward	C	A		False	3.0	Node2	TCC	S	OP245312|MPX/PT0056/2022|Portugal|2022-07-29	TCA	S	synonymous			False	1	C	2	CCT	P	CAT	H	nonsynonymous
+171808	OPG199_CDS_13	forward	C	T	TC	True	3.0	Node2	TTC	F	OP245312|MPX/PT0056/2022|Portugal|2022-07-29	TTT	F	synonymous			False	1	C	2	TCA	S	TTA	L	nonsynonymous
+15652			C	T	TC	True		Node2			OP245316|MPX/PT0062/2022|Portugal|2022-08-01			intergenic			False	1	C	-	-	-	-	-	intergenic
+174678	OPG204_CDS_11	forward	G	A	GA	True	1.0	Node2	GAA	E	Node587	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	G	3	TTG	L	TTA	L	synonymous
+133867			C	T	TC	True		Node2			Node502			intergenic			False	1	C	-	-	-	-	-	intergenic
+71227	OPG090_CDS_110	forward	G	A	GA	True	2.0	Node502	CGA	R	OP245318|MPX/PT0064/2022|Portugal|2022-08-01	CAA	Q	nonsynonymous	43.0	conservative	False	1	G	1	GAA	E	AAA	K	nonsynonymous
+134247			C	T	TC	True		Node502			OP245318|MPX/PT0064/2022|Portugal|2022-08-01			intergenic			False	1	C	-	-	-	-	-	intergenic
+158866			G	A	GA	True		Node502			OP245318|MPX/PT0064/2022|Portugal|2022-08-01			intergenic			False	1	G	-	-	-	-	-	intergenic
+94097	OPG113_CDS_87	forward	C	T	TC	True	1.0	Node502	CGC	R	OP169340|MpxV/human/USA/UW-WA-0046/2022|USA|2022-07	TGC	C	nonsynonymous	180.0	radical	False	1	C	3	TTC	F	TTT	F	synonymous
+144330			C	T	TC	True		Node502			OP169340|MpxV/human/USA/UW-WA-0046/2022|USA|2022-07			intergenic			False	1	C	-	-	-	-	-	intergenic
+162265	OPG188_CDS_22	forward	G	A	GA	True	2.0	Node504	CGA	R	Node505	CAA	Q	nonsynonymous	43.0	conservative	False	1	G	1	GAG	E	AAG	K	nonsynonymous
+165278	OPG190_CDS_20	forward	C	T	TC	True	2.0	Node504	TCA	S	Node505	TTA	L	nonsynonymous	145.0	moderately radical	False	1	C	1	CAT	H	TAT	Y	nonsynonymous
+139646	OPG158_CDS_43	reverse	C	T	TC	True	3.0	Node505	ACG	T	OP245319|MPX/PT0065/2022|Portugal|2022-07-27	ACA	T	synonymous			False	1	C	1	GAA	E	AAA	K	nonsynonymous
+65571	OPG084_CDS_116	forward	C	T	TC	True	2.0	Node504	TCT	S	Node506	TTT	F	nonsynonymous	155.0	radical	False	1	C	1	CTA	L	TTA	L	synonymous
+144988	OPG167_CDS_35	reverse	G	A	GA	True	2.0	Node504	TCG	S	Node506	TTG	L	nonsynonymous	145.0	moderately radical	False	1	G	3	CTC	L	CTT	L	synonymous
+40625	OPG059_CDS_140	reverse	G	A	GA	True	2.0	Node506	TCG	S	Node514	TTG	L	nonsynonymous	145.0	moderately radical	False	1	G	3	ATC	I	ATT	I	synonymous
+134205			C	T	TC	True		Node506			Node514			intergenic			False	1	C	-	-	-	-	-	intergenic
+101227	OPG120_CDS_80	reverse	G	A	GA	True	2.0	Node506	TCA	S	OP013012|MpxV/human/CAN/UN-NML-3657/2022|Canada|2022-06-10	TTA	L	nonsynonymous	145.0	moderately radical	False	1	G	3	ATC	I	ATT	I	synonymous
+170389	OPG198_CDS_14	forward	G	A	GA	True	2.0	Node506	CGA	R	ON803420|MpxV/human/CAN/UN-NML-2846/2022|Canada|2022-05-19	CAA	Q	nonsynonymous	43.0	conservative	False	1	G	1	GAA	E	AAA	K	nonsynonymous
+170698	OPG198_CDS_14	forward	G	A	GA	True	2.0	Node506	CGA	R	ON803420|MpxV/human/CAN/UN-NML-2846/2022|Canada|2022-05-19	CAA	Q	nonsynonymous	43.0	conservative	True	2	G	1	GAA	E	AAA	K	nonsynonymous
+170698	OPG198_CDS_14	forward	G	A	GA	True	2.0	Node2	CGA	R	ON880541|MpxV/human/CAN/UN-NML-3344/2022|Canada|2022-06-01	CAA	Q	nonsynonymous	43.0	conservative	True	2	G	1	GAA	E	AAA	K	nonsynonymous
+143074	OPG164_CDS_37	forward	C	T	TC	True	1.0	Node2	CGC	R	Node591	TGC	C	nonsynonymous	180.0	radical	False	1	C	3	TTC	F	TTT	F	synonymous
+174112			G	A	GA	True		Node591			Node592			intergenic			False	1	G	-	-	-	-	-	intergenic
+46456	OPG065_CDS_134	reverse	G	A	GA	True	3.0	Node592	CTC	L	OP245320|MPX/PT0066/2022|Portugal|2022-07-27	CTT	L	synonymous			False	1	G	1	CTG	L	TTG	L	synonymous
+77643	OPG098_CDS_102	forward	G	A	GA	True	1.0	Node592	GAC	D	OP245320|MPX/PT0066/2022|Portugal|2022-07-27	AAC	N	nonsynonymous	23.0	conservative	False	1	G	3	CCG	P	CCA	P	synonymous
+23599	OPG039_CDS_159	reverse	C	T	TC	True	3.0	Node592	TGG	W	OP245332|MPX/PT0078/2022|Portugal|2022-07-26	TGA	*	nonsense			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+24443	OPG040_CDS_158	reverse	C	T	TC	True	3.0	Node592	CTG	L	OP245332|MPX/PT0078/2022|Portugal|2022-07-26	CTA	L	synonymous			False	1	C	1	GAA	E	AAA	K	nonsynonymous
+24485	OPG040_CDS_158	reverse	C	T	TC	True	3.0	Node592	CGG	R	OP245332|MPX/PT0078/2022|Portugal|2022-07-26	CGA	R	synonymous			False	1	C	1	GAG	E	AAG	K	nonsynonymous
+25148	OPG040_CDS_158	reverse	C	T	TC	True	3.0	Node592	TCG	S	OP245332|MPX/PT0078/2022|Portugal|2022-07-26	TCA	S	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+25768			C	T	TC	True		Node592			OP245332|MPX/PT0078/2022|Portugal|2022-07-26			intergenic			False	1	C	-	-	-	-	-	intergenic
+25882	OPG042_CDS_157	reverse	C	T	TC	True	3.0	Node592	ATG	M	OP245332|MPX/PT0078/2022|Portugal|2022-07-26	ATA	I	nonsynonymous	10.0	conservative	False	1	C	1	GAT	D	AAT	N	nonsynonymous
+25914	OPG042_CDS_157	reverse	C	T	TC	True	1.0	Node592	GAC	D	OP245332|MPX/PT0078/2022|Portugal|2022-07-26	AAC	N	nonsynonymous	23.0	conservative	False	1	C	2	AGA	R	AAA	K	nonsynonymous
+49892	OPG068_CDS_132	forward	C	T	AC	False	1.0	Node591	CGG	R	OP205079|MPXV_UK_2022_9000074|United_Kingdom|2022-06-09	TGG	W	nonsynonymous	101.0	moderately radical	True	2	C	3	CAC	H	CAT	H	synonymous
+49892	OPG068_CDS_132	forward	C	T	AC	False	1.0	Node2	CGG	R	Node490	TGG	W	nonsynonymous	101.0	moderately radical	True	2	C	3	CAC	H	CAT	H	synonymous
+76758	OPG097_CDS_103	reverse	C	T	TC	True	3.0	Node591	ACG	T	OP205079|MPXV_UK_2022_9000074|United_Kingdom|2022-06-09	ACA	T	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+105794	OPG124_CDS_76	reverse	C	T	TC	True	3.0	Node591	CCG	P	OP205079|MPXV_UK_2022_9000074|United_Kingdom|2022-06-09	CCA	P	synonymous			False	1	C	1	GAC	D	AAC	N	nonsynonymous
+133991			G	A	GA	True		Node591			OP205079|MPXV_UK_2022_9000074|United_Kingdom|2022-06-09			intergenic			False	1	G	-	-	-	-	-	intergenic
+151929	OPG178_CDS_27	forward	G	A	GA	True	2.0	Node591	CGA	R	OP205079|MPXV_UK_2022_9000074|United_Kingdom|2022-06-09	CAA	Q	nonsynonymous	43.0	conservative	False	1	G	1	GAG	E	AAG	K	nonsynonymous
+146816			C	T	TC	True		Node2			Node642			intergenic			False	1	C	-	-	-	-	-	intergenic
+16362	OPG027_CDS_168	reverse	C	T	TC	True	3.0	Node642	ACG	T	OP245322|MPX/PT0068/2022|Portugal|2022-07-25	ACA	T	synonymous			False	1	C	1	GAA	E	AAA	K	nonsynonymous
+24621	OPG040_CDS_158	reverse	C	T	TC	True	2.0	Node642	CGA	R	OP245322|MPX/PT0068/2022|Portugal|2022-07-25	CAA	Q	nonsynonymous	43.0	conservative	False	1	C	3	TCG	S	TCA	S	synonymous
+32772	OPG049_CDS_150	reverse	C	T	TC	True	1.0	Node642	GAA	E	OP245342|MPX/PT0108/2022|Portugal|2022-07-18	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	C	2	AGA	R	AAA	K	nonsynonymous
+96065	OPG117_CDS_83	forward	G	A	GA	True	3.0	Node642	TAG	*	OP245342|MPX/PT0108/2022|Portugal|2022-07-18	TAA	*	synonymous			False	1	G	2	AGA	R	AAA	K	nonsynonymous
+136995	OPG153_CDS_48	reverse	G	A	GA	True	3.0	Node642	ATC	I	OP245342|MPX/PT0108/2022|Portugal|2022-07-18	ATT	I	synonymous			False	1	G	1	CTA	L	TTA	L	synonymous
+173875			G	A	GT	False		Node642			OP245342|MPX/PT0108/2022|Portugal|2022-07-18			intergenic			False	1	G	-	-	-	-	-	intergenic
+7201			C	T	TC	True		Node2			OP245327|MPX/PT0073/2022|Portugal|2022-07-27			intergenic			False	1	C	-	-	-	-	-	intergenic
+132698			C	T	TC	True		Node2			OP245327|MPX/PT0073/2022|Portugal|2022-07-27			intergenic			False	1	C	-	-	-	-	-	intergenic
+41351	OPG061_CDS_138	reverse	G	A	GC	False	2.0	Node2	GCA	A	OP245328|MPX/PT0074/2022|Portugal|2022-07-27	GTA	V	nonsynonymous	64.0	moderately conservative	False	1	G	3	GGC	G	GGT	G	synonymous
+70841	OPG089_CDS_111	forward	G	A	GA	True	2.0	Node2	TGA	*	Node713	TAA	*	synonymous			False	1	G	1	GAA	E	AAA	K	nonsynonymous
+132625			G	A	GA	True		Node713			OP245333|MPX/PT0080/2022|Portugal|2022-07-26			intergenic			True	2	G	-	-	-	-	-	intergenic
+132625			G	A	GA	True		Node360			OP205105|MPXV_UK_2022_9000142|United_Kingdom|2022-06-15			intergenic			True	2	G	-	-	-	-	-	intergenic
+107442	OPG125_CDS_75	reverse	C	T	TC	True	2.0	Node713	TGA	*	OP245360|MPX/PT0127/2022|Portugal|2022-07-12	TAA	*	synonymous			False	1	C	3	CTG	L	CTA	L	synonymous
+135738			C	T	TC	True		Node713			OP245360|MPX/PT0127/2022|Portugal|2022-07-12			intergenic			False	1	C	-	-	-	-	-	intergenic
+151873	OPG178_CDS_27	forward	C	T	CC	False	3.0	Node2	ACC	T	OP245335|MPX/PT0084/2022|Portugal|2022-07-22	ACT	T	synonymous			False	1	C	2	CCC	P	CTC	L	nonsynonymous
+159001	OPG185_CDS_24	forward	G	A	GA	True	2.0	Node2	TGA	*	OP245340|MPX/PT0090/2022|Portugal|2022-07-21	TAA	*	synonymous			False	1	G	1	GAT	D	AAT	N	nonsynonymous
+12238	OPG023_CDS_171	reverse	A	T		False	2.0	Node2	CTT	L	Node571	CAT	H	nonsynonymous	99.0	moderately conservative	False	1	A	3	TCT	S	TCA	S	synonymous
+151793	OPG178_CDS_27	forward	G	C		False	1.0	Node2	GTT	V	Node571	CTT	L	nonsynonymous	32.0	conservative	False	1	G	3	GCG	A	GCC	A	synonymous
+144301	OPG165_CDS_36	forward	C	A		False	1.0	Node571	CAT	H	Node572	AAT	N	nonsynonymous	68.0	moderately conservative	False	1	C	3	AGC	S	AGA	R	nonsynonymous
+3821	OPG003_CDS_176	reverse	G	A	GA	True	3.0	Node571	ATC	I	OP245351|MPX/PT0118/2022|Portugal|2022-07-13	ATT	I	synonymous			False	1	G	1	CTT	L	TTT	F	nonsynonymous
+20709	OPG036_CDS_162	reverse	C	T	TC	True	1.0	Node2	GAA	E	Node711	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	C	2	AGA	R	AAA	K	nonsynonymous
+12827	OPG023_CDS_171	reverse	T	C		False	1.0	Node711	ATG	M	OP245347|MPX/PT0113/2022|Portugal|2022-07-15	GTG	V	nonsynonymous	21.0	conservative	False	1	T	2	AAT	N	AGT	S	nonsynonymous
+12833	OPG023_CDS_171	reverse	T	A		False	1.0	Node711	ATC	I	OP245347|MPX/PT0113/2022|Portugal|2022-07-15	TTC	F	nonsynonymous	21.0	conservative	False	1	T	2	GAT	D	GTT	V	nonsynonymous
+118330	OPG136_CDS_64	reverse	C	T	TC	True	3.0	Node711	CAG	Q	OP245356|MPX/PT0123/2022|Portugal|2022-07-13	CAA	Q	synonymous			False	1	C	1	GAG	E	AAG	K	nonsynonymous
+65058	OPG084_CDS_116	forward	G	A	GA	True	2.0	Node2	AGA	R	OP245349|MPX/PT0115/2022|Portugal|2022-07-14	AAA	K	nonsynonymous	26.0	conservative	False	1	G	1	GAA	E	AAA	K	nonsynonymous
+102694	OPG122_CDS_78	forward	G	A	GA	True	1.0	Node2	GAA	E	OP245349|MPX/PT0115/2022|Portugal|2022-07-14	AAA	K	nonsynonymous	56.0	moderately conservative	True	2	G	3	CTG	L	CTA	L	synonymous
+102694	OPG122_CDS_78	forward	G	A	GA	True	1.0	Node161	GAA	E	Node163	AAA	K	nonsynonymous	56.0	moderately conservative	True	2	G	3	CTG	L	CTA	L	synonymous
+2174	OPG002_CDS_177	reverse	G	A	GA	True	1.0	Node2	CGT	R	OP245353|MPX/PT0120/2022|Portugal|2022-07-13	TGT	C	nonsynonymous	180.0	radical	False	1	G	2	TCG	S	TTG	L	nonsynonymous
+115572	OPG133_CDS_67	reverse	C	T	TC	True	1.0	Node2	GAA	E	OP245358|MPX/PT0125/2022|Portugal|2022-07-14	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	C	2	CGA	R	CAA	Q	nonsynonymous
+77462	OPG098_CDS_102	forward	C	T	TC	True	3.0	Node2	TTC	F	Node358	TTT	F	synonymous			False	1	C	2	TCC	S	TTC	F	nonsynonymous
+130787	OPG151_CDS_49	forward	G	A	GA	True	2.0	Node358	AGA	R	OP184761|MpxV/human/USA/UW-WA-0058/2022|USA|2022-07	AAA	K	nonsynonymous	26.0	conservative	False	1	G	1	GAG	E	AAG	K	nonsynonymous
+170977			T	A		False		Node358			OP184761|MpxV/human/USA/UW-WA-0058/2022|USA|2022-07			intergenic			False	1	T	-	-	-	-	-	intergenic
+183220	OPG210_CDS_7	forward	C	T	TC	True	3.0	Node2	TTC	F	OP215204|MPXV/Germany/2022/RKI188|Germany|2022-08	TTT	F	synonymous			False	1	C	2	TCC	S	TTC	F	nonsynonymous
+83660	OPG105_CDS_95	forward	C	T	TC	True	1.0	Node2	CGT	R	OP205068|MPXV_UK_2022_9000062|United_Kingdom|2022-06-05	TGT	C	nonsynonymous	180.0	radical	False	1	C	3	TTC	F	TTT	F	synonymous
+164096	OPG189_CDS_21	forward	C	T	TC	True	3.0	Node2	CTC	L	Node766	CTT	L	synonymous			False	1	C	2	TCA	S	TTA	L	nonsynonymous
+188683			C	T	TC	True		Node2			Node766			intergenic			False	1	C	-	-	-	-	-	intergenic
+190269			C	T	TC	True		Node2			Node766			intergenic			False	1	C	-	-	-	-	-	intergenic
+30128	OPG047_CDS_152	reverse	G	T		False	1.0	Node766	CAG	Q	OP205092|MPXV_UK_2022_9000104|United_Kingdom|2022-06-12	AAG	K	nonsynonymous	53.0	moderately conservative	False	1	G	2	CCA	P	CAA	Q	nonsynonymous
+56110	OPG074_CDS_126	reverse	A	G		False	1.0	Node490	TGA	*	OP205095|MPXV_UK_2022_9000107|United_Kingdom|2022-06-13	CGA	R	nonsynonymous			False	1	A	2	TTG	L	TCG	S	nonsynonymous
+14611	OPG025_CDS_169	reverse	G	A	GA	True	2.0	Node490	TCT	S	Node492	TTT	F	nonsynonymous	155.0	radical	True	2	G	3	CTC	L	CTT	L	synonymous
+14611	OPG025_CDS_169	reverse	G	A	GA	True	2.0	Node2	TCT	S	Node669	TTT	F	nonsynonymous	155.0	radical	True	2	G	3	CTC	L	CTT	L	synonymous
+52752	OPG071_CDS_129	reverse	G	A	GA	True	3.0	Node490	ATC	I	Node492	ATT	I	synonymous			True	2	G	1	CTA	L	TTA	L	synonymous
+52752	OPG071_CDS_129	reverse	G	A	GA	True	3.0	Node671	ATC	I	ON880547|MpxV/human/CAN/UN-NML-3441/2022|Canada|2022-06-03	ATT	I	synonymous			True	2	G	1	CTA	L	TTA	L	synonymous
+177009	OPG205_CDS_10	forward	G	A	GA	True	2.0	Node492	CGA	R	OP013001|MpxV/human/CAN/UN-NML-2831/2022|Canada|2022-05-14	CAA	Q	nonsynonymous	43.0	conservative	False	1	G	1	GAA	E	AAA	K	nonsynonymous
+19894	OPG034_CDS_164	reverse	C	T	TC	True	3.0	Node492	CTG	L	Node497	CTA	L	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+41219	OPG061_CDS_138	reverse	C	T	TC	True	2.0	Node492	TGA	*	Node497	TAA	*	synonymous			False	1	C	3	ATG	M	ATA	I	nonsynonymous
+89344	OPG109_CDS_91	reverse	C	T	TC	True	1.0	Node492	GAA	E	Node497	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	C	2	CGA	R	CAA	Q	nonsynonymous
+814			C	T	TC	True		Node497			OP013005|MpxV/human/CAN/UN-NML-3519/2022|Canada|2022-06-06			intergenic			False	1	C	-	-	-	-	-	intergenic
+153993	OPG180_CDS_26	forward	C	T	TC	True	1.0	Node490	CTT	L	ON619837|MPXV_UK_2022_3|United_Kingdom|2022-05	TTT	F	nonsynonymous	22.0	conservative	False	1	C	3	GTC	V	GTT	V	synonymous
+61102	OPG080_CDS_120	reverse	G	A	GA	True	1.0	Node2	CTG	L	OP205102|MPXV_UK_2022_9000137|United_Kingdom|2022-07-07	TTG	L	synonymous			False	1	G	2	TCT	S	TTT	F	nonsynonymous
+96440	OPG117_CDS_83	forward	C	T	AC	False	3.0	Node2	AAC	N	OP205102|MPXV_UK_2022_9000137|United_Kingdom|2022-07-07	AAT	N	synonymous			False	1	C	2	ACA	T	ATA	I	nonsynonymous
+5783	OPG015_CDS_175	reverse	G	A	GA	True	1.0	Node2	CTA	L	OP205104|MPXV_UK_2022_9000140|United_Kingdom|2022-07-06	TTA	L	synonymous			False	1	G	2	TCT	S	TTT	F	nonsynonymous
+170577	OPG198_CDS_14	forward	A	C		False	1.0	Node2	AAA	K	OP205104|MPXV_UK_2022_9000140|United_Kingdom|2022-07-06	CAA	Q	nonsynonymous	53.0	moderately conservative	False	1	A	3	GGA	G	GGC	G	synonymous
+178569			C	T	TC	True		Node2			Node360			intergenic			False	1	C	-	-	-	-	-	intergenic
+23567	OPG039_CDS_159	reverse	C	T	AC	False	2.0	Node2	CGT	R	OP205109|MPXV_UK_2022_9000146|United_Kingdom|2022-06-13	CAT	H	nonsynonymous	29.0	conservative	False	1	C	3	ACG	T	ACA	T	synonymous
+118683	OPG136_CDS_64	reverse	C	T	TC	True	1.0	Node2	GAC	D	OP205109|MPXV_UK_2022_9000146|United_Kingdom|2022-06-13	AAC	N	nonsynonymous	23.0	conservative	False	1	C	2	AGA	R	AAA	K	nonsynonymous
+78232	OPG100_CDS_100	forward	C	T	TC	True	1.0	Node2	CAC	H	OP205115|MPXV_UK_2022_9000157|United_Kingdom|2022-07-07	TAC	Y	nonsynonymous	83.0	moderately conservative	False	1	C	3	TTC	F	TTT	F	synonymous
+99954	OPG118_CDS_82	forward	C	T	TC	True	1.0	Node2	CAA	Q	Node678	TAA	*	nonsense			False	1	C	3	ATC	I	ATT	I	synonymous
+1860	OPG002_CDS_177	reverse	C	T	TC	True	3.0	Node678	TCG	S	ON813260|MPXV/Germany/2022/RKI056|Germany|2022-06	TCA	S	synonymous			False	1	C	1	GAC	D	AAC	N	nonsynonymous
+47811			C	T	TC	True		Node678			ON755243|MPXV/Germany/2022/RKI037|Germany|2022-06			intergenic			False	1	C	-	-	-	-	-	intergenic
+132940			C	T	TC	True		Node2			OP205124|MPXV_UK_2022_9000173|United_Kingdom|2022-05-26			intergenic			False	1	C	-	-	-	-	-	intergenic
+143551	OPG165_CDS_36	forward	C	T	TC	True	1.0	Node2	CGG	R	OP205124|MPXV_UK_2022_9000173|United_Kingdom|2022-05-26	TGG	W	nonsynonymous	101.0	moderately radical	False	1	C	3	TTC	F	TTT	F	synonymous
+27537	OPG043_CDS_156	reverse	C	T	TC	True	1.0	Node2	GAC	D	OP205125|MPXV_UK_2022_9000175|United_Kingdom|2022-06-24	AAC	N	nonsynonymous	23.0	conservative	False	1	C	2	AGA	R	AAA	K	nonsynonymous
+118790	OPG136_CDS_64	reverse	G	A	GA	True	2.0	Node2	TCG	S	OP205125|MPXV_UK_2022_9000175|United_Kingdom|2022-06-24	TTG	L	nonsynonymous	145.0	moderately radical	False	1	G	3	GTC	V	GTT	V	synonymous
+82676	OPG105_CDS_95	forward	C	T	TC	True	1.0	Node2	CTT	L	OP205129|MPXV_UK_2022_9000184|United_Kingdom|2022-06-30	TTT	F	nonsynonymous	22.0	conservative	False	1	C	3	CTC	L	CTT	L	synonymous
+33274	OPG050_CDS_149	reverse	G	A	GT	False	2.0	Node2	ACC	T	OP205130|MPXV_UK_2022_9000185|United_Kingdom|2022-06-29	ATC	I	nonsynonymous	89.0	moderately conservative	False	1	G	3	AAC	N	AAT	N	synonymous
+47537			C	T	TC	True		Node2			OP205130|MPXV_UK_2022_9000185|United_Kingdom|2022-06-29			intergenic			False	1	C	-	-	-	-	-	intergenic
+68286	OPG085_CDS_115	reverse	G	A	GA	True	2.0	Node2	TCA	S	OP205130|MPXV_UK_2022_9000185|United_Kingdom|2022-06-29	TTA	L	nonsynonymous	145.0	moderately radical	False	1	G	3	ATC	I	ATT	I	synonymous
+117044	OPG136_CDS_64	reverse	A	T		False	2.0	Node2	CTT	L	OP205136|MPXV_UK_2022_9000191|United_Kingdom|2022-07-04	CAT	H	nonsynonymous	99.0	moderately conservative	False	1	A	3	TCT	S	TCA	S	synonymous
+111084	OPG130_CDS_70	reverse	G	A	GA	True	2.0	Node2	TCA	S	Node157	TTA	L	nonsynonymous	145.0	moderately radical	False	1	G	3	GTC	V	GTT	V	synonymous
+182950	OPG210_CDS_7	forward	C	T	TC	True	3.0	Node2	TTC	F	Node157	TTT	F	synonymous			False	1	C	2	TCG	S	TTG	L	nonsynonymous
+98233	OPG117_CDS_83	forward	G	A	GA	True	2.0	Node157	CGA	R	Node160	CAA	Q	nonsynonymous	43.0	conservative	False	1	G	1	GAT	D	AAT	N	nonsynonymous
+98455	OPG118_CDS_82	forward	G	A	GG	False	2.0	Node157	CGG	R	Node160	CAG	Q	nonsynonymous	43.0	conservative	False	1	G	1	GGA	G	AGA	R	nonsynonymous
+160484			G	A	GA	True		Node161			Node163			intergenic			False	1	G	-	-	-	-	-	intergenic
+10484	OPG022_CDS_172	reverse	C	T	TC	True	2.0	Node161	TGA	*	OP171925|MPXV22/human/USA-NE-75|USA|2022-07-25	TAA	*	synonymous			True	2	C	3	CTG	L	CTA	L	synonymous
+10484	OPG022_CDS_172	reverse	C	T	TC	True	2.0	Node2	TGA	*	ON843168|Monkeypox/PT0032/2022|Portugal|2022-05-26	TAA	*	synonymous			True	2	C	3	CTG	L	CTA	L	synonymous
+61974	OPG080_CDS_120	reverse	A	G		False	2.0	Node161	TTG	L	OP171925|MPXV22/human/USA-NE-75|USA|2022-07-25	TCG	S	nonsynonymous	145.0	moderately radical	False	1	A	3	TTT	F	TTC	F	synonymous
+76334	OPG097_CDS_103	reverse	C	T	TC	True	1.0	Node160	GAA	E	ON880413|MPX/BR0002/2022|Brazil|2022-06-14	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	C	2	AGA	R	AAA	K	nonsynonymous
+121510	OPG140_CDS_60	reverse	G	A	GA	True	2.0	Node157	TCA	S	ON880540|MpxV/human/CAN/UN-NML-3342/2022|Canada|2022-06-01	TTA	L	nonsynonymous	145.0	moderately radical	False	1	G	3	GTC	V	GTT	V	synonymous
+34308	OPG053_CDS_146	reverse	G	A	GA	True	1.0	Node2	CGG	R	Node420	TGG	W	nonsynonymous	101.0	moderately radical	False	1	G	2	TCG	S	TTG	L	nonsynonymous
+18027	OPG031_CDS_165	reverse	C	T	TC	True	3.0	Node420	ATG	M	OP185714|MPXV_USA_2022_CO0003|USA|2022-06	ATA	I	nonsynonymous	10.0	conservative	False	1	C	1	GAT	D	AAT	N	nonsynonymous
+159165	OPG185_CDS_24	forward	T	C		False	1.0	Node420	TCT	S	OP185714|MPXV_USA_2022_CO0003|USA|2022-06	CCT	P	nonsynonymous	74.0	moderately conservative	False	1	T	3	GAT	D	GAC	D	synonymous
+162156	OPG188_CDS_22	forward	G	A	GG	False	1.0	Node420	GGT	G	OP185714|MPXV_USA_2022_CO0003|USA|2022-06	AGT	S	nonsynonymous	56.0	moderately conservative	False	1	G	3	GCG	A	GCA	A	synonymous
+24995	OPG040_CDS_158	reverse	C	T	TC	True	3.0	Node420	TCG	S	Node424	TCA	S	synonymous			False	1	C	1	GAC	D	AAC	N	nonsynonymous
+85774	OPG107_CDS_93	forward	G	A	GA	True	3.0	Node420	TAG	*	Node424	TAA	*	synonymous			False	1	G	2	AGA	R	AAA	K	nonsynonymous
+148427	OPG174_CDS_30	reverse	G	A	GA	True	2.0	Node420	TCA	S	Node424	TTA	L	nonsynonymous	145.0	moderately radical	False	1	G	3	TTC	F	TTT	F	synonymous
+189258	OPG005_CDS_6	forward	G	A	GA	True	1.0	Node420	GAA	E	Node424	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	G	3	CTG	L	CTA	L	synonymous
+45236	OPG064_CDS_135	reverse	G	A	GA	True	2.0	Node424	TCC	S	OP062236|MpxV/human/CAN/UN-NML-3936/2022|Canada|2022-06-30	TTC	F	nonsynonymous	155.0	radical	False	1	G	3	ATC	I	ATT	I	synonymous
+132531			G	A	GG	False		Node424			OP062236|MpxV/human/CAN/UN-NML-3936/2022|Canada|2022-06-30			intergenic			False	1	G	-	-	-	-	-	intergenic
+167106	OPG192_CDS_18	forward	G	A	GA	True	2.0	Node424	TGA	*	ON983164|MpxV/human/CAN/UN-NML-3558/2022|Canada|2022-06-09	TAA	*	synonymous			False	1	G	1	GAA	E	AAA	K	nonsynonymous
+127678	OPG149_CDS_51	forward	G	A	GA	True	1.0	Node424	GAG	E	ON880506|MpxV/human/CAN/UN-NML-2959/2022|Canada|2022-05-22	AAG	K	nonsynonymous	56.0	moderately conservative	False	1	G	3	ATG	M	ATA	I	nonsynonymous
+139901	OPG159_CDS_42	forward	C	T	TC	True	3.0	Node424	TTC	F	ON880506|MpxV/human/CAN/UN-NML-2959/2022|Canada|2022-05-22	TTT	F	synonymous			False	1	C	2	TCT	S	TTT	F	nonsynonymous
+52914	OPG071_CDS_129	reverse	G	A	GC	False	3.0	Node424	AGC	S	ON754989|mpx_2022_Canada_AB2|Canada|2022-06-06	AGT	S	synonymous			False	1	G	1	CTA	L	TTA	L	synonymous
+61274	OPG080_CDS_120	reverse	C	G		False	3.0	Node424	TAG	*	ON754989|mpx_2022_Canada_AB2|Canada|2022-06-06	TAC	Y	nonsynonymous			False	1	C	1	GGT	G	CGT	R	nonsynonymous
+83018	OPG105_CDS_95	forward	A	G		False	1.0	Node424	ATC	I	ON754989|mpx_2022_Canada_AB2|Canada|2022-06-06	GTC	V	nonsynonymous	29.0	conservative	False	1	A	3	GAA	E	GAG	E	synonymous
+10672	OPG022_CDS_172	reverse	C	T	TC	True	3.0	Node420	ACG	T	Node439	ACA	T	synonymous			False	1	C	1	GAG	E	AAG	K	nonsynonymous
+112481	OPG132_CDS_68	reverse	G	A	GT	False	3.0	Node420	AAC	N	Node439	AAT	N	synonymous			False	1	G	1	CTG	L	TTG	L	synonymous
+144478			G	A	GA	True		Node420			Node439			intergenic			False	1	G	3	AAG	K	AAA	K	synonymous
+163626	OPG189_CDS_21	forward	G	A	GA	True	1.0	Node420	GAA	E	Node439	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	G	3	AAG	K	AAA	K	synonymous
+36545	OPG055_CDS_144	reverse	G	A	GA	True	1.0	Node439	CAT	H	OP013008|MpxV/human/CAN/UN-NML-3582/2022|Canada|2022-06-08	TAT	Y	nonsynonymous	83.0	moderately conservative	False	1	G	2	TCA	S	TTA	L	nonsynonymous
+91067	OPG111_CDS_89	forward	C	T	TC	True	3.0	Node439	ATC	I	OP013008|MpxV/human/CAN/UN-NML-3582/2022|Canada|2022-06-08	ATT	I	synonymous			False	1	C	2	TCA	S	TTA	L	nonsynonymous
+85846	OPG107_CDS_93	forward	T	C		False	3.0	Node420	TAT	Y	Node441	TAC	Y	synonymous			False	1	T	2	ATG	M	ACG	T	nonsynonymous
+69127	OPG087_CDS_113	forward	C	T	AC	False	2.0	Node420	ACG	T	ON803417|MpxV/human/CAN/UN-NML-2836/2022|Canada|2022-05-17	ATG	M	nonsynonymous	81.0	moderately conservative	False	1	C	1	CGG	R	TGG	W	nonsynonymous
+158750			G	A	GT	False		Node420			ON803417|MpxV/human/CAN/UN-NML-2836/2022|Canada|2022-05-17			intergenic			False	1	G	-	-	-	-	-	intergenic
+17437	OPG030_CDS_166	reverse	C	T	TC	True	3.0	Node2	ATG	M	OP185715|MPXV_USA_2022_CO0002|USA|2022-05	ATA	I	nonsynonymous	10.0	conservative	False	1	C	1	GAG	E	AAG	K	nonsynonymous
+163468	OPG189_CDS_21	forward	G	A	GA	True	2.0	Node2	TGA	*	OP185717|MPXV_USA_2022_AZ0001|USA|2022-06	TAA	*	synonymous			False	1	G	1	GAG	E	AAG	K	nonsynonymous
+62664	OPG082_CDS_118	reverse	G	A	GA	True	2.0	Node2	TCA	S	OP169338|MpxV/human/USA/UW-WA-0044/2022|USA|2022-07	TTA	L	nonsynonymous	145.0	moderately radical	False	1	G	3	TTC	F	TTT	F	synonymous
+118710	OPG136_CDS_64	reverse	G	A	GA	True	1.0	Node2	CTA	L	OP169338|MpxV/human/USA/UW-WA-0044/2022|USA|2022-07	TTA	L	synonymous			False	1	G	2	TCT	S	TTT	F	nonsynonymous
+164272	OPG189_CDS_21	forward	C	T	TC	True	2.0	Node2	TCG	S	OP169338|MpxV/human/USA/UW-WA-0044/2022|USA|2022-07	TTG	L	nonsynonymous	145.0	moderately radical	False	1	C	1	CGT	R	TGT	C	nonsynonymous
+164635	OPG189_CDS_21	forward	G	A	GA	True	2.0	Node2	CGA	R	OP169338|MpxV/human/USA/UW-WA-0044/2022|USA|2022-07	CAA	Q	nonsynonymous	43.0	conservative	False	1	G	1	GAT	D	AAT	N	nonsynonymous
+38095	OPG056_CDS_143	reverse	C	T	TC	True	3.0	Node2	CCG	P	OP169343|MpxV/human/USA/UW-WA-0050/2022|USA|2022-07	CCA	P	synonymous			False	1	C	1	GAC	D	AAC	N	nonsynonymous
+64467	OPG083_CDS_117	reverse	C	T	TC	True	3.0	Node2	GCG	A	OP169343|MpxV/human/USA/UW-WA-0050/2022|USA|2022-07	GCA	A	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+172259	OPG200_CDS_12	forward	C	T	TC	True	3.0	Node2	GTC	V	OP171922|MPXV22/human/USA-NE-44|USA|2022-07-14	GTT	V	synonymous			False	1	C	2	TCG	S	TTG	L	nonsynonymous
+64522	OPG083_CDS_117	reverse	G	A	GA	True	2.0	Node2	TCG	S	OX261749|RNA|Slovakia|2022-07-20	TTG	L	nonsynonymous	145.0	moderately radical	False	1	G	3	ATC	I	ATT	I	synonymous
+148207	OPG173_CDS_31	forward	A	T		False	1.0	Node2	AAA	K	OP160532|hMpxV/Netherlands/NH-AUMC-0001/2022|Netherlands|2022-06	TAA	*	nonsense			False	1	A	3	GAA	E	GAT	D	nonsynonymous
+145659			G	A	GC	False		Node2			Node598			intergenic			False	1	G	-	-	-	-	-	intergenic
+188381			C	T	TC	True		Node2			OP144217|MPXV/ITM_pt_09/Belgium/2-Jun-2022|Belgium|2022-06-02			intergenic			False	1	C	-	-	-	-	-	intergenic
+83568	OPG105_CDS_95	forward	G	A	GC	False	2.0	Node2	TGC	C	Node194	TAC	Y	nonsynonymous	194.0	radical	False	1	G	1	GCT	A	ACT	T	nonsynonymous
+188252			C	T	TC	True		Node2			Node643			intergenic			False	1	C	-	-	-	-	-	intergenic
+322			A	G		False		Node643			OP133004|hMPXV/Austria/MUW1533374/2022|Austria|2022-07-11			intergenic			False	1	A	-	-	-	-	-	intergenic
+450			T	C		False		Node643			OP133004|hMPXV/Austria/MUW1533374/2022|Austria|2022-07-11			intergenic			False	1	T	-	-	-	-	-	intergenic
+122511	OPG143_CDS_57	reverse	C	T	TC	True	3.0	Node2	ATG	M	OP133006|hMPXV/Austria/MUW1532243/2022|Austria|2022-07-06	ATA	I	nonsynonymous	10.0	conservative	False	1	C	1	GAG	E	AAG	K	nonsynonymous
+151801	OPG178_CDS_27	forward	G	A	GA	True	3.0	Node2	TGG	W	OP133006|hMPXV/Austria/MUW1532243/2022|Austria|2022-07-06	TGA	*	nonsense			False	1	G	2	GGA	G	GAA	E	nonsynonymous
+153984	OPG180_CDS_26	forward	C	T	TC	True	1.0	Node2	CAT	H	OP133006|hMPXV/Austria/MUW1532243/2022|Austria|2022-07-06	TAT	Y	nonsynonymous	83.0	moderately conservative	False	1	C	3	ATC	I	ATT	I	synonymous
+169886	OPG197_CDS_15	forward	G	A	GA	True	2.0	Node2	AGA	R	OP133006|hMPXV/Austria/MUW1532243/2022|Austria|2022-07-06	AAA	K	nonsynonymous	26.0	conservative	False	1	G	1	GAA	E	AAA	K	nonsynonymous
+110407	OPG129_CDS_71	reverse	G	A	GA	True	3.0	Node2	TTC	F	OP133007|hMPXV/Austria/MUW1536480/2022|Austria|2022-07-22	TTT	F	synonymous			False	1	G	1	CTG	L	TTG	L	synonymous
+173189			A	G		False		Node2			OP133007|hMPXV/Austria/MUW1536480/2022|Austria|2022-07-22			intergenic			False	1	A	-	-	-	-	-	intergenic
+134814			C	T	TC	True		Node2			OP123040|MpxV/human/USA/UW-WA-0026/2022|USA|2022-07			intergenic			False	1	C	-	-	-	-	-	intergenic
+151411			C	T	TC	True		Node2			OP123040|MpxV/human/USA/UW-WA-0026/2022|USA|2022-07			intergenic			False	1	C	-	-	-	-	-	intergenic
+58506	OPG077_CDS_123	reverse	G	A	GA	True	2.0	Node2	TCA	S	OP123047|MpxV/human/USA/UW-WA-0033/2022|USA|2022-07	TTA	L	nonsynonymous	145.0	moderately radical	False	1	G	3	ATC	I	ATT	I	synonymous
+57790	OPG077_CDS_123	reverse	C	T	TC	True	1.0	Node2	GAG	E	OP062230|MpxV/human/CAN/UN-NML-3864/2022|Canada|2022-06-22	AAG	K	nonsynonymous	56.0	moderately conservative	False	1	C	2	AGA	R	AAA	K	nonsynonymous
+75169	OPG095_CDS_105	forward	G	A	GA	True	2.0	Node2	CGA	R	Node223	CAA	Q	nonsynonymous	43.0	conservative	False	1	G	1	GAT	D	AAT	N	nonsynonymous
+61445	OPG080_CDS_120	reverse	G	A	GA	True	3.0	Node2	ATC	I	OP062234|MpxV/human/CAN/UN-NML-3921/2022|Canada|2022-06-29	ATT	I	synonymous			False	1	G	1	CTA	L	TTA	L	synonymous
+124213	OPG145_CDS_55	forward	C	T	TC	True	1.0	Node2	CGT	R	OP062234|MpxV/human/CAN/UN-NML-3921/2022|Canada|2022-06-29	TGT	C	nonsynonymous	180.0	radical	False	1	C	3	GTC	V	GTT	V	synonymous
+159243	OPG185_CDS_24	forward	G	A	GA	True	1.0	Node2	GAC	D	OP062234|MpxV/human/CAN/UN-NML-3921/2022|Canada|2022-06-29	AAC	N	nonsynonymous	23.0	conservative	False	1	G	3	TCG	S	TCA	S	synonymous
+40275	OPG058_CDS_141	reverse	C	T	TC	True	3.0	Node2	TTG	L	Node668	TTA	L	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+75264	OPG095_CDS_105	forward	C	T	GC	False	1.0	Node2	CAA	Q	Node167	TAA	*	nonsense			False	1	C	3	AGC	S	AGT	S	synonymous
+61013	OPG080_CDS_120	reverse	C	T	TC	True	3.0	Node167	CTG	L	ON880536|MpxV/human/CAN/UN-NML-3272/2022|Canada|2022-05-31	CTA	L	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+32469	OPG049_CDS_150	reverse	A	G		False	1.0	Node2	TGC	C	OP013015|MpxV/human/CAN/UN-NML-3674/2022|Canada|2022-06-13	CGC	R	nonsynonymous	180.0	radical	False	1	A	2	GTG	V	GCG	A	nonsynonymous
+111574	OPG130_CDS_70	reverse	G	A	GA	True	1.0	Node2	CAT	H	OP018595|MPXV/Germany/2022/RKI170|Germany|2022-07	TAT	Y	nonsynonymous	83.0	moderately conservative	False	1	G	2	TCA	S	TTA	L	nonsynonymous
+124902	OPG145_CDS_55	forward	C	T	TC	True	3.0	Node2	GTC	V	OP018595|MPXV/Germany/2022/RKI170|Germany|2022-07	GTT	V	synonymous			False	1	C	2	TCA	S	TTA	L	nonsynonymous
+134453			C	T	TC	True		Node2			OP018601|MPXV/Germany/2022/RKI176|Germany|2022-07			intergenic			False	1	C	-	-	-	-	-	intergenic
+135102			C	T	GC	False		Node2			OP018601|MPXV/Germany/2022/RKI176|Germany|2022-07			intergenic			False	1	C	-	-	-	-	-	intergenic
+179023			G	A	GA	True		Node2			OP018601|MPXV/Germany/2022/RKI176|Germany|2022-07			intergenic			False	1	G	-	-	-	-	-	intergenic
+107070	OPG125_CDS_75	reverse	A	C		False	2.0	Node2	CTT	L	OP019275|hMPXV/Austria/MUW1525179/2022|Austria|2022-06-10	CGT	R	nonsynonymous	102.0	moderately radical	False	1	A	3	TCT	S	TCG	S	synonymous
+144546			C	T	TC	True		Node2			OP019275|hMPXV/Austria/MUW1525179/2022|Austria|2022-06-10			intergenic			False	1	C	2	TCT	S	TTT	F	nonsynonymous
+190319			G	A	GA	True		Node2			OP019275|hMPXV/Austria/MUW1525179/2022|Austria|2022-06-10			intergenic			False	1	G	-	-	-	-	-	intergenic
+98368	OPG117_CDS_83	forward	C	T	TC	True	2.0	Node2	TCT	S	ON959134|MPXV_USA_2022_NY003|USA|2022-05	TTT	F	nonsynonymous	155.0	radical	False	1	C	1	CTG	L	TTG	L	synonymous
+73835	OPG094_CDS_106	forward	C	A		False	3.0	Node2	ACC	T	ON959155|MPXV/Germany/2022/RKI138|Germany|2022-07	ACA	T	synonymous			False	1	C	2	CCC	P	CAC	H	nonsynonymous
+106729	OPG125_CDS_75	reverse	G	A	GA	True	1.0	Node2	CTG	L	ON959158|MPXV/Germany/2022/RKI143|Germany|2022-07	TTG	L	synonymous			False	1	G	2	TCT	S	TTT	F	nonsynonymous
+139397	OPG157_CDS_44	reverse	G	A	GT	False	1.0	Node2	CGG	R	ON959162|MPXV/Germany/2022/RKI148|Germany|2022-07	TGG	W	nonsynonymous	101.0	moderately radical	False	1	G	2	ACG	T	ATG	M	nonsynonymous
+139397	OPG156_CDS_45	reverse	G	A	GT	False	3.0	Node2	CAC	H	ON959162|MPXV/Germany/2022/RKI148|Germany|2022-07	CAT	H	synonymous			False	1	G	1	CGG	R	TGG	W	nonsynonymous
+153679	OPG180_CDS_26	forward	A	T		False	2.0	Node2	GAC	D	ON959162|MPXV/Germany/2022/RKI148|Germany|2022-07	GTC	V	nonsynonymous	152.0	radical	False	1	A	1	ACA	T	TCA	S	nonsynonymous
+30283	OPG047_CDS_152	reverse	C	T	TC	True	2.0	Node2	CGA	R	Node584	CAA	Q	nonsynonymous	43.0	conservative	False	1	C	3	CCG	P	CCA	P	synonymous
+153873	OPG180_CDS_26	forward	G	A	GA	True	1.0	Node2	GAG	E	Node584	AAG	K	nonsynonymous	56.0	moderately conservative	False	1	G	3	AAG	K	AAA	K	synonymous
+165782	OPG190_CDS_20	forward	C	T	TC	True	2.0	Node2	TCC	S	Node584	TTC	F	nonsynonymous	155.0	radical	False	1	C	1	CCA	P	TCA	S	nonsynonymous
+152274			A	G		False		Node2			ON959165|MPXV/Germany/2022/RKI151|Germany|2022-07			intergenic			False	1	A	-	-	-	-	-	intergenic
+143059	OPG164_CDS_37	forward	G	A	GA	True	1.0	Node2	GAA	E	ON959174|MPXV/Germany/2022/RKI161|Germany|2022-07	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	G	3	TTG	L	TTA	L	synonymous
+180523	OPG209_CDS_8	forward	G	A	GA	True	1.0	Node2	GAT	D	ON959174|MPXV/Germany/2022/RKI161|Germany|2022-07	AAT	N	nonsynonymous	23.0	conservative	False	1	G	3	ACG	T	ACA	T	synonymous
+15437			G	A	GA	True		Node2			ON929065|MPXV/Germany/2022/RKI107|Germany|2022-07			intergenic			False	1	G	-	-	-	-	-	intergenic
+10648	OPG022_CDS_172	reverse	G	A	GA	True	3.0	Node2	ATC	I	ON929078|MPXV/Germany/2022/RKI123|Germany|2022-07	ATT	I	synonymous			False	1	G	1	CTG	L	TTG	L	synonymous
+28818	OPG045_CDS_154	reverse	C	T	TC	True	3.0	Node2	CCG	P	ON929078|MPXV/Germany/2022/RKI123|Germany|2022-07	CCA	P	synonymous			False	1	C	1	GAA	E	AAA	K	nonsynonymous
+29641	OPG046_CDS_153	reverse	G	A	GA	True	1.0	Node2	CGC	R	ON929078|MPXV/Germany/2022/RKI123|Germany|2022-07	TGC	C	nonsynonymous	180.0	radical	False	1	G	2	TCG	S	TTG	L	nonsynonymous
+171207	OPG199_CDS_13	forward	G	A	GC	False	2.0	Node2	TGC	C	ON929078|MPXV/Germany/2022/RKI123|Germany|2022-07	TAC	Y	nonsynonymous	194.0	radical	False	1	G	1	GCC	A	ACC	T	nonsynonymous
+91746	OPG113_CDS_87	forward	G	A	GT	False	2.0	Node2	AGT	S	ON929081|MPXV/Germany/2022/RKI126|Germany|2022-07	AAT	N	nonsynonymous	46.0	conservative	False	1	G	1	GTA	V	ATA	I	nonsynonymous
+184189	OPG210_CDS_7	forward	C	A		False	3.0	Node2	ACC	T	ON929083|MPXV/Germany/2022/RKI128|Germany|2022-07	ACA	T	synonymous			False	1	C	2	CCC	P	CAC	H	nonsynonymous
+3064	OPG003_CDS_176	reverse	G	A	GA	True	1.0	Node2	CAT	H	ON929086|MPXV/Germany/2022/RKI131|Germany|2022-07	TAT	Y	nonsynonymous	83.0	moderately conservative	False	1	G	2	TCA	S	TTA	L	nonsynonymous
+124332	OPG145_CDS_55	forward	C	T	AC	False	3.0	Node671	CAC	H	ON880547|MpxV/human/CAN/UN-NML-3441/2022|Canada|2022-06-03	CAT	H	synonymous			False	1	C	2	ACA	T	ATA	I	nonsynonymous
+151626	OPG178_CDS_27	forward	C	T	TC	True	2.0	Node671	TCA	S	ON880547|MpxV/human/CAN/UN-NML-3441/2022|Canada|2022-06-03	TTA	L	nonsynonymous	145.0	moderately radical	False	1	C	1	CAG	Q	TAG	*	nonsense
+134052			C	T	TC	True		Node2			ON880518|MpxV/human/CAN/UN-NML-3486/2022|Canada|2022-06-08			intergenic			False	1	C	-	-	-	-	-	intergenic
+141458	OPG161_CDS_40	forward	C	T	TC	True	1.0	Node2	CGA	R	ON880518|MpxV/human/CAN/UN-NML-3486/2022|Canada|2022-06-08	TGA	*	nonsense			False	1	C	3	TTC	F	TTT	F	synonymous
+179416	OPG208_CDS_9	forward	G	A	GA	True	2.0	Node2	TGA	*	ON880518|MpxV/human/CAN/UN-NML-3486/2022|Canada|2022-06-08	TAA	*	synonymous			False	1	G	1	GAG	E	AAG	K	nonsynonymous
+144199	OPG165_CDS_36	forward	C	T	TC	True	1.0	Node2	CGA	R	ON880520|MpxV/human/CAN/UN-NML-2857/2022|Canada|2022-05-19	TGA	*	nonsense			False	1	C	3	CTC	L	CTT	L	synonymous
+158797			G	A	GA	True		Node2			ON880535|MpxV/human/CAN/UN-NML-3269/2022|Canada|2022-05-31			intergenic			False	1	G	-	-	-	-	-	intergenic
+174321			C	T	TC	True		Node2			ON880535|MpxV/human/CAN/UN-NML-3269/2022|Canada|2022-05-31			intergenic			False	1	C	-	-	-	-	-	intergenic
+127215	OPG149_CDS_51	forward	C	T	TC	True	3.0	Node2	TTC	F	ON880537|MpxV/human/CAN/UN-NML-3273/2022|Canada|2022-05-31	TTT	F	synonymous			False	1	C	2	TCG	S	TTG	L	nonsynonymous
+127215	OPG148_CDS_52	forward	C	T	TC	True	1.0	Node2	CGT	R	ON880537|MpxV/human/CAN/UN-NML-3273/2022|Canada|2022-05-31	TGT	C	nonsynonymous	180.0	radical	False	1	C	3	TTC	F	TTT	F	synonymous
+17810	OPG030_CDS_166	reverse	C	T	TC	True	2.0	Node2	TGA	*	ON880543|MpxV/human/CAN/UN-NML-3357/2022|Canada|2022-06-02	TAA	*	synonymous			False	1	C	3	ATG	M	ATA	I	nonsynonymous
+62130	OPG081_CDS_119	reverse	G	A	GA	True	2.0	Node2	TCA	S	ON880543|MpxV/human/CAN/UN-NML-3357/2022|Canada|2022-06-02	TTA	L	nonsynonymous	145.0	moderately radical	False	1	G	3	TTC	F	TTT	F	synonymous
+157792			C	T	TC	True		Node2			ON880543|MpxV/human/CAN/UN-NML-3357/2022|Canada|2022-06-02			intergenic			False	1	C	-	-	-	-	-	intergenic
+48785	OPG068_CDS_132	forward	T	C		False	1.0	Node2	TAA	*	ON872184|WA-2022|Ireland|2022-05-30	CAA	Q	nonsynonymous			False	1	T	3	GAT	D	GAC	D	synonymous
+49636	OPG068_CDS_132	forward	G	A	GA	True	3.0	Node2	AGG	R	ON872184|WA-2022|Ireland|2022-05-30	AGA	R	synonymous			False	1	G	2	GGA	G	GAA	E	nonsynonymous
+50017	OPG069_CDS_131	forward	C	T	AC	False	3.0	Node2	CAC	H	ON872184|WA-2022|Ireland|2022-05-30	CAT	H	synonymous			False	1	C	2	ACC	T	ATC	I	nonsynonymous
+72809	OPG092_CDS_108	reverse	T	C		False	3.0	Node2	CGA	R	ON872184|WA-2022|Ireland|2022-05-30	CGG	R	synonymous			False	1	T	1	AAA	K	GAA	E	nonsynonymous
+178541			G	A	GC	False		Node2			ON872184|WA-2022|Ireland|2022-05-30			intergenic			False	1	G	-	-	-	-	-	intergenic
+45108	OPG064_CDS_135	reverse	C	T	TC	True	1.0	Node2	GAA	E	ON853666|MPXV/Germany/2022/RKI084|Germany|2022-06	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	C	2	AGA	R	AAA	K	nonsynonymous
+166391	OPG191_CDS_19	forward	G	A	GA	True	1.0	Node2	GAA	E	ON853671|MPXV/Germany/2022/RKI091|Germany|2022-06	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	G	3	ATG	M	ATA	I	nonsynonymous
+18933			G	A	GA	True		Node2			Node674			intergenic			False	1	G	-	-	-	-	-	intergenic
+90838	OPG111_CDS_89	forward	G	A	GA	True	2.0	Node2	TGA	*	ON838939|8887|Spain|2022-06-06	TAA	*	synonymous			False	1	G	1	GAT	D	AAT	N	nonsynonymous
+94328	OPG114_CDS_86	reverse	G	A	GA	True	3.0	Node2	CTC	L	ON838939|8887|Spain|2022-06-06	CTT	L	synonymous			False	1	G	1	CTA	L	TTA	L	synonymous
+120638	OPG138_CDS_62	reverse	C	T	TC	True	2.0	Node2	AGA	R	ON843163|Monkeypox/PT0048/2022|Portugal|2022-05-13	AAA	K	nonsynonymous	26.0	conservative	False	1	C	3	AAG	K	AAA	K	synonymous
+16125	OPG027_CDS_168	reverse	C	T	TC	True	3.0	Node2	ATG	M	ON843166|Monkeypox/PT0038/2022|Portugal|2022-05-24	ATA	I	nonsynonymous	10.0	conservative	False	1	C	1	GAG	E	AAG	K	nonsynonymous
+93828	OPG113_CDS_87	forward	G	A	GA	True	2.0	Node2	CGA	R	ON843166|Monkeypox/PT0038/2022|Portugal|2022-05-24	CAA	Q	nonsynonymous	43.0	conservative	False	1	G	1	GAA	E	AAA	K	nonsynonymous
+138426	OPG155_CDS_46	reverse	C	T	TC	True	2.0	Node2	AGA	R	ON843168|Monkeypox/PT0032/2022|Portugal|2022-05-26	AAA	K	nonsynonymous	26.0	conservative	False	1	C	3	CAG	Q	CAA	Q	synonymous
+138956	OPG156_CDS_45	reverse	C	T	TC	True	3.0	Node2	ACG	T	ON843168|Monkeypox/PT0032/2022|Portugal|2022-05-26	ACA	T	synonymous			False	1	C	1	GAA	E	AAA	K	nonsynonymous
+49821	OPG068_CDS_132	forward	G	A	GA	True	2.0	Node2	AGA	R	ON843173|Monkeypox/PT0029/2022|Portugal|2022-05-27	AAA	K	nonsynonymous	26.0	conservative	False	1	G	1	GAA	E	AAA	K	nonsynonymous
+45851	OPG064_CDS_135	reverse	G	A	GC	False	2.0	Node2	GCC	A	ON843174|Monkeypox/PT0046/2022|Portugal|2022-05-30	GTC	V	nonsynonymous	64.0	moderately conservative	False	1	G	3	TGC	C	TGT	C	synonymous
+136299	OPG153_CDS_48	reverse	C	T	TC	True	3.0	Node2	TTG	L	ON843174|Monkeypox/PT0046/2022|Portugal|2022-05-30	TTA	L	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+142942	OPG164_CDS_37	forward	G	A	GA	True	1.0	Node2	GAG	E	ON843182|Monkeypox/PT0044/2022|Portugal|2022-05-30	AAG	K	nonsynonymous	56.0	moderately conservative	False	1	G	3	AAG	K	AAA	K	synonymous
+2242	OPG002_CDS_177	reverse	G	A	GG	False	2.0	Node2	CCG	P	ON803418|MpxV/human/CAN/UN-NML-2837/2022|Canada|2022-05-18	CTG	L	nonsynonymous	98.0	moderately conservative	False	1	G	3	CCC	P	CCT	P	synonymous
+86004	OPG107_CDS_93	forward	G	A	GA	True	2.0	Node2	TGA	*	ON803418|MpxV/human/CAN/UN-NML-2837/2022|Canada|2022-05-18	TAA	*	synonymous			False	1	G	1	GAG	E	AAG	K	nonsynonymous
+183604	OPG210_CDS_7	forward	C	T	TC	True	3.0	Node2	ATC	I	Node593	ATT	I	synonymous			False	1	C	2	TCA	S	TTA	L	nonsynonymous
+24731	OPG040_CDS_158	reverse	C	T	TC	True	3.0	Node2	CAG	Q	ON803435|MpxV/human/CAN/UN-NML-2893/2022|Canada|2022-05-20	CAA	Q	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+152384			T	A		False		Node2			ON803435|MpxV/human/CAN/UN-NML-2893/2022|Canada|2022-05-20			intergenic			False	1	T	-	-	-	-	-	intergenic
+153104	OPG180_CDS_26	forward	C	T	TC	True	3.0	Node2	ATC	I	ON803435|MpxV/human/CAN/UN-NML-2893/2022|Canada|2022-05-20	ATT	I	synonymous			False	1	C	2	TCT	S	TTT	F	nonsynonymous
+23766	OPG039_CDS_159	reverse	C	T	CC	False	1.0	Node2	GGA	G	ON803443|MpxV/human/CAN/UN-NML-2975/2022|Canada|2022-05-16	AGA	R	nonsynonymous	125.0	moderately radical	False	1	C	2	TGG	W	TAG	*	nonsense
+21069			G	A	GA	True		Node2			ON803444|MpxV/human/CAN/UN-NML-2969/2022|Canada|2022-05-24			intergenic			False	1	G	-	-	-	-	-	intergenic
+20576	OPG036_CDS_162	reverse	G	A	GA	True	2.0	Node2	TCA	S	ON808416|CVR_MPXV1d|United_Kingdom|2022-05-15	TTA	L	nonsynonymous	145.0	moderately radical	False	1	G	3	CTC	L	CTT	L	synonymous
+24824	OPG040_CDS_158	reverse	C	T	TC	True	3.0	Node2	TCG	S	ON755241|MPXV/Germany/2022/RKI035|Germany|2022-06	TCA	S	synonymous			False	1	C	1	GAT	D	AAT	N	nonsynonymous
+29990	OPG047_CDS_152	reverse	C	T	AC	False	1.0	Node2	GTG	V	ON755247|MPXV/Germany/2022/RKI041|Germany|2022-06	ATG	M	nonsynonymous	21.0	conservative	False	1	C	2	TGT	C	TAT	Y	nonsynonymous
+187418			G	A	GA	True		Node2			ON755247|MPXV/Germany/2022/RKI041|Germany|2022-06			intergenic			False	1	G	-	-	-	-	-	intergenic
+187567			G	A	GA	True		Node2			ON755247|MPXV/Germany/2022/RKI041|Germany|2022-06			intergenic			False	1	G	-	-	-	-	-	intergenic
+50151	OPG069_CDS_131	forward	G	A	GA	True	2.0	Node2	AGA	R	ON745225|MpxV/Spain/MD-HGUGM-66649483/2022|Spain|2022-05-27	AAA	K	nonsynonymous	26.0	conservative	False	1	G	1	GAC	D	AAC	N	nonsynonymous
+119735	OPG137_CDS_63	forward	T	C		False	3.0	Node2	GGT	G	ON736420|MPX/2022/Canada/AB1|Canada|2022-05-31	GGC	G	synonymous			False	1	T	2	GTA	V	GCA	A	nonsynonymous
+149818	OPG176_CDS_28	forward	G	A	GA	True	2.0	Node2	TGA	*	ON694335|MPXV/Germany/2022/RKI018|Germany|2022-05	TAA	*	synonymous			False	1	G	1	GAT	D	AAT	N	nonsynonymous
+149818	OPG175_CDS_29	forward	G	A	GA	True	3.0	Node2	TTG	L	ON694335|MPXV/Germany/2022/RKI018|Germany|2022-05	TTA	L	synonymous			False	1	G	2	TGA	*	TAA	*	synonymous
+151362			G	A	GA	True		Node2			ON694335|MPXV/Germany/2022/RKI018|Germany|2022-05			intergenic			False	1	G	-	-	-	-	-	intergenic
+168174			G	A	GA	True		Node2			ON694341|MPXV/Germany/2022/RKI012|Germany|2022-05			intergenic			False	1	G	-	-	-	-	-	intergenic
+4454	OPG003_CDS_176	reverse	G	A	GA	True	3.0	Node2	CTC	L	Node703	CTT	L	synonymous			False	1	G	1	CAT	H	TAT	Y	nonsynonymous
+127628	OPG149_CDS_51	forward	C	T	TC	True	2.0	Node2	TCC	S	ON676704|MPXV_USA_2022_FL002|USA|2022-05	TTC	F	nonsynonymous	155.0	radical	False	1	C	1	CCG	P	TCG	S	nonsynonymous
+133864			C	T	TC	True		Node2			ON676704|MPXV_USA_2022_FL002|USA|2022-05			intergenic			False	1	C	-	-	-	-	-	intergenic
+28330	OPG044_CDS_155	forward	G	A	GA	True	1.0	Node2	GAG	E	ON676705|MPXV_USA_2022_UT001|USA|2022-05	AAG	K	nonsynonymous	56.0	moderately conservative	False	1	G	3	ATG	M	ATA	I	nonsynonymous
+169796	OPG197_CDS_15	forward	A	T		False	2.0	Node2	AAT	N	ON645312|MPXV_GSTT_Patient1|United_Kingdom|2022-05-11	TT		nonsynonymous			False	1	A	1	ATA	I	TTA	L	nonsynonymous
+85079	OPG106_CDS_94	reverse	G	A	GT	False	2.0	Node2	ACG	T	ON649715|Monkeypox/PT0017/2022|Portugal|2022-05-20	ATG	M	nonsynonymous	81.0	moderately conservative	False	1	G	3	TAC	Y	TAT	Y	synonymous
+162826	OPG188_CDS_22	forward	C	T	TC	True	2.0	Node2	TCA	S	ON649716|Monkeypox/PT0016/2022|Portugal|2022-05-23	TTA	L	nonsynonymous	145.0	moderately radical	False	1	C	1	CAT	H	TAT	Y	nonsynonymous
+118296	OPG136_CDS_64	reverse	C	T	TC	True	1.0	Node2	GAG	E	ON649717|Monkeypox/PT0019/2022|Portugal|2022-05-21	AAG	K	nonsynonymous	56.0	moderately conservative	False	1	C	2	AGA	R	AAA	K	nonsynonymous
+21128	OPG037_CDS_161	reverse	C	T	TC	True	3.0	Node2	ACG	T	ON631963|MPxV/VIDRL01/2022|Australia|2022-05	ACA	T	synonymous			False	1	C	1	GAA	E	AAA	K	nonsynonymous
+7259			C	T	TC	True		Node2			ON619836|MPXV_UK_2022_2|United_Kingdom|2022-05			intergenic			False	1	C	-	-	-	-	-	intergenic
+33832	OPG052_CDS_147	reverse	C	T	TC	True	1.0	Node2	GAA	E	ON619836|MPXV_UK_2022_2|United_Kingdom|2022-05	AAA	K	nonsynonymous	56.0	moderately conservative	False	1	C	2	CGA	R	CAA	Q	nonsynonymous
+147011	OPG171_CDS_33	forward	C	T	TC	True	1.0	Node2	CGA	R	ON619838|MPXV_UK_2022_4|United_Kingdom|2022-05	TGA	*	nonsense			False	1	C	3	ATC	I	ATT	I	synonymous
+172095			G	A	GA	True		Node2			ON619838|MPXV_UK_2022_4|United_Kingdom|2022-05			intergenic			False	1	G	-	-	-	-	-	intergenic
+46125	OPG065_CDS_134	reverse	C	T	TC	True	1.0	Node2	GAG	E	ON622712|MPX/UZ_REGA_1/Belgium/2022|Belgium|2022-05-19	AAG	K	nonsynonymous	56.0	moderately conservative	False	1	C	2	AGA	R	AAA	K	nonsynonymous
+4629			C	T	TC	True		Node2			ON622713|MPX/UZ_REGA_2/Belgium/2022|Belgium|2022-05-22			intergenic			False	1	C	-	-	-	-	-	intergenic
+155611			G	A	GA	True		Node2			ON615424|MPXV_2022_NL001|Netherlands|2022-05			intergenic			False	1	G	-	-	-	-	-	intergenic
+171003	OPG199_CDS_13	forward	G	A	GA	True	2.0	Node2	GGA	G	ON615424|MPXV_2022_NL001|Netherlands|2022-05	GAA	E	nonsynonymous	98.0	moderately conservative	False	1	G	1	GAA	E	AAA	K	nonsynonymous
+55075	MPXVgp059_CDS_127	reverse	C	T	TC	True	3.0	Node2	CCG	P	ON585033|Monkeypox/PT0006/2022|Portugal|2022-05-15	CCA	P	synonymous			False	1	C	1	GAC	D	AAC	N	nonsynonymous
+127220	OPG149_CDS_51	forward	C	T	TC	True	2.0	Node2	TCA	S	ON585036|Monkeypox/PT0010/2022|Portugal|2022-05-15	TTA	L	nonsynonymous	145.0	moderately radical	False	1	C	1	CAA	Q	TAA	*	nonsense
+127220	OPG148_CDS_52	forward	C	T	TC	True	3.0	Node2	CTC	L	ON585036|Monkeypox/PT0010/2022|Portugal|2022-05-15	CTT	L	synonymous			False	1	C	2	TCA	S	TTA	L	nonsynonymous
+144527			C	T	TC	True		Node2			ON585036|Monkeypox/PT0010/2022|Portugal|2022-05-15			intergenic			False	1	C	1	CCT	P	TCT	S	nonsynonymous
+79348	OPG102_CDS_98	forward	C	T	TC	True	1.0	Node1	CAT	H	ON676708|USA_2021_MD|USA|2021-11-16	TAT	Y	nonsynonymous	83.0	moderately conservative	False	1	C	3	ATC	I	ATT	I	synonymous
+86979	OPG108_CDS_92	reverse	C	T	GC	False	2.0	Node1	AGC	S	ON676708|USA_2021_MD|USA|2021-11-16	AAC	N	nonsynonymous	46.0	conservative	False	1	C	3	GAG	E	GAA	E	synonymous
+133714			C	T	TC	True		Node1			ON676708|USA_2021_MD|USA|2021-11-16			intergenic			False	1	C	-	-	-	-	-	intergenic

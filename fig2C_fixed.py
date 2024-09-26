@@ -8,11 +8,11 @@ app = Dash(__name__)
 
 outfile = "plots/fig2C_fixed.html"
 
-df = pd.read_csv("data/grantham_score_article_pos_aa.csv", sep=',')
+df = pd.read_csv("data/grantham_score_B1_APOBEC.csv", sep=',')
 df = df.reset_index()
 df['parent_aa_v2'] = [x+'_observed' for x in df.parent_aa.tolist()]
-df['mutated_aa_v2'] = [x+'_editing' for x in df.mutated_aa.tolist()]
-df1 = df.groupby(['parent_aa_v2','mutated_aa_v2', 'grantham_rank_color'])['index'].count().reset_index()
+df['child_aa_v2'] = [x+'_editing' for x in df.child_aa.tolist()]
+df1 = df.groupby(['parent_aa_v2','child_aa_v2', 'grantham_rank_color'])['index'].count().reset_index()
 df1.columns = ['source','target', 'grantham_rank_color', 'value']
 df1 = df1.sort_values(by='value', ascending=True)
 
