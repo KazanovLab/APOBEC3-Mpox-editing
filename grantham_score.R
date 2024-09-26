@@ -1,5 +1,12 @@
 # Calculate grantham score
 
+pink <- '#C6878F'
+brown <- '#E07A5F'
+blue <- '#3D405B'
+green1 <- '#5F797B'
+green2 <- '#81B29A'
+yellow <- '#F2CC8F'
+
 grantham <- readr::read_tsv("https://gist.githubusercontent.com/danielecook/501f03650bca6a3db31ff3af2d413d2a/raw/5583a134b36b60762be6cd54002a0f4044338cd0/grantham.tsv") %>%
   tidyr:: gather(SECOND,SCORE, -FIRST) %>% dplyr::filter(SCORE > 0)  
 
