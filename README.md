@@ -10,7 +10,7 @@ Corrected data demonstrates the opposite effect for nonsense mutations – the n
 <img src="plots/fig2A_original.png" width="400"> <img src="plots/fig2A_fixed.png" width="400">
 *(Left) Original Figure 2A from O’Toole et al., Science, 283:595–600, 2023; (Right) Figure 2A replotted with corrected data.* 
 
-##Repository Content
+## Repository Content
 
 The original file containing the reconstructed ancestral state for the B.1 lineage was obtained from the supplementary materials of the O’Toole et al. paper: `hmpxv-apobec3-dd7a582/data/B.1/B.1_2022-08-22.og.aln.pruned.tree.amino_acid.reconstruction.csv`.
 
