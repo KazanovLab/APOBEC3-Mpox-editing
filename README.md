@@ -14,7 +14,7 @@ Corrected data demonstrates the opposite effect for nonsense mutations – the n
 
 The original file containing the reconstructed ancestral state for the B.1 lineage was obtained from the supplementary materials of the O’Toole et al. paper: `hmpxv-apobec3-dd7a582/data/B.1/B.1_2022-08-22.og.aln.pruned.tree.amino_acid.reconstruction.csv`.
 
-`APOBEC3_sites.ipynb` includes transformations of the original data for B.1 lineage mutation sites, code for identifying amino acid changes at these positions, and potential target sites for APOBEC in the Mpox genome. The calculated corrected data are saved in `data/B1_data_fixed.csv` and `data/APOBEC_targets_aa.csv`.
+`APOBEC3_sites.ipynb` includes transformations of the original data for B.1 lineage mutation sites, code for identifying amino acid changes at these positions and potential target sites for APOBEC in the Mpox genome. The calculated corrected data are saved in `data/B1_data_fixed.csv` and `data/APOBEC_targets_aa.csv`.
 
 The `data` folder contains the original file (`B.1_2022-08-22.og.aln.pruned.tree.amino_acid.reconstruction.csv`) as well as the corrected data (`B1_data_fixed.csv`) and the corrected data filtered for APOBEC-signature motifs (`B1_data_fixed_APOBEC.csv`).
 
